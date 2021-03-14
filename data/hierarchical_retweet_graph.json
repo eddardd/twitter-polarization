@@ -1,1 +1,5707 @@
-[{"name": "jairbolsonaro", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "tarcisiogdf", "alexandregarcia", "gen_heleno", "fabiofaria5555", "joaoromaneto"]}, {"name": "GeneralMourao", "imports": []}, {"name": "MarinaSilva", "imports": ["cirogomes", "alessandromolon", "randolfeap", "alessandromolon", "felipeneto", "miriamleitao"]}, {"name": "Haddad_Fernando", "imports": ["fatimabezerra", "lauraabcarvalho", "jandira_feghali", "brasil247", "revistaforum", "folha", "gleisi", "dasilvabenedita", "senadorhumberto", "erikakokay", "gleisi", "fernandapsol", "jandira_feghali", "dasilvabenedita", "samiabomfim", "padilhando", "xicosa", "marcelorubens", "gugachacra", "luisnassif", "pablovillaca", "_pinheira", "gduvivier"]}, {"name": "LulaOficial", "imports": ["costa_rui", "wdiaspi", "fatimabezerra", "luizaerundina", "dilmabr", "jandira_feghali", "brasil247", "revistaforum", "folha", "jeanwyllys_real", "gleisi", "dasilvabenedita", "lindberghfarias", "senadorhumberto", "esuplicy", "natbonavides", "heldersalomao", "gleisi", "enioverri", "mariadorosario", "jandira_feghali", "dasilvabenedita", "luizaerundina", "padilhando", "luisnassif"]}, {"name": "cirogomes", "imports": ["cirogomes", "eduardomoreira", "alessandromolon", "randolfeap", "andrepdt12", "gustavofruet", "alessandromolon", "mario_heringer", "orlandosilva", "reinaldoazevedo"]}, {"name": "GuilhermeBoulos", "imports": ["luizaerundina", "lauraabcarvalho", "dilmabr", "jandira_feghali", "brasil247", "cartacapital", "revistaforum", "folha", "gleisi", "alessandromolon", "dasilvabenedita", "esuplicy", "erikakokay", "gleisi", "fernandapsol", "taliriapetrone", "jandira_feghali", "dasilvabenedita", "alessandromolon", "aureacarolinax", "samiabomfim", "orlandosilva", "luizaerundina", "xicosa", "marcelorubens", "cynaramenezes", "pablovillaca", "felipeneto", "reinaldoazevedo", "gduvivier"]}, {"name": "geraldoalckmin", "imports": []}, {"name": "joaoamoedonovo", "imports": ["joaoamoedonovo", "o_antagonista", "diogomainardi", "marcelvanhattem", "pauloganime"]}, {"name": "GladsonCameli", "imports": ["jdoriajr"]}, {"name": "RenanFilho_", "imports": []}, {"name": "waldezoficial", "imports": ["helderbarbalho"]}, {"name": "wilsonlimaAM", "imports": ["jairbolsonaro", "helderbarbalho", "tarcisiogdf"]}, {"name": "costa_rui", "imports": ["folha", "gugachacra", "cynaramenezes", "luisnassif"]}, {"name": "CamiloSantanaCE", "imports": []}, {"name": "IbaneisOficial", "imports": []}, {"name": "Casagrande_ES", "imports": []}, {"name": "ronaldocaiado", "imports": ["tarcisiogdf", "o_antagonista"]}, {"name": "FlavioDino", "imports": ["jandira_feghali", "brasil247", "cartacapital", "revistaforum", "folha", "tabataamaralsp", "f_trad", "perpetua_acre", "marciojerry", "renildo", "jandira_feghali", "tabataamaralsp", "orlandosilva", "xicosa", "miriamleitao", "henrybugalho"]}, {"name": "MauroMendes40", "imports": []}, {"name": "Reinaldo45psdb", "imports": []}, {"name": "RomeuZema", "imports": []}, {"name": "helderbarbalho", "imports": ["randolfeap"]}, {"name": "joaoazevedolins", "imports": ["joaoazevedolins", "fatimabezerra"]}, {"name": "ratinho_jr", "imports": ["tarcisiogdf"]}, {"name": "PauloCamara40", "imports": []}, {"name": "wdiaspi", "imports": ["fatimabezerra", "o_antagonista"]}, {"name": "claudiocastroRJ", "imports": []}, {"name": "fatimabezerra", "imports": ["fatimabezerra", "natbonavides"]}, {"name": "EduardoLeite_", "imports": []}, {"name": "celmarcosrocha", "imports": []}, {"name": "antoniodenarium", "imports": ["jairbolsonaro", "antoniodenarium", "jhonatan_djesus", "fabiofaria5555"]}, {"name": "CarlosMoises", "imports": ["tarcisiogdf"]}, {"name": "jdoriajr", "imports": ["jdoriajr", "folha", "o_antagonista"]}, {"name": "belivaldochagas", "imports": []}, {"name": "maurocarlesse", "imports": []}, {"name": "rsallesmma", "imports": ["jairbolsonaro"]}, {"name": "ernestofaraujo", "imports": ["fabiofaria5555"]}, {"name": "opropriolavo", "imports": ["opropriolavo"]}, {"name": "tarcisiogdf", "imports": ["jairbolsonaro", "tarcisiogdf", "fabiofaria5555", "pedro_lupion"]}, {"name": "DamaresAlves", "imports": ["jairbolsonaro", "ernestofaraujo", "gen_heleno", "fabiofaria5555", "onyxlorenzoni", "joaoromaneto"]}, {"name": "Astro_Pontes", "imports": ["jairbolsonaro"]}, {"name": "CarlosBolsonaro", "imports": ["jairbolsonaro", "ernestofaraujo", "tarcisiogdf", "marcofeliciano"]}, {"name": "eduardomoreira", "imports": ["cirogomes", "luizaerundina", "dilmabr", "jandira_feghali", "brasil247", "jandira_feghali", "luizaerundina", "gugachacra", "felipeneto"]}, {"name": "safbf", "imports": ["cartacapital", "revistaforum", "natbonavides", "fernandapsol", "taliriapetrone", "aureacarolinax", "samiabomfim"]}, {"name": "luizaerundina", "imports": ["cartacapital", "revistaforum", "folha", "esuplicy", "fernandapsol", "taliriapetrone", "aureacarolinax", "samiabomfim", "xicosa", "gduvivier"]}, {"name": "lauraabcarvalho", "imports": ["cirogomes", "lauraabcarvalho", "folha", "o_antagonista", "tabataamaralsp", "alessandromolon", "randolfeap", "alessandromolon", "tabataamaralsp", "xicosa", "miriamleitao", "_pinheira", "slpng_giants_pt"]}, {"name": "MidiaNINJA", "imports": ["cirogomes", "eduardomoreira", "jandira_feghali", "revistaforum", "jeanwyllys_real", "gleisi", "alessandromolon", "randolfeap", "dasilvabenedita", "esuplicy", "natbonavides", "erikakokay", "perpetua_acre", "tuliogadelha", "gleisi", "mariadorosario", "fernandapsol", "taliriapetrone", "jandira_feghali", "dasilvabenedita", "alessandromolon", "dep_padrejoao", "aureacarolinax", "samiabomfim", "pauloteixeira13", "orlandosilva", "padilhando", "xicosa", "marcelorubens", "felipeneto", "gduvivier"]}, {"name": "dilmabr", "imports": ["revistaforum", "gleisi", "gleisi", "orlandosilva", "padilhando"]}, {"name": "jandira_feghali", "imports": ["safbf", "luizaerundina", "jandira_feghali", "senadorhumberto", "f_trad", "perpetua_acre", "renildo", "orlandosilva", "felipeneto", "miriamleitao", "_pinheira", "gduvivier", "slpng_giants_pt"]}, {"name": "J_LIVRES", "imports": ["dilmabr", "cartacapital", "erikakokay", "pauloteixeira13", "padilhando"]}, {"name": "brasil247", "imports": ["dasilvabenedita", "dasilvabenedita"]}, {"name": "TheInterceptBr", "imports": ["xicosa", "felipeneto", "reinaldoazevedo", "henrybugalho", "_pinheira", "slpng_giants_pt"]}, {"name": "cartacapital", "imports": ["cartacapital"]}, {"name": "revistaforum", "imports": ["revistaforum"]}, {"name": "VEJA", "imports": []}, {"name": "folha", "imports": ["reinaldoazevedo"]}, {"name": "EstadaoSaoPaulo", "imports": []}, {"name": "OGloboPolitica", "imports": []}, {"name": "o_antagonista", "imports": ["o_antagonista", "claudioedantas", "diogomainardi"]}, {"name": "CarlaZambelli38", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "opropriolavo", "tarcisiogdf", "alexandregarcia", "gen_heleno", "fabiofaria5555", "paulambelmonte", "filipebarrost", "diegogarciapr", "mariadorosario", "joaoromaneto", "pauloganime", "marciolabre", "majorfabianadep", "carlosjordy", "cabojunioamaral", "alesilva_38", "lpbragancabr"]}, {"name": "MBLivre", "imports": ["jairbolsonaro", "joaoamoedonovo", "jdoriajr", "folha", "o_antagonista", "claudioedantas", "diogomainardi", "arthurmoledoval"]}, {"name": "Rconstantino", "imports": ["jdoriajr"]}, {"name": "claudioedantas", "imports": ["o_antagonista", "claudioedantas", "diogomainardi", "lf_ponde"]}, {"name": "diogomainardi", "imports": ["joaoamoedonovo", "o_antagonista", "claudioedantas"]}, {"name": "alexandregarcia", "imports": []}, {"name": "jeanwyllys_real", "imports": ["cirogomes", "eduardomoreira", "luizaerundina", "lauraabcarvalho", "dilmabr", "jandira_feghali", "brasil247", "cartacapital", "revistaforum", "folha", "jeanwyllys_real", "dasilvabenedita", "natbonavides", "erikakokay", "perpetua_acre", "mariadorosario", "fernandapsol", "jandira_feghali", "dasilvabenedita", "aureacarolinax", "luizaerundina", "xicosa", "marcelorubens", "gugachacra", "cynaramenezes", "luisnassif", "pablovillaca", "felipeneto", "miriamleitao", "henrybugalho", "_pinheira", "gduvivier", "slpng_giants_pt"]}, {"name": "MarceloFreixo", "imports": ["luizaerundina", "jandira_feghali", "revistaforum", "andrepdt12", "taliriapetrone", "aureacarolinax", "samiabomfim", "orlandosilva", "xicosa", "luisnassif", "felipeneto", "slpng_giants_pt"]}, {"name": "FHC", "imports": []}, {"name": "MichelTemer", "imports": []}, {"name": "RodrigoMaia", "imports": ["cirogomes", "depaguinaldo11", "marcospereira04", "felipeneto"]}, {"name": "lhmandetta", "imports": []}, {"name": "davialcolumbre", "imports": ["waldezoficial", "joaoromaneto"]}, {"name": "gen_heleno", "imports": ["gen_heleno"]}, {"name": "ManuelaDavila", "imports": ["lauraabcarvalho", "jandira_feghali", "cartacapital", "revistaforum", "davidmirandario", "alessandromolon", "dasilvabenedita", "esuplicy", "natbonavides", "perpetua_acre", "marciojerry", "mariadorosario", "fernandapsol", "taliriapetrone", "jandira_feghali", "dasilvabenedita", "alessandromolon", "pauloteixeira13", "orlandosilva", "felipeneto", "_pinheira"]}, {"name": "gleisi", "imports": ["fatimabezerra", "dilmabr", "brasil247", "revistaforum", "dasilvabenedita", "lindberghfarias", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "zeca_dirceu", "mariadorosario", "depjorgesolla", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "pauloteixeira13", "padilhando"]}, {"name": "77_frota", "imports": ["cirogomes", "joaoamoedonovo", "jdoriajr", "eduardomoreira", "jandira_feghali", "brasil247", "cartacapital", "revistaforum", "folha", "o_antagonista", "claudioedantas", "diogomainardi", "77_frota", "alessandromolon", "randolfeap", "joicehasselmann", "deppimentel", "jandira_feghali", "alessandromolon", "mario_heringer", "samuelmoreira", "orlandosilva", "bozzellajr", "joicehasselmann", "geninhozuliani", "carlossampaio_", "xicosa", "marcelorubens", "gugachacra", "luisnassif", "reinaldoazevedo", "miriamleitao", "slpng_giants_pt"]}, {"name": "Baleia_Rossi", "imports": ["tabataamaralsp", "alessandromolon", "profdorinha", "paulambelmonte", "perpetua_acre", "rigoni_felipe", "maldaner_celso", "carloschiodini", "elcionepmdb", "denisbezerra", "depmarcelonilo", "depjorgesolla", "caleromarcelo", "samuelmoreira", "rodrigoagost", "dep_paulinho", "orlandosilva", "padilhando"]}, {"name": "tassojereissati", "imports": []}, {"name": "EduGiraoOficial", "imports": []}, {"name": "tabataamaralsp", "imports": ["folha", "o_antagonista", "tabataamaralsp", "profdorinha", "rigoni_felipe"]}, {"name": "davidmirandario", "imports": ["cirogomes", "eduardomoreira", "jandira_feghali", "davidmirandario", "fernandapsol", "taliriapetrone", "jandira_feghali", "aureacarolinax", "samiabomfim", "gugachacra", "felipeneto", "_pinheira", "gduvivier", "slpng_giants_pt"]}, {"name": "alessandromolon", "imports": ["jairbolsonaro", "folha", "alessandromolon", "randolfeap"]}, {"name": "randolfeap", "imports": ["eduardomoreira", "o_antagonista", "tabataamaralsp", "alessandromolon", "randolfeap", "denisbezerra", "tuliogadelha", "alessandromolon", "tabataamaralsp", "orlandosilva"]}, {"name": "dasilvabenedita", "imports": ["jandira_feghali", "brasil247", "cartacapital", "revistaforum", "gleisi", "dasilvabenedita", "lindberghfarias", "senadorhumberto", "rfalcao13", "esuplicy", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "marciojerry", "carlosveraspt", "zeca_dirceu", "enioverri", "mariadorosario", "waldenorpereira", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "aureacarolinax", "pauloteixeira13", "orlandosilva", "padilhando", "xicosa", "cynaramenezes", "pablovillaca", "gduvivier"]}, {"name": "lindberghfarias", "imports": ["dilmabr", "jandira_feghali", "dasilvabenedita", "esuplicy", "jandira_feghali", "dasilvabenedita", "pauloteixeira13", "padilhando", "luisnassif"]}, {"name": "senadorhumberto", "imports": ["dilmabr", "gleisi", "gleisi", "padilhando", "felipeneto"]}, {"name": "rfalcao13", "imports": ["brasil247", "gleisi", "dasilvabenedita", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "enioverri", "depzeneto", "waldenorpereira", "depjorgesolla", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "padilhando"]}, {"name": "esuplicy", "imports": ["gleisi", "tabataamaralsp", "dasilvabenedita", "lindberghfarias", "esuplicy", "gleisi", "dasilvabenedita", "tabataamaralsp", "pauloteixeira13", "padilhando"]}, {"name": "brunocovas", "imports": ["esuplicy"]}, {"name": "KimKataguiri", "imports": ["joaoamoedonovo", "o_antagonista", "claudioedantas", "arthurmoledoval", "marcelvanhattem"]}, {"name": "SenadorRogerio", "imports": ["jandira_feghali", "brasil247", "folha", "jeanwyllys_real", "davialcolumbre", "gleisi", "senadorhumberto", "prof_rosaneide", "gleisi", "jandira_feghali", "padilhando", "emirsader", "reinaldoazevedo"]}, {"name": "arthurmoledoval", "imports": ["joaoamoedonovo", "folha", "arthurmoledoval"]}, {"name": "FernandoHoliday", "imports": ["joaoamoedonovo", "jdoriajr", "folha", "o_antagonista", "claudioedantas", "diogomainardi", "lhmandetta", "arthurmoledoval", "gilsonmarques30", "marcelvanhattem"]}, {"name": "joicehasselmann", "imports": ["jdoriajr", "o_antagonista", "claudioedantas", "77_frota", "joicehasselmann", "deppimentel", "bozzellajr", "gugachacra", "pablovillaca", "slpng_giants_pt"]}, {"name": "vicentinhojr", "imports": []}, {"name": "tiago_dimas", "imports": []}, {"name": "profdorinha", "imports": ["tabataamaralsp", "perpetua_acre", "tabataamaralsp"]}, {"name": "elidiasborges", "imports": []}, {"name": "CelioMouraTO", "imports": ["dilmabr", "gleisi", "dasilvabenedita", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "freianastaciopt", "uczai", "carlosveraspt", "gleisi", "enioverri", "dasilvabenedita", "deppauloguedes", "odaircunhamg", "depleomonteiro", "pauloteixeira13", "padilhando", "luisnassif", "emirsader"]}, {"name": "LaercioFederal", "imports": ["jairbolsonaro", "joaoamoedonovo", "pauloganime", "majorfabianadep", "christinoaureo", "christinoaureo"]}, {"name": "depjoaodanielpt", "imports": ["dilmabr", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "luisnassif"]}, {"name": "GustinhoRibeiro", "imports": ["jairbolsonaro", "fabiofaria5555"]}, {"name": "fabioreis1515", "imports": []}, {"name": "depfmitidieri", "imports": ["belivaldochagas", "felipeneto"]}, {"name": "FabioHenriqueSE", "imports": []}, {"name": "BoscoCosta_SE", "imports": []}, {"name": "DepSheridan", "imports": []}, {"name": "depnicoletti", "imports": []}, {"name": "JoeniaWapichana", "imports": ["tabataamaralsp", "tabataamaralsp"]}, {"name": "jhonatan_djesus", "imports": []}, {"name": "ediolopes", "imports": []}, {"name": "deputadohiran", "imports": []}, {"name": "silviacristinax", "imports": []}, {"name": "DeputadaMariana", "imports": ["tarcisiogdf"]}, {"name": "luciomosquini", "imports": []}, {"name": "jqcassol", "imports": []}, {"name": "netto_expedito", "imports": []}, {"name": "nazif_dr", "imports": []}, {"name": "walteralvesrn", "imports": ["fatimabezerra", "o_antagonista", "walteralvesrn"]}, {"name": "RafaelMottaRN", "imports": ["natbonavides"]}, {"name": "natbonavides", "imports": ["fatimabezerra", "dilmabr", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "taliriapetrone", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "aureacarolinax", "rfalcao13", "pauloteixeira13", "padilhando", "cynaramenezes"]}, {"name": "depjoaomaia", "imports": []}, {"name": "GeneralGirao", "imports": ["jairbolsonaro", "ernestofaraujo", "tarcisiogdf", "alexandregarcia", "gen_heleno", "fabiofaria5555", "diegogarciapr", "lpbragancabr"]}, {"name": "fabiofaria5555", "imports": ["jairbolsonaro", "ratinho_jr", "tarcisiogdf", "gen_heleno"]}, {"name": "benesleocadiorn", "imports": []}, {"name": "prof_rosaneide", "imports": ["dilmabr", "jandira_feghali", "brasil247", "folha", "gleisi", "dasilvabenedita", "senadorhumberto", "rfalcao13", "depjoaodanielpt", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "danilocabral__", "zeca_dirceu", "gleisi", "enioverri", "depzeneto", "jandira_feghali", "dasilvabenedita", "rfalcao13", "pauloteixeira13", "padilhando", "felipeneto", "gduvivier"]}, {"name": "NeriGeller", "imports": []}, {"name": "nelsonbarbudo", "imports": []}, {"name": "JoseMedeirosMT", "imports": ["jairbolsonaro", "tarcisiogdf", "majorfabianadep", "carlosjordy"]}, {"name": "emanuelzinhomt", "imports": []}, {"name": "CarlosBezerraJr", "imports": ["folha", "orlandosilva"]}, {"name": "vanderloubet", "imports": ["gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "LTrutis", "imports": []}, {"name": "TerezaCrisMS", "imports": ["jairbolsonaro", "tarcisiogdf"]}, {"name": "f_trad", "imports": ["f_trad", "marceloramosam"]}, {"name": "dagobertopdt", "imports": ["cirogomes"]}, {"name": "betopereirams", "imports": []}, {"name": "ProfIsrael", "imports": []}, {"name": "paulambelmonte", "imports": ["tarcisiogdf"]}, {"name": "LuisMirandaUSA", "imports": []}, {"name": "JulioCesarRib", "imports": []}, {"name": "JulioCesarRib", "imports": []}, {"name": "erikakokay", "imports": ["gleisi", "senadorhumberto", "uczai", "gleisi", "enioverri", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "padilhando"]}, {"name": "celinaleao", "imports": ["celinaleao"]}, {"name": "Biakicis", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "opropriolavo", "tarcisiogdf", "alexandregarcia", "gen_heleno", "fabiofaria5555", "marceloramosam", "bibonunes1", "carlosjordy", "alesilva_38", "lpbragancabr", "adriventurasp", "roxmo"]}, {"name": "profmarcivania", "imports": ["perpetua_acre"]}, {"name": "CamiloPSB", "imports": ["waldezoficial", "alessandromolon", "randolfeap", "gervasiomaia", "lidicedamata", "alessandromolon", "marcelorubens", "cynaramenezes", "luisnassif"]}, {"name": "dep_alinegurgel", "imports": ["waldezoficial", "cartacapital", "davialcolumbre", "tabataamaralsp", "fabiofaria5555", "lidicedamata", "sorayasantos", "tabataamaralsp", "marcospereira04"]}, {"name": "AcacioFavacho", "imports": []}, {"name": "SilasCamaraAM", "imports": []}, {"name": "sidneyleite_", "imports": []}, {"name": "marceloramosam", "imports": ["o_antagonista", "marceloramosam"]}, {"name": "DelegadoPablo_", "imports": []}, {"name": "capalbertoneto", "imports": ["jairbolsonaro"]}, {"name": "boscosaraiva", "imports": []}, {"name": "perpetua_acre", "imports": ["cirogomes", "jandira_feghali", "folha", "tabataamaralsp", "davidmirandario", "perpetua_acre", "marciojerry", "lidicedamata", "taliriapetrone", "jandira_feghali", "aureacarolinax", "tabataamaralsp", "orlandosilva", "felipeneto", "slpng_giants_pt"]}, {"name": "mararocha4545", "imports": []}, {"name": "jesussergioac", "imports": []}, {"name": "Flaviano_Melo", "imports": []}, {"name": "Vandamilani1", "imports": []}, {"name": "Alan_Rick", "imports": []}, {"name": "terezanelmaal", "imports": []}, {"name": "paulaodopt", "imports": ["dilmabr", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "emirsader"]}, {"name": "NivaldoAlbuque", "imports": []}, {"name": "marxbeltrao", "imports": []}, {"name": "JHC_40", "imports": []}, {"name": "bulhoesjr", "imports": []}, {"name": "ArthurLira_", "imports": ["jhonatan_djesus", "marceloramosam"]}, {"name": "rejane_dias", "imports": []}, {"name": "MargaretCoelho", "imports": []}, {"name": "MarcosA_Sampaio", "imports": []}, {"name": "DepJulioCesarPI", "imports": []}, {"name": "DepJulioCesarPI", "imports": []}, {"name": "iracemaportela", "imports": []}, {"name": "flavionpi", "imports": []}, {"name": "deputadoatila", "imports": []}, {"name": "assis_carvalho", "imports": []}, {"name": "vidigalsergio", "imports": []}, {"name": "laurietecantora", "imports": []}, {"name": "heldersalomao", "imports": ["dilmabr", "brasil247", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "xicosa", "luisnassif"]}, {"name": "DeputadoFoletto", "imports": []}, {"name": "rigoni_felipe", "imports": []}, {"name": "EvairdeMelo", "imports": ["jairbolsonaro", "fabiofaria5555"]}, {"name": "DraManato", "imports": ["jairbolsonaro", "fabiofaria5555"]}, {"name": "depdavitoria", "imports": []}, {"name": "amaronetotv", "imports": []}, {"name": "WilsonSantiago_", "imports": []}, {"name": "ruycarneiropb", "imports": []}, {"name": "pedroocl", "imports": []}, {"name": "JulianLemosopb1", "imports": ["o_antagonista"]}, {"name": "HugoMottaPB", "imports": []}, {"name": "gervasiomaia", "imports": ["alessandromolon", "gervasiomaia", "denisbezerra", "alessandromolon"]}, {"name": "freianastaciopt", "imports": ["gleisi", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "uczai", "carlosveraspt", "gleisi", "enioverri", "mariadorosario", "waldenorpereira", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "pauloteixeira13", "padilhando"]}, {"name": "efraimfilho", "imports": []}, {"name": "depaguinaldo11", "imports": []}, {"name": "coelho_rodrigo", "imports": ["jairbolsonaro", "tarcisiogdf", "folha", "o_antagonista", "fabiofaria5555", "marceloramosam", "rigoni_felipe", "coelho_rodrigo", "depdarcidematos", "marcelvanhattem", "adriventurasp"]}, {"name": "uczai", "imports": ["brasil247", "gleisi", "rfalcao13", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "depzeneto", "waldenorpereira", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "rfalcao13", "pauloteixeira13", "padilhando", "xicosa", "luisnassif"]}, {"name": "deputadopeninha", "imports": ["jairbolsonaro", "fabiofaria5555"]}, {"name": "gilsonmarques30", "imports": ["gilsonmarques30", "marcelvanhattem", "pauloganime"]}, {"name": "geovaniadesa", "imports": []}, {"name": "depdarcidematos", "imports": []}, {"name": "DFDanielFreitas", "imports": ["jairbolsonaro", "rsallesmma", "tarcisiogdf", "fabiofaria5555", "majorfabianadep", "carlosjordy", "cabojunioamaral"]}, {"name": "cel_armando", "imports": ["jairbolsonaro"]}, {"name": "maldaner_celso", "imports": ["maldaner_celso", "_sergiosouza"]}, {"name": "CarolDeToni", "imports": ["opropriolavo"]}, {"name": "carloschiodini", "imports": []}, {"name": "DeputadaAngela", "imports": []}, {"name": "vavamartinspa", "imports": ["jairbolsonaro"]}, {"name": "Priante15", "imports": ["helderbarbalho"]}, {"name": "OLIVALMARQUES", "imports": []}, {"name": "DepNilsonPinto", "imports": []}, {"name": "depjpassarinho", "imports": ["tarcisiogdf", "fabiofaria5555"]}, {"name": "elcionepmdb", "imports": ["cartacapital", "o_antagonista", "diogomainardi", "prof_rosaneide", "elcionepmdb", "fernandapsol", "aureacarolinax", "padilhando"]}, {"name": "EdmilsonPSOL", "imports": ["luizaerundina", "dasilvabenedita", "esuplicy", "depjoaodanielpt", "dasilvabenedita", "aureacarolinax", "samiabomfim", "luizaerundina", "xicosa", "reinaldoazevedo", "gduvivier"]}, {"name": "EderMauroPA", "imports": ["jairbolsonaro", "tarcisiogdf", "alexandregarcia", "fabiofaria5555", "filipebarrost", "carlosjordy", "marcofeliciano", "roxmo"]}, {"name": "depcelsosabino", "imports": []}, {"name": "cassio_40", "imports": []}, {"name": "BetoFaroPT", "imports": ["helderbarbalho", "brasil247", "revistaforum", "folha", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "gugachacra"]}, {"name": "FaleiroAirton", "imports": ["costa_rui", "revistaforum", "gleisi", "dasilvabenedita", "senadorhumberto", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "luisnassif", "emirsader", "felipeneto", "reinaldoazevedo"]}, {"name": "ZeMarioGO", "imports": ["ronaldocaiado"]}, {"name": "RubensOtoni", "imports": ["gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "profalcids", "imports": []}, {"name": "MajorVitorHugo", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "tarcisiogdf", "gen_heleno", "diegogarciapr", "onyxlorenzoni", "majorfabianadep", "carlosjordy", "erosbiondini", "cabojunioamaral"]}, {"name": "MajorVitorHugo", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "tarcisiogdf", "gen_heleno", "diegogarciapr", "onyxlorenzoni", "majorfabianadep", "carlosjordy", "erosbiondini", "cabojunioamaral"]}, {"name": "MofattoMagda", "imports": ["jairbolsonaro"]}, {"name": "joaocamposdep", "imports": []}, {"name": "joaocamposdep", "imports": []}, {"name": "glaustindafokus", "imports": ["ronaldocaiado"]}, {"name": "franciscojr_go", "imports": []}, {"name": "FlviaMo74599829", "imports": []}, {"name": "EliasVazGyn", "imports": []}, {"name": "delegado_waldir", "imports": []}, {"name": "adrianodobaldy", "imports": []}, {"name": "Dep_ZeCarlosPT", "imports": ["gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "depPedroLucasF", "imports": ["luisa_canziani"]}, {"name": "pastorgil_", "imports": ["jairbolsonaro", "ernestofaraujo", "tarcisiogdf"]}, {"name": "marciojerry", "imports": ["cirogomes", "eduardomoreira", "luizaerundina", "jandira_feghali", "brasil247", "cartacapital", "revistaforum", "folha", "f_trad", "perpetua_acre", "marciojerry", "renildo", "jandira_feghali", "pauloteixeira13", "orlandosilva", "luizaerundina", "xicosa", "gugachacra", "cynaramenezes", "luisnassif", "felipeneto", "reinaldoazevedo"]}, {"name": "DepJuscelino", "imports": []}, {"name": "depmarrecafilho", "imports": []}, {"name": "josimarPL22", "imports": []}, {"name": "RochaHildorocha", "imports": []}, {"name": "gilcutrim", "imports": []}, {"name": "EduardoBraide", "imports": []}, {"name": "EdilazioJunior_", "imports": ["marcofeliciano"]}, {"name": "CleberVerde10", "imports": []}, {"name": "BiradoPindare", "imports": ["cirogomes", "brasil247", "cartacapital", "folha", "alessandromolon", "mariadorosario", "alessandromolon", "aureacarolinax", "gduvivier"]}, {"name": "DepAndreFufuca", "imports": []}, {"name": "AluisioMendesMA", "imports": []}, {"name": "VaidonOliveira", "imports": []}, {"name": "DepFederalMoses", "imports": []}, {"name": "deputadomaurobf", "imports": []}, {"name": "LuizianneLinsPT", "imports": ["dilmabr", "gleisi", "dasilvabenedita", "rfalcao13", "natbonavides", "prof_rosaneide", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "padilhando"]}, {"name": "joseleonidas", "imports": ["cirogomes"]}, {"name": "JuniorManoDep", "imports": []}, {"name": "JoseAirtonPT", "imports": []}, {"name": "IdilvanAlencar", "imports": ["cirogomes"]}, {"name": "HeitorFreireCE", "imports": []}, {"name": "guimaraes13PT", "imports": ["costa_rui", "eduardomoreira", "dilmabr", "jandira_feghali", "brasil247", "cartacapital", "revistaforum", "folha", "jeanwyllys_real", "gleisi", "davidmirandario", "alessandromolon", "dasilvabenedita", "lindberghfarias", "senadorhumberto", "esuplicy", "prof_rosaneide", "vanderloubet", "perpetua_acre", "heldersalomao", "renildo", "carlosveraspt", "zeca_dirceu", "gleisi", "fernandapsol", "waldenorpereira", "jandira_feghali", "dasilvabenedita", "alessandromolon", "deppauloguedes", "pauloteixeira13", "padilhando", "gugachacra", "luisnassif", "emirsader", "felipeneto", "reinaldoazevedo", "miriamleitao", "gduvivier"]}, {"name": "DepGenecias", "imports": []}, {"name": "eduardobismarck", "imports": ["felipeneto"]}, {"name": "Domingos_Neto", "imports": []}, {"name": "denisbezerra", "imports": []}, {"name": "CelioStudart", "imports": []}, {"name": "capitao_wagner", "imports": []}, {"name": "andrepdt12", "imports": ["cirogomes", "cartacapital", "alessandromolon", "randolfeap", "dagobertopdt", "joseleonidas", "andrepdt12", "fernandapsol", "alessandromolon", "samiabomfim", "xicosa", "felipeneto"]}, {"name": "WolneyQueirozM", "imports": ["cirogomes"]}, {"name": "tuliogadelha", "imports": ["cirogomes"]}, {"name": "Silvio_CFilho", "imports": ["o_antagonista", "marcospereira04"]}, {"name": "renildo", "imports": ["orlandosilva"]}, {"name": "MariliaArraes", "imports": ["fatimabezerra", "dilmabr", "brasil247", "cartacapital", "gleisi", "dasilvabenedita", "natbonavides", "gleisi", "mariadorosario", "dasilvabenedita", "padilhando", "xicosa", "emirsader", "gduvivier"]}, {"name": "JoaoCampos", "imports": ["tabataamaralsp", "felipecarreras", "lidicedamata"]}, {"name": "JoaoCampos", "imports": ["felipecarreras", "lidicedamata", "tabataamaralsp"]}, {"name": "fernandofilhope", "imports": ["jairbolsonaro", "davialcolumbre"]}, {"name": "felipecarreras", "imports": ["maldaner_celso", "felipecarreras"]}, {"name": "eduardodafonte", "imports": []}, {"name": "danilocabral__", "imports": ["eduardomoreira", "folha"]}, {"name": "daniloc4010", "imports": []}, {"name": "carlosveraspt", "imports": ["dilmabr", "brasil247", "gleisi", "dasilvabenedita", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "pauloteixeira13", "padilhando", "emirsader", "reinaldoazevedo"]}, {"name": "dep_acoutinho", "imports": []}, {"name": "zeca_dirceu", "imports": ["dilmabr", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "xicosa", "gduvivier"]}, {"name": "deputadotoninho", "imports": []}, {"name": "_sergiosouza", "imports": []}, {"name": "Schiavinato_", "imports": ["jairbolsonaro", "ratinho_jr", "tarcisiogdf", "marceloramosam"]}, {"name": "SargentoFAHUR", "imports": []}, {"name": "SandroAlex5555", "imports": ["ratinho_jr", "tarcisiogdf"]}, {"name": "23rubensbueno", "imports": []}, {"name": "RicardoBarrosPP", "imports": []}, {"name": "pedro_lupion", "imports": ["jairbolsonaro", "fabiofaria5555"]}, {"name": "neyleprevost", "imports": ["ratinho_jr"]}, {"name": "luizaogoulart", "imports": ["luizaogoulart"]}, {"name": "LuizNishimori", "imports": []}, {"name": "luisa_canziani", "imports": ["ratinho_jr", "tarcisiogdf", "rigoni_felipe"]}, {"name": "LucianoDucci", "imports": ["natbonavides"]}, {"name": "gustavofruet", "imports": ["jairbolsonaro", "cirogomes", "gustavofruet", "reinaldoazevedo"]}, {"name": "gleisi", "imports": ["fatimabezerra", "dilmabr", "brasil247", "revistaforum", "lindberghfarias", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "zeca_dirceu", "mariadorosario", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "pauloteixeira13", "padilhando"]}, {"name": "fernandogiacobo", "imports": []}, {"name": "filipebarrost", "imports": ["jairbolsonaro", "ernestofaraujo", "opropriolavo", "o_antagonista", "alexandregarcia", "gen_heleno", "fabiofaria5555", "marceloramosam", "depcelsosabino", "diegogarciapr", "majorfabianadep", "carlosjordy", "cabojunioamaral", "alesilva_38", "marcofeliciano", "lpbragancabr", "diegoescosteguy", "roxmo"]}, {"name": "FFrancischini_", "imports": []}, {"name": "enioverri", "imports": ["dilmabr", "gleisi", "rfalcao13", "natbonavides", "erikakokay", "heldersalomao", "freianastaciopt", "zeca_dirceu", "gleisi", "depzeneto", "dep_padrejoao", "rfalcao13", "pauloteixeira13", "padilhando", "xicosa", "cynaramenezes", "emirsader", "felipeneto", "miriamleitao"]}, {"name": "diegogarciapr", "imports": ["jairbolsonaro"]}, {"name": "ChristianeYared", "imports": []}, {"name": "BocaAbertaOf", "imports": ["jairbolsonaro"]}, {"name": "aroldomartins", "imports": []}, {"name": "AlineSleutjes", "imports": []}, {"name": "alielmachado", "imports": ["eduardomoreira", "gugachacra"]}, {"name": "PompeodeMattos", "imports": ["cirogomes", "andrepdt12"]}, {"name": "pedrowestphalen", "imports": []}, {"name": "DeputadoFederal", "imports": ["brasil247", "cartacapital", "padilhando", "xicosa", "luisnassif", "emirsader", "_pinheira"]}, {"name": "OsmarTerra", "imports": ["jairbolsonaro", "ronaldocaiado", "alexandregarcia", "paulambelmonte", "filipebarrost", "carlosjordy"]}, {"name": "onyxlorenzoni", "imports": ["jairbolsonaro", "rsallesmma", "tarcisiogdf", "fabiofaria5555", "onyxlorenzoni"]}, {"name": "mauricioptbrs", "imports": ["jairbolsonaro", "folha", "o_antagonista"]}, {"name": "deputado_marlon", "imports": []}, {"name": "mariadorosario", "imports": ["fatimabezerra", "dilmabr", "brasil247", "revistaforum", "gleisi", "dasilvabenedita", "esuplicy", "gleisi", "lidicedamata", "dasilvabenedita", "padilhando", "xicosa", "gduvivier"]}, {"name": "marciobiolchi", "imports": []}, {"name": "marcelvanhattem", "imports": ["paulambelmonte", "marceloramosam", "gilsonmarques30", "pauloganime", "lucasvgonzalez", "adriventurasp"]}, {"name": "LucasRedecker", "imports": ["rsallesmma", "betopereirams", "pedroocl"]}, {"name": "LizianeBayer", "imports": []}, {"name": "jeronimogoergen", "imports": ["jeronimogoergen", "pauloganime"]}, {"name": "HenriqueFontana", "imports": ["eduardomoreira", "dilmabr", "jandira_feghali", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "fernandapsol", "depzeneto", "waldenorpereira", "depjorgesolla", "jandira_feghali", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "HeitorSchuch", "imports": []}, {"name": "GiovaniFeltes", "imports": []}, {"name": "giovanicherini", "imports": []}, {"name": "fernandapsol", "imports": ["eduardomoreira", "luizaerundina", "folha", "taliriapetrone", "samiabomfim", "luizaerundina", "cynaramenezes", "felipeneto", "_pinheira", "slpng_giants_pt"]}, {"name": "CovattiFilho", "imports": []}, {"name": "carlosgomesdep", "imports": []}, {"name": "BohnGass", "imports": ["gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "bibonunes1", "imports": ["jairbolsonaro", "fabiofaria5555", "bibonunes1"]}, {"name": "Alceu_Moreira", "imports": ["rsallesmma", "tarcisiogdf"]}, {"name": "afonso_motta", "imports": []}, {"name": "depzeneto", "imports": ["costa_rui", "brasil247"]}, {"name": "waldenorpereira", "imports": ["costa_rui", "dasilvabenedita", "rfalcao13", "prof_rosaneide", "zeca_dirceu", "mariadorosario", "dasilvabenedita", "deppauloguedes", "rfalcao13", "pauloteixeira13"]}, {"name": "DepValmir", "imports": ["costa_rui", "dilmabr", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "sergiobritoBA", "imports": []}, {"name": "raimundocostaba", "imports": []}, {"name": "deppimentel", "imports": ["o_antagonista", "bozzellajr"]}, {"name": "nelsonpelegrino", "imports": ["costa_rui", "dilmabr"]}, {"name": "PauloAzi", "imports": []}, {"name": "AbilioSantanaBA", "imports": []}, {"name": "OttoAlencarFilh", "imports": []}, {"name": "dpmarciomarinho", "imports": ["marcospereira04"]}, {"name": "depmarcelonilo", "imports": []}, {"name": "lidicedamata", "imports": ["cirogomes", "costa_rui", "jandira_feghali", "revistaforum", "gleisi", "alessandromolon", "randolfeap", "perpetua_acre", "denisbezerra", "felipecarreras", "carlosveraspt", "gleisi", "mariadorosario", "taliriapetrone", "jandira_feghali", "alessandromolon", "aureacarolinax", "samiabomfim"]}, {"name": "LeurLomantoJr", "imports": []}, {"name": "josiasgomesba", "imports": ["costa_rui", "xicosa"]}, {"name": "dep_joserocha", "imports": []}, {"name": "JoseNunesDep", "imports": []}, {"name": "depjorgesolla", "imports": ["costa_rui", "eduardomoreira", "folha", "gleisi", "senadorhumberto", "rfalcao13", "depjoaodanielpt", "freianastaciopt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depjorgesolla", "rfalcao13", "orlandosilva", "padilhando", "xicosa", "gugachacra", "reinaldoazevedo"]}, {"name": "joaoromaneto", "imports": ["jairbolsonaro", "tarcisiogdf"]}, {"name": "FelixMendoncaJr", "imports": []}, {"name": "Daniel_PCdoB", "imports": ["jandira_feghali", "jandira_feghali", "orlandosilva"]}, {"name": "deputadocajado", "imports": []}, {"name": "CacaLeao", "imports": ["tarcisiogdf", "fabiofaria5555", "marceloramosam", "christinoaureo", "christinoaureo"]}, {"name": "DepArthurMaia", "imports": ["o_antagonista", "marcelvanhattem"]}, {"name": "Alice_Portugal", "imports": ["jandira_feghali", "brasil247", "jandira_feghali", "orlandosilva", "xicosa"]}, {"name": "depalexsantana", "imports": []}, {"name": "AfonsoFlorence", "imports": ["costa_rui", "dilmabr", "revistaforum", "gleisi", "dasilvabenedita", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "erikakokay", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "waldenorpereira", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "padilhando"]}, {"name": "AdolfoViana_", "imports": []}, {"name": "WladGarotinho", "imports": []}, {"name": "taliriapetrone", "imports": ["luizaerundina", "lauraabcarvalho", "natbonavides", "fernandapsol", "taliriapetrone", "aureacarolinax", "samiabomfim", "luizaerundina"]}, {"name": "DepSostenes", "imports": ["jairbolsonaro", "folha", "o_antagonista", "alexandregarcia", "fabiofaria5555", "marcelvanhattem"]}, {"name": "rosangelasgomes", "imports": ["jhonatan_djesus", "marceloramosam"]}, {"name": "sorayasantos", "imports": ["jhonatan_djesus"]}, {"name": "RodrigoMaia", "imports": ["cirogomes", "depaguinaldo11", "marcospereira04", "felipeneto"]}, {"name": "pedropaulo", "imports": []}, {"name": "professorjoziel", "imports": []}, {"name": "pauloganime", "imports": ["joaoamoedonovo", "o_antagonista", "claudioedantas", "arthurmoledoval", "paulambelmonte", "gilsonmarques30", "marcelvanhattem", "pauloganime", "christinoaureo", "christinoaureo", "lucasvgonzalez", "adriventurasp"]}, {"name": "OtoniDepFederal", "imports": []}, {"name": "marciolabre", "imports": ["jairbolsonaro", "alexandregarcia", "lpbragancabr"]}, {"name": "MarceloFreixo", "imports": ["revistaforum", "andrepdt12", "taliriapetrone", "jandira_feghali", "aureacarolinax", "samiabomfim", "orlandosilva", "luizaerundina", "xicosa", "luisnassif", "felipeneto", "slpng_giants_pt"]}, {"name": "caleromarcelo", "imports": ["jdoriajr", "folha", "claudioedantas", "diogomainardi", "tabataamaralsp", "pedropaulo", "christinoaureo", "christinoaureo", "tabataamaralsp", "gugachacra", "miriamleitao"]}, {"name": "majorfabianadep", "imports": ["jairbolsonaro", "fabiofaria5555", "marciolabre", "majorfabianadep", "carlosjordy"]}, {"name": "Oficialluizlima", "imports": ["jairbolsonaro"]}, {"name": "depluizantonio", "imports": []}, {"name": "LourivalGomesrj", "imports": []}, {"name": "JuninhodoPneu", "imports": []}, {"name": "jandira_feghali", "imports": ["safbf", "senadorhumberto", "f_trad", "perpetua_acre", "renildo", "jandira_feghali", "orlandosilva", "luizaerundina", "felipeneto", "miriamleitao", "_pinheira", "gduvivier", "slpng_giants_pt"]}, {"name": "depHugoLeal", "imports": []}, {"name": "depHugoLeal", "imports": []}, {"name": "HlioFernandoBa1", "imports": []}, {"name": "Glauber_Braga", "imports": ["safbf", "luizaerundina", "brasil247", "revistaforum", "jeanwyllys_real", "davidmirandario", "natbonavides", "marciojerry", "fernandapsol", "taliriapetrone", "aureacarolinax", "samiabomfim", "luizaerundina", "xicosa", "cynaramenezes", "luisnassif"]}, {"name": "depflordelis", "imports": []}, {"name": "FederalFelicio", "imports": []}, {"name": "DelegadoFurtado", "imports": []}, {"name": "DanielaWaguinho", "imports": []}, {"name": "danielPMERJ", "imports": []}, {"name": "ToniettoChris", "imports": ["filipebarrost"]}, {"name": "BrazaoChiquinho", "imports": []}, {"name": "carlosjordy", "imports": ["rsallesmma", "o_antagonista", "alexandregarcia", "cel_armando", "depcelsosabino", "capitao_wagner", "filipebarrost", "diegogarciapr", "carlosjordy"]}, {"name": "dasilvabenedita", "imports": ["brasil247", "cartacapital", "revistaforum", "lindberghfarias", "senadorhumberto", "esuplicy", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "marciojerry", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "waldenorpereira", "jandira_feghali", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "aureacarolinax", "rfalcao13", "pauloteixeira13", "orlandosilva", "padilhando", "xicosa", "cynaramenezes", "pablovillaca", "gduvivier"]}, {"name": "christinoaureo", "imports": ["christinoaureo"]}, {"name": "christinoaureo", "imports": ["christinoaureo"]}, {"name": "Altineu", "imports": []}, {"name": "AleSerfiotis", "imports": []}, {"name": "alessandromolon", "imports": ["jairbolsonaro", "folha", "randolfeap", "alessandromolon"]}, {"name": "zevitor_mg", "imports": []}, {"name": "ZeSilva_", "imports": []}, {"name": "pradoweliton", "imports": []}, {"name": "TiagoMitraud", "imports": ["joaoamoedonovo", "gilsonmarques30", "marcelvanhattem", "pauloganime", "caleromarcelo", "adriventurasp"]}, {"name": "subgonzagamg", "imports": []}, {"name": "depstefano", "imports": []}, {"name": "RogerioCorreia_", "imports": ["jairbolsonaro", "dilmabr", "brasil247", "revistaforum", "folha", "gleisi", "dasilvabenedita", "lindberghfarias", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "fernandapsol", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "aureacarolinax", "rfalcao13", "pauloteixeira13", "padilhando", "emirsader", "felipeneto"]}, {"name": "RodrigoCastro45", "imports": []}, {"name": "ReginaldoLopes", "imports": ["dilmabr", "brasil247", "revistaforum", "gleisi", "dasilvabenedita", "natbonavides", "prof_rosaneide", "heldersalomao", "gleisi", "dasilvabenedita"]}, {"name": "deppauloguedes", "imports": ["dilmabr", "gleisi", "dasilvabenedita", "rfalcao13", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "dasilvabenedita", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "Patrus_Ananias", "imports": ["jairbolsonaro", "lauraabcarvalho", "dilmabr", "jandira_feghali", "brasil247", "revistaforum", "folha", "gleisi", "tabataamaralsp", "dasilvabenedita", "lindberghfarias", "senadorhumberto", "rfalcao13", "esuplicy", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "jandira_feghali", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "aureacarolinax", "tabataamaralsp", "samiabomfim", "rfalcao13", "pauloteixeira13", "padilhando", "xicosa", "marcelorubens", "gugachacra", "luisnassif", "pablovillaca", "emirsader", "felipeneto", "_pinheira", "slpng_giants_pt"]}, {"name": "dep_padrejoao", "imports": ["gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "odaircunhamg", "depleomonteiro", "rfalcao13", "padilhando"]}, {"name": "odaircunhamg", "imports": ["dilmabr", "brasil247", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "f_trad", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "xicosa", "emirsader"]}, {"name": "newton1510", "imports": ["jairbolsonaro"]}, {"name": "depmaurolopes", "imports": []}, {"name": "JFMargarida", "imports": ["dilmabr", "brasil247", "cartacapital", "revistaforum", "gleisi", "dasilvabenedita", "rfalcao13", "esuplicy", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "achinaglia", "padilhando"]}, {"name": "marceloaro", "imports": []}, {"name": "Marceloalvaroan", "imports": ["jairbolsonaro", "tarcisiogdf"]}, {"name": "LuisTibeOficial", "imports": []}, {"name": "lucasvgonzalez", "imports": ["o_antagonista", "pauloganime"]}, {"name": "lincoln_portela", "imports": ["jairbolsonaro"]}, {"name": "depleomonteiro", "imports": ["gleisi", "prof_rosaneide", "uczai", "zeca_dirceu", "gleisi", "waldenorpereira", "deppauloguedes"]}, {"name": "leomotta_ofc", "imports": []}, {"name": "depjuliodelgado", "imports": []}, {"name": "oficialigortimo", "imports": []}, {"name": "herciliodiniz", "imports": []}, {"name": "gilbertoabramo", "imports": ["marcospereira04"]}, {"name": "FredCostaDep", "imports": []}, {"name": "FrancoCartafina", "imports": []}, {"name": "_FabinhoRamalho", "imports": []}, {"name": "EuclydesPetter", "imports": []}, {"name": "erosbiondini", "imports": ["jairbolsonaro", "ronaldocaiado", "rsallesmma", "tarcisiogdf", "alexandregarcia", "fabiofaria5555", "majorfabianadep"]}, {"name": "eduardobarbosa_", "imports": []}, {"name": "mario_heringer", "imports": []}, {"name": "DomingosSavioMG", "imports": []}, {"name": "depdimasfabiano", "imports": []}, {"name": "DelegadoFreitas", "imports": []}, {"name": "charllesevg", "imports": []}, {"name": "cabojunioamaral", "imports": ["opropriolavo", "cabojunioamaral"]}, {"name": "depbilacpinto", "imports": []}, {"name": "aureacarolinax", "imports": ["safbf", "luizaerundina", "dilmabr", "cartacapital", "folha", "davidmirandario", "tuliogadelha", "fernandapsol", "taliriapetrone", "aureacarolinax", "samiabomfim", "luizaerundina", "gduvivier"]}, {"name": "AndreJanonesAdv", "imports": ["eduardomoreira", "o_antagonista", "paulambelmonte"]}, {"name": "alesilva_38", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "tarcisiogdf", "claudioedantas", "gen_heleno", "fabiofaria5555", "majorfabianadep", "carlosjordy", "cabojunioamaral", "alesilva_38", "marcofeliciano", "lpbragancabr", "roxmo"]}, {"name": "AecioNeves", "imports": []}, {"name": "DepVitorLippi", "imports": []}, {"name": "ViniciusPoit", "imports": ["joaoamoedonovo", "joicehasselmann", "rigoni_felipe", "gilsonmarques30", "marcelvanhattem", "pauloganime", "adriventurasp"]}, {"name": "ViniciusPoit", "imports": ["joaoamoedonovo", "rigoni_felipe", "gilsonmarques30", "marcelvanhattem", "pauloganime", "joicehasselmann", "adriventurasp"]}, {"name": "viniciusfederal", "imports": []}, {"name": "VICENTINHOPT", "imports": ["brasil247", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando"]}, {"name": "vanderleimacris", "imports": []}, {"name": "tiriricanaweb", "imports": []}, {"name": "tabataamaralsp", "imports": ["folha", "o_antagonista", "profdorinha", "rigoni_felipe", "tabataamaralsp"]}, {"name": "samuelmoreira", "imports": []}, {"name": "samiabomfim", "imports": ["jairbolsonaro", "eduardomoreira", "luizaerundina", "davidmirandario", "brunocovas", "natbonavides", "perpetua_acre", "mariadorosario", "fernandapsol", "taliriapetrone", "aureacarolinax", "samiabomfim", "pauloteixeira13", "luizaerundina", "_pinheira"]}, {"name": "rfalcao13", "imports": ["brasil247", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "padilhando"]}, {"name": "DepRosanaValle", "imports": ["tarcisiogdf"]}, {"name": "rodrigoagost", "imports": ["o_antagonista", "pauloganime"]}, {"name": "robertodelucena", "imports": []}, {"name": "RobertoAlves_10", "imports": ["marcospereira04"]}, {"name": "RicardoIzar", "imports": []}, {"name": "RenataAbreu1919", "imports": []}, {"name": "KatiaSastre", "imports": ["tarcisiogdf"]}, {"name": "pauloteixeira13", "imports": ["gleisi", "heldersalomao", "gleisi", "pauloteixeira13"]}, {"name": "DF_PauloFreire", "imports": []}, {"name": "dep_paulinho", "imports": []}, {"name": "marcofeliciano", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "tarcisiogdf", "o_antagonista", "gen_heleno"]}, {"name": "orlandosilva", "imports": ["lauraabcarvalho", "folha", "natbonavides", "perpetua_acre", "marciojerry", "_pinheira"]}, {"name": "NiltoTatto", "imports": ["costa_rui", "safbf", "jandira_feghali", "folha", "gleisi", "dasilvabenedita", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "waldenorpereira", "taliriapetrone", "jandira_feghali", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "padilhando", "xicosa", "pablovillaca"]}, {"name": "MiltonVieiraOfc", "imports": []}, {"name": "DMiguellombardi", "imports": []}, {"name": "mariarosassp", "imports": []}, {"name": "marcospereira04", "imports": ["dep_alinegurgel"]}, {"name": "MarcoBertaiolli", "imports": []}, {"name": "AlvinoMarcio", "imports": []}, {"name": "luizaerundina", "imports": ["cartacapital", "revistaforum", "folha", "esuplicy", "fernandapsol", "taliriapetrone", "aureacarolinax", "samiabomfim", "xicosa", "gduvivier"]}, {"name": "lpbragancabr", "imports": ["ernestofaraujo", "alexandregarcia"]}, {"name": "KimKataguiri", "imports": ["joaoamoedonovo", "o_antagonista", "claudioedantas", "arthurmoledoval", "marcelvanhattem"]}, {"name": "bozzellajr", "imports": ["o_antagonista", "joicehasselmann", "deppimentel", "joicehasselmann"]}, {"name": "joicehasselmann", "imports": ["jdoriajr", "o_antagonista", "claudioedantas", "77_frota", "deppimentel", "bozzellajr", "joicehasselmann", "gugachacra", "pablovillaca", "slpng_giants_pt"]}, {"name": "DepJefferson", "imports": []}, {"name": "IvanValente", "imports": ["eduardomoreira", "luizaerundina", "taliriapetrone", "luizaerundina", "gduvivier"]}, {"name": "herculanopassos", "imports": []}, {"name": "GuilhermeMussi", "imports": []}, {"name": "DepGuigaPeixoto", "imports": []}, {"name": "GilbertoPSC20", "imports": []}, {"name": "geninhozuliani", "imports": ["jdoriajr", "o_antagonista", "claudioedantas"]}, {"name": "GenPeternelli", "imports": []}, {"name": "enricomisasi", "imports": []}, {"name": "Eduardo_Cury", "imports": ["diogomainardi", "gugachacra"]}, {"name": "BolsonaroSP", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "opropriolavo", "tarcisiogdf", "alexandregarcia", "gen_heleno", "fabiofaria5555", "diegogarciapr", "majorfabianadep", "carlosjordy", "cabojunioamaral", "alesilva_38", "marcofeliciano", "roxmo"]}, {"name": "davidbrsoares", "imports": []}, {"name": "CoronelTadeu", "imports": ["jairbolsonaro", "opropriolavo", "tarcisiogdf", "fabiofaria5555", "diegogarciapr", "roxmo"]}, {"name": "Czmadureira", "imports": []}, {"name": "CarlosZarattini", "imports": ["luizaerundina", "dilmabr", "brasil247", "cartacapital", "folha", "jeanwyllys_real", "gleisi", "dasilvabenedita", "senadorhumberto", "rfalcao13", "esuplicy", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "perpetua_acre", "paulaodopt", "assis_carvalho", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "fernandapsol", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "luizaerundina", "padilhando", "xicosa", "cynaramenezes", "luisnassif", "emirsader", "felipeneto", "reinaldoazevedo"]}, {"name": "carlossampaio_", "imports": []}, {"name": "CarlaZambelli38", "imports": ["jairbolsonaro", "rsallesmma", "ernestofaraujo", "opropriolavo", "tarcisiogdf", "alexandregarcia", "gen_heleno", "fabiofaria5555", "paulambelmonte", "filipebarrost", "diegogarciapr", "mariadorosario", "joaoromaneto", "pauloganime", "marciolabre", "majorfabianadep", "carlosjordy", "cabojunioamaral", "alesilva_38", "lpbragancabr"]}, {"name": "capitao_augusto", "imports": []}, {"name": "Baleia_Rossi", "imports": ["profdorinha", "paulambelmonte", "perpetua_acre", "rigoni_felipe", "maldaner_celso", "carloschiodini", "elcionepmdb", "denisbezerra", "depmarcelonilo", "depjorgesolla", "caleromarcelo", "alessandromolon", "tabataamaralsp", "samuelmoreira", "rodrigoagost", "dep_paulinho", "orlandosilva", "padilhando"]}, {"name": "ArnaldoJardim", "imports": ["jdoriajr", "christinoaureo", "christinoaureo"]}, {"name": "achinaglia", "imports": ["reinaldoazevedo"]}, {"name": "AlexisFonteyne", "imports": ["pauloganime"]}, {"name": "padilhando", "imports": ["dilmabr", "brasil247", "revistaforum", "gleisi", "dasilvabenedita", "senadorhumberto", "rfalcao13", "esuplicy", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "padilhando"]}, {"name": "lexandreleite", "imports": ["folha"]}, {"name": "AlexManente23", "imports": ["o_antagonista", "f_trad", "paulambelmonte", "marceloramosam", "adriventurasp"]}, {"name": "AlencarBraga13", "imports": ["costa_rui", "dilmabr", "jandira_feghali", "revistaforum", "jeanwyllys_real", "gleisi", "dasilvabenedita", "senadorhumberto", "rfalcao13", "depjoaodanielpt", "natbonavides", "prof_rosaneide", "vanderloubet", "erikakokay", "paulaodopt", "heldersalomao", "freianastaciopt", "uczai", "marciojerry", "carlosveraspt", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "depzeneto", "waldenorpereira", "depjorgesolla", "jandira_feghali", "dasilvabenedita", "deppauloguedes", "dep_padrejoao", "odaircunhamg", "depleomonteiro", "rfalcao13", "pauloteixeira13", "padilhando", "xicosa", "marcelorubens", "cynaramenezes", "pablovillaca", "gduvivier"]}, {"name": "adriventurasp", "imports": ["marcelvanhattem"]}, {"name": "abou_anni", "imports": []}, {"name": "FMouraBrasil", "imports": ["deppimentel"]}, {"name": "GeorgMarques", "imports": ["cirogomes", "revistaforum", "77_frota", "f_trad", "enioverri", "taliriapetrone", "xicosa", "gduvivier"]}, {"name": "PastorMalafaia", "imports": []}, {"name": "Ro_Moller", "imports": ["slpng_giants_pt"]}, {"name": "xicosa", "imports": ["cartacapital", "revistaforum", "folha", "natbonavides", "marcelorubens", "luisnassif", "emirsader", "gduvivier"]}, {"name": "marcelorubens", "imports": ["lauraabcarvalho", "cartacapital", "folha", "alessandromolon", "alessandromolon", "pauloteixeira13", "xicosa", "marcelorubens", "gugachacra", "cynaramenezes", "felipeneto", "reinaldoazevedo", "_pinheira", "gduvivier", "slpng_giants_pt"]}, {"name": "AndreiaSadi", "imports": ["o_antagonista", "gugachacra", "miriamleitao"]}, {"name": "gugachacra", "imports": ["lauraabcarvalho", "folha", "marcelorubens", "gugachacra", "felipeneto", "miriamleitao"]}, {"name": "diegoescosteguy", "imports": ["gugachacra"]}, {"name": "cynaramenezes", "imports": ["cirogomes", "costa_rui", "helderbarbalho", "eduardomoreira", "safbf", "lauraabcarvalho", "dilmabr", "jandira_feghali", "brasil247", "cartacapital", "revistaforum", "folha", "jeanwyllys_real", "gleisi", "dasilvabenedita", "lindberghfarias", "esuplicy", "natbonavides", "erikakokay", "heldersalomao", "zeca_dirceu", "gleisi", "mariadorosario", "taliriapetrone", "jandira_feghali", "dasilvabenedita", "samiabomfim", "orlandosilva", "padilhando", "xicosa", "marcelorubens", "gugachacra", "cynaramenezes", "felipeneto", "gduvivier"]}, {"name": "luisnassif", "imports": ["pauloteixeira13", "padilhando", "luisnassif"]}, {"name": "JanainaDoBrasil", "imports": ["joicehasselmann", "marcelvanhattem", "lpbragancabr", "joicehasselmann"]}, {"name": "LeonardoBoff", "imports": ["cirogomes", "luizaerundina", "jandira_feghali", "brasil247", "gleisi", "tabataamaralsp", "alessandromolon", "dasilvabenedita", "senadorhumberto", "esuplicy", "natbonavides", "erikakokay", "heldersalomao", "carlosveraspt", "zeca_dirceu", "gleisi", "mariadorosario", "jandira_feghali", "dasilvabenedita", "alessandromolon", "tabataamaralsp", "pauloteixeira13", "orlandosilva", "luizaerundina", "padilhando", "xicosa", "gugachacra", "emirsader", "miriamleitao"]}, {"name": "stanleyburburin", "imports": []}, {"name": "pablovillaca", "imports": ["safbf", "lauraabcarvalho", "jandira_feghali", "cartacapital", "revistaforum", "folha", "jeanwyllys_real", "fernandapsol", "jandira_feghali", "marcelorubens", "pablovillaca", "felipeneto", "henrybugalho", "slpng_giants_pt"]}, {"name": "emirsader", "imports": ["costa_rui", "wdiaspi", "fatimabezerra", "brasil247", "revistaforum", "folha", "jeanwyllys_real", "gleisi", "dasilvabenedita", "lindberghfarias", "senadorhumberto", "esuplicy", "natbonavides", "erikakokay", "paulaodopt", "heldersalomao", "uczai", "zeca_dirceu", "gleisi", "enioverri", "mariadorosario", "dasilvabenedita", "aureacarolinax", "pauloteixeira13", "padilhando", "xicosa", "gugachacra", "cynaramenezes", "luisnassif", "pablovillaca", "emirsader", "felipeneto", "reinaldoazevedo", "gduvivier"]}, {"name": "roxmo", "imports": ["gen_heleno", "carlosjordy", "alesilva_38", "roxmo"]}, {"name": "lf_ponde", "imports": ["folha"]}, {"name": "DaniloGentili", "imports": ["o_antagonista", "claudioedantas", "diogomainardi", "arthurmoledoval", "lf_ponde"]}, {"name": "felipeneto", "imports": ["cirogomes", "lauraabcarvalho", "jandira_feghali", "cartacapital", "folha", "jeanwyllys_real", "gleisi", "davidmirandario", "randolfeap", "esuplicy", "marciojerry", "gleisi", "jandira_feghali", "samiabomfim", "orlandosilva", "felipeneto", "reinaldoazevedo", "_pinheira", "slpng_giants_pt"]}, {"name": "VillaMarcovilla", "imports": ["cirogomes", "joaoamoedonovo", "lauraabcarvalho", "folha"]}, {"name": "reinaldoazevedo", "imports": ["folha"]}, {"name": "miriamleitao", "imports": ["lauraabcarvalho", "folha", "davialcolumbre", "tabataamaralsp", "alessandromolon", "brunocovas", "perpetua_acre", "rigoni_felipe", "alessandromolon", "tabataamaralsp", "marcelorubens", "gugachacra", "felipeneto"]}, {"name": "GabrielaPrioli", "imports": ["lauraabcarvalho", "folha", "gugachacra", "felipeneto", "reinaldoazevedo", "miriamleitao", "henrybugalho", "_pinheira", "gduvivier"]}, {"name": "henrybugalho", "imports": ["cirogomes", "jandira_feghali", "fernandapsol", "jandira_feghali", "samiabomfim", "felipeneto", "_pinheira", "gduvivier", "slpng_giants_pt"]}, {"name": "_pinheira", "imports": ["jeanwyllys_real", "fernandapsol", "aureacarolinax", "felipeneto", "henrybugalho", "_pinheira"]}, {"name": "gduvivier", "imports": ["cirogomes", "safbf", "lauraabcarvalho", "folha", "jeanwyllys_real", "joicehasselmann", "natbonavides", "marciojerry", "fernandapsol", "aureacarolinax", "samiabomfim", "joicehasselmann", "xicosa", "felipeneto", "henrybugalho", "gduvivier", "slpng_giants_pt"]}, {"name": "slpng_giants_pt", "imports": ["xicosa", "pablovillaca", "felipeneto", "reinaldoazevedo", "henrybugalho", "gduvivier", "slpng_giants_pt"]}]
+[
+  {
+    "name": "jairbolsonaro",
+    "size": 964.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "gen_heleno",
+      "fabiofaria5555",
+      "joaoromaneto"
+    ]
+  },
+  {
+    "name": "GeneralMourao",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "MarinaSilva",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "alessandromolon",
+      "randolfeap",
+      "alessandromolon",
+      "felipeneto",
+      "miriamleitao"
+    ]
+  },
+  {
+    "name": "Haddad_Fernando",
+    "size": 0.0,
+    "retweets": [
+      "fatimabezerra",
+      "lauraabcarvalho",
+      "jandira_feghali",
+      "brasil247",
+      "revistaforum",
+      "folha",
+      "gleisi",
+      "dasilvabenedita",
+      "senadorhumberto",
+      "erikakokay",
+      "gleisi",
+      "fernandapsol",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "samiabomfim",
+      "padilhando",
+      "xicosa",
+      "marcelorubens",
+      "gugachacra",
+      "luisnassif",
+      "pablovillaca",
+      "_pinheira",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "LulaOficial",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "wdiaspi",
+      "fatimabezerra",
+      "luizaerundina",
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "revistaforum",
+      "folha",
+      "jeanwyllys_real",
+      "gleisi",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "senadorhumberto",
+      "esuplicy",
+      "natbonavides",
+      "heldersalomao",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "luizaerundina",
+      "padilhando",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "cirogomes",
+    "size": 178.0,
+    "retweets": [
+      "cirogomes",
+      "eduardomoreira",
+      "alessandromolon",
+      "randolfeap",
+      "andrepdt12",
+      "gustavofruet",
+      "alessandromolon",
+      "mario_heringer",
+      "orlandosilva",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "GuilhermeBoulos",
+    "size": 0.0,
+    "retweets": [
+      "luizaerundina",
+      "lauraabcarvalho",
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "gleisi",
+      "alessandromolon",
+      "dasilvabenedita",
+      "esuplicy",
+      "erikakokay",
+      "gleisi",
+      "fernandapsol",
+      "taliriapetrone",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "alessandromolon",
+      "aureacarolinax",
+      "samiabomfim",
+      "orlandosilva",
+      "luizaerundina",
+      "xicosa",
+      "marcelorubens",
+      "cynaramenezes",
+      "pablovillaca",
+      "felipeneto",
+      "reinaldoazevedo",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "geraldoalckmin",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "joaoamoedonovo",
+    "size": 104.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "o_antagonista",
+      "diogomainardi",
+      "marcelvanhattem",
+      "pauloganime"
+    ]
+  },
+  {
+    "name": "GladsonCameli",
+    "size": 0.0,
+    "retweets": [
+      "jdoriajr"
+    ]
+  },
+  {
+    "name": "RenanFilho_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "waldezoficial",
+    "size": 32.0,
+    "retweets": [
+      "helderbarbalho"
+    ]
+  },
+  {
+    "name": "wilsonlimaAM",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "helderbarbalho",
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "costa_rui",
+    "size": 102.0,
+    "retweets": [
+      "folha",
+      "gugachacra",
+      "cynaramenezes",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "CamiloSantanaCE",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "IbaneisOficial",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Casagrande_ES",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "ronaldocaiado",
+    "size": 7.0,
+    "retweets": [
+      "tarcisiogdf",
+      "o_antagonista"
+    ]
+  },
+  {
+    "name": "FlavioDino",
+    "size": 0.0,
+    "retweets": [
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "tabataamaralsp",
+      "f_trad",
+      "perpetua_acre",
+      "marciojerry",
+      "renildo",
+      "jandira_feghali",
+      "tabataamaralsp",
+      "orlandosilva",
+      "xicosa",
+      "miriamleitao",
+      "henrybugalho"
+    ]
+  },
+  {
+    "name": "MauroMendes40",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Reinaldo45psdb",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "RomeuZema",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "helderbarbalho",
+    "size": 22.0,
+    "retweets": [
+      "randolfeap"
+    ]
+  },
+  {
+    "name": "joaoazevedolins",
+    "size": 8.0,
+    "retweets": [
+      "joaoazevedolins",
+      "fatimabezerra"
+    ]
+  },
+  {
+    "name": "ratinho_jr",
+    "size": 41.0,
+    "retweets": [
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "PauloCamara40",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "wdiaspi",
+    "size": 11.0,
+    "retweets": [
+      "fatimabezerra",
+      "o_antagonista"
+    ]
+  },
+  {
+    "name": "claudiocastroRJ",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "fatimabezerra",
+    "size": 73.0,
+    "retweets": [
+      "fatimabezerra",
+      "natbonavides"
+    ]
+  },
+  {
+    "name": "EduardoLeite_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "celmarcosrocha",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "antoniodenarium",
+    "size": 1.0,
+    "retweets": [
+      "jairbolsonaro",
+      "antoniodenarium",
+      "jhonatan_djesus",
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "CarlosMoises",
+    "size": 0.0,
+    "retweets": [
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "jdoriajr",
+    "size": 51.0,
+    "retweets": [
+      "jdoriajr",
+      "folha",
+      "o_antagonista"
+    ]
+  },
+  {
+    "name": "belivaldochagas",
+    "size": 1.0,
+    "retweets": []
+  },
+  {
+    "name": "maurocarlesse",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "rsallesmma",
+    "size": 66.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "ernestofaraujo",
+    "size": 60.0,
+    "retweets": [
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "opropriolavo",
+    "size": 25.0,
+    "retweets": [
+      "opropriolavo"
+    ]
+  },
+  {
+    "name": "tarcisiogdf",
+    "size": 302.0,
+    "retweets": [
+      "jairbolsonaro",
+      "tarcisiogdf",
+      "fabiofaria5555",
+      "pedro_lupion"
+    ]
+  },
+  {
+    "name": "DamaresAlves",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ernestofaraujo",
+      "gen_heleno",
+      "fabiofaria5555",
+      "onyxlorenzoni",
+      "joaoromaneto"
+    ]
+  },
+  {
+    "name": "Astro_Pontes",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "CarlosBolsonaro",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ernestofaraujo",
+      "tarcisiogdf",
+      "marcofeliciano"
+    ]
+  },
+  {
+    "name": "eduardomoreira",
+    "size": 37.0,
+    "retweets": [
+      "cirogomes",
+      "luizaerundina",
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "jandira_feghali",
+      "luizaerundina",
+      "gugachacra",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "safbf",
+    "size": 12.0,
+    "retweets": [
+      "cartacapital",
+      "revistaforum",
+      "natbonavides",
+      "fernandapsol",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim"
+    ]
+  },
+  {
+    "name": "luizaerundina",
+    "size": 54.0,
+    "retweets": [
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "esuplicy",
+      "fernandapsol",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim",
+      "xicosa",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "lauraabcarvalho",
+    "size": 39.0,
+    "retweets": [
+      "cirogomes",
+      "lauraabcarvalho",
+      "folha",
+      "o_antagonista",
+      "tabataamaralsp",
+      "alessandromolon",
+      "randolfeap",
+      "alessandromolon",
+      "tabataamaralsp",
+      "xicosa",
+      "miriamleitao",
+      "_pinheira",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "MidiaNINJA",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "eduardomoreira",
+      "jandira_feghali",
+      "revistaforum",
+      "jeanwyllys_real",
+      "gleisi",
+      "alessandromolon",
+      "randolfeap",
+      "dasilvabenedita",
+      "esuplicy",
+      "natbonavides",
+      "erikakokay",
+      "perpetua_acre",
+      "tuliogadelha",
+      "gleisi",
+      "mariadorosario",
+      "fernandapsol",
+      "taliriapetrone",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "alessandromolon",
+      "dep_padrejoao",
+      "aureacarolinax",
+      "samiabomfim",
+      "pauloteixeira13",
+      "orlandosilva",
+      "padilhando",
+      "xicosa",
+      "marcelorubens",
+      "felipeneto",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "dilmabr",
+    "size": 107.0,
+    "retweets": [
+      "revistaforum",
+      "gleisi",
+      "gleisi",
+      "orlandosilva",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "jandira_feghali",
+    "size": 121.0,
+    "retweets": [
+      "safbf",
+      "luizaerundina",
+      "jandira_feghali",
+      "senadorhumberto",
+      "f_trad",
+      "perpetua_acre",
+      "renildo",
+      "orlandosilva",
+      "felipeneto",
+      "miriamleitao",
+      "_pinheira",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "J_LIVRES",
+    "size": 0.0,
+    "retweets": [
+      "dilmabr",
+      "cartacapital",
+      "erikakokay",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "brasil247",
+    "size": 201.0,
+    "retweets": [
+      "dasilvabenedita",
+      "dasilvabenedita"
+    ]
+  },
+  {
+    "name": "TheInterceptBr",
+    "size": 0.0,
+    "retweets": [
+      "xicosa",
+      "felipeneto",
+      "reinaldoazevedo",
+      "henrybugalho",
+      "_pinheira",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "cartacapital",
+    "size": 89.0,
+    "retweets": [
+      "cartacapital"
+    ]
+  },
+  {
+    "name": "revistaforum",
+    "size": 187.0,
+    "retweets": [
+      "revistaforum"
+    ]
+  },
+  {
+    "name": "VEJA",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "folha",
+    "size": 200.0,
+    "retweets": [
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "EstadaoSaoPaulo",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "OGloboPolitica",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "o_antagonista",
+    "size": 468.0,
+    "retweets": [
+      "o_antagonista",
+      "claudioedantas",
+      "diogomainardi"
+    ]
+  },
+  {
+    "name": "CarlaZambelli38",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "opropriolavo",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "gen_heleno",
+      "fabiofaria5555",
+      "paulambelmonte",
+      "filipebarrost",
+      "diegogarciapr",
+      "mariadorosario",
+      "joaoromaneto",
+      "pauloganime",
+      "marciolabre",
+      "majorfabianadep",
+      "carlosjordy",
+      "cabojunioamaral",
+      "alesilva_38",
+      "lpbragancabr"
+    ]
+  },
+  {
+    "name": "MBLivre",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "joaoamoedonovo",
+      "jdoriajr",
+      "folha",
+      "o_antagonista",
+      "claudioedantas",
+      "diogomainardi",
+      "arthurmoledoval"
+    ]
+  },
+  {
+    "name": "Rconstantino",
+    "size": 0.0,
+    "retweets": [
+      "jdoriajr"
+    ]
+  },
+  {
+    "name": "claudioedantas",
+    "size": 133.0,
+    "retweets": [
+      "o_antagonista",
+      "claudioedantas",
+      "diogomainardi",
+      "lf_ponde"
+    ]
+  },
+  {
+    "name": "diogomainardi",
+    "size": 23.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "o_antagonista",
+      "claudioedantas"
+    ]
+  },
+  {
+    "name": "alexandregarcia",
+    "size": 31.0,
+    "retweets": []
+  },
+  {
+    "name": "jeanwyllys_real",
+    "size": 211.0,
+    "retweets": [
+      "cirogomes",
+      "eduardomoreira",
+      "luizaerundina",
+      "lauraabcarvalho",
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "jeanwyllys_real",
+      "dasilvabenedita",
+      "natbonavides",
+      "erikakokay",
+      "perpetua_acre",
+      "mariadorosario",
+      "fernandapsol",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "aureacarolinax",
+      "luizaerundina",
+      "xicosa",
+      "marcelorubens",
+      "gugachacra",
+      "cynaramenezes",
+      "luisnassif",
+      "pablovillaca",
+      "felipeneto",
+      "miriamleitao",
+      "henrybugalho",
+      "_pinheira",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "MarceloFreixo",
+    "size": 0.0,
+    "retweets": [
+      "luizaerundina",
+      "jandira_feghali",
+      "revistaforum",
+      "andrepdt12",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim",
+      "orlandosilva",
+      "xicosa",
+      "luisnassif",
+      "felipeneto",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "FHC",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "MichelTemer",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "RodrigoMaia",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "depaguinaldo11",
+      "marcospereira04",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "lhmandetta",
+    "size": 1.0,
+    "retweets": []
+  },
+  {
+    "name": "davialcolumbre",
+    "size": 17.0,
+    "retweets": [
+      "waldezoficial",
+      "joaoromaneto"
+    ]
+  },
+  {
+    "name": "gen_heleno",
+    "size": 37.0,
+    "retweets": [
+      "gen_heleno"
+    ]
+  },
+  {
+    "name": "ManuelaDavila",
+    "size": 0.0,
+    "retweets": [
+      "lauraabcarvalho",
+      "jandira_feghali",
+      "cartacapital",
+      "revistaforum",
+      "davidmirandario",
+      "alessandromolon",
+      "dasilvabenedita",
+      "esuplicy",
+      "natbonavides",
+      "perpetua_acre",
+      "marciojerry",
+      "mariadorosario",
+      "fernandapsol",
+      "taliriapetrone",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "alessandromolon",
+      "pauloteixeira13",
+      "orlandosilva",
+      "felipeneto",
+      "_pinheira"
+    ]
+  },
+  {
+    "name": "gleisi",
+    "size": 402.0,
+    "retweets": [
+      "fatimabezerra",
+      "dilmabr",
+      "brasil247",
+      "revistaforum",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "zeca_dirceu",
+      "mariadorosario",
+      "depjorgesolla",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "77_frota",
+    "size": 13.0,
+    "retweets": [
+      "cirogomes",
+      "joaoamoedonovo",
+      "jdoriajr",
+      "eduardomoreira",
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "o_antagonista",
+      "claudioedantas",
+      "diogomainardi",
+      "77_frota",
+      "alessandromolon",
+      "randolfeap",
+      "joicehasselmann",
+      "deppimentel",
+      "jandira_feghali",
+      "alessandromolon",
+      "mario_heringer",
+      "samuelmoreira",
+      "orlandosilva",
+      "bozzellajr",
+      "joicehasselmann",
+      "geninhozuliani",
+      "carlossampaio_",
+      "xicosa",
+      "marcelorubens",
+      "gugachacra",
+      "luisnassif",
+      "reinaldoazevedo",
+      "miriamleitao",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "Baleia_Rossi",
+    "size": 0.0,
+    "retweets": [
+      "tabataamaralsp",
+      "alessandromolon",
+      "profdorinha",
+      "paulambelmonte",
+      "perpetua_acre",
+      "rigoni_felipe",
+      "maldaner_celso",
+      "carloschiodini",
+      "elcionepmdb",
+      "denisbezerra",
+      "depmarcelonilo",
+      "depjorgesolla",
+      "caleromarcelo",
+      "samuelmoreira",
+      "rodrigoagost",
+      "dep_paulinho",
+      "orlandosilva",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "tassojereissati",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "EduGiraoOficial",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "tabataamaralsp",
+    "size": 25.0,
+    "retweets": [
+      "folha",
+      "o_antagonista",
+      "tabataamaralsp",
+      "profdorinha",
+      "rigoni_felipe"
+    ]
+  },
+  {
+    "name": "davidmirandario",
+    "size": 17.0,
+    "retweets": [
+      "cirogomes",
+      "eduardomoreira",
+      "jandira_feghali",
+      "davidmirandario",
+      "fernandapsol",
+      "taliriapetrone",
+      "jandira_feghali",
+      "aureacarolinax",
+      "samiabomfim",
+      "gugachacra",
+      "felipeneto",
+      "_pinheira",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "alessandromolon",
+    "size": 50.0,
+    "retweets": [
+      "jairbolsonaro",
+      "folha",
+      "alessandromolon",
+      "randolfeap"
+    ]
+  },
+  {
+    "name": "randolfeap",
+    "size": 28.0,
+    "retweets": [
+      "eduardomoreira",
+      "o_antagonista",
+      "tabataamaralsp",
+      "alessandromolon",
+      "randolfeap",
+      "denisbezerra",
+      "tuliogadelha",
+      "alessandromolon",
+      "tabataamaralsp",
+      "orlandosilva"
+    ]
+  },
+  {
+    "name": "dasilvabenedita",
+    "size": 208.0,
+    "retweets": [
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "gleisi",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "senadorhumberto",
+      "rfalcao13",
+      "esuplicy",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "marciojerry",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "enioverri",
+      "mariadorosario",
+      "waldenorpereira",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "aureacarolinax",
+      "pauloteixeira13",
+      "orlandosilva",
+      "padilhando",
+      "xicosa",
+      "cynaramenezes",
+      "pablovillaca",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "lindberghfarias",
+    "size": 67.0,
+    "retweets": [
+      "dilmabr",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "esuplicy",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "pauloteixeira13",
+      "padilhando",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "senadorhumberto",
+    "size": 43.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "gleisi",
+      "padilhando",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "rfalcao13",
+    "size": 89.0,
+    "retweets": [
+      "brasil247",
+      "gleisi",
+      "dasilvabenedita",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "enioverri",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "esuplicy",
+    "size": 62.0,
+    "retweets": [
+      "gleisi",
+      "tabataamaralsp",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "esuplicy",
+      "gleisi",
+      "dasilvabenedita",
+      "tabataamaralsp",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "brunocovas",
+    "size": 2.0,
+    "retweets": [
+      "esuplicy"
+    ]
+  },
+  {
+    "name": "KimKataguiri",
+    "size": 0.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "o_antagonista",
+      "claudioedantas",
+      "arthurmoledoval",
+      "marcelvanhattem"
+    ]
+  },
+  {
+    "name": "SenadorRogerio",
+    "size": 0.0,
+    "retweets": [
+      "jandira_feghali",
+      "brasil247",
+      "folha",
+      "jeanwyllys_real",
+      "davialcolumbre",
+      "gleisi",
+      "senadorhumberto",
+      "prof_rosaneide",
+      "gleisi",
+      "jandira_feghali",
+      "padilhando",
+      "emirsader",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "arthurmoledoval",
+    "size": 671.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "folha",
+      "arthurmoledoval"
+    ]
+  },
+  {
+    "name": "FernandoHoliday",
+    "size": 0.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "jdoriajr",
+      "folha",
+      "o_antagonista",
+      "claudioedantas",
+      "diogomainardi",
+      "lhmandetta",
+      "arthurmoledoval",
+      "gilsonmarques30",
+      "marcelvanhattem"
+    ]
+  },
+  {
+    "name": "joicehasselmann",
+    "size": 16.0,
+    "retweets": [
+      "jdoriajr",
+      "o_antagonista",
+      "claudioedantas",
+      "77_frota",
+      "joicehasselmann",
+      "deppimentel",
+      "bozzellajr",
+      "gugachacra",
+      "pablovillaca",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "vicentinhojr",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "tiago_dimas",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "profdorinha",
+    "size": 12.0,
+    "retweets": [
+      "tabataamaralsp",
+      "perpetua_acre",
+      "tabataamaralsp"
+    ]
+  },
+  {
+    "name": "elidiasborges",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "CelioMouraTO",
+    "size": 0.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "gleisi",
+      "enioverri",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "odaircunhamg",
+      "depleomonteiro",
+      "pauloteixeira13",
+      "padilhando",
+      "luisnassif",
+      "emirsader"
+    ]
+  },
+  {
+    "name": "LaercioFederal",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "joaoamoedonovo",
+      "pauloganime",
+      "majorfabianadep",
+      "christinoaureo",
+      "christinoaureo"
+    ]
+  },
+  {
+    "name": "depjoaodanielpt",
+    "size": 78.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "GustinhoRibeiro",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "fabioreis1515",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depfmitidieri",
+    "size": 0.0,
+    "retweets": [
+      "belivaldochagas",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "FabioHenriqueSE",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "BoscoCosta_SE",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DepSheridan",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depnicoletti",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JoeniaWapichana",
+    "size": 0.0,
+    "retweets": [
+      "tabataamaralsp",
+      "tabataamaralsp"
+    ]
+  },
+  {
+    "name": "jhonatan_djesus",
+    "size": 4.0,
+    "retweets": []
+  },
+  {
+    "name": "ediolopes",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "deputadohiran",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "silviacristinax",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DeputadaMariana",
+    "size": 0.0,
+    "retweets": [
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "luciomosquini",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "jqcassol",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "netto_expedito",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "nazif_dr",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "walteralvesrn",
+    "size": 1.0,
+    "retweets": [
+      "fatimabezerra",
+      "o_antagonista",
+      "walteralvesrn"
+    ]
+  },
+  {
+    "name": "RafaelMottaRN",
+    "size": 0.0,
+    "retweets": [
+      "natbonavides"
+    ]
+  },
+  {
+    "name": "natbonavides",
+    "size": 167.0,
+    "retweets": [
+      "fatimabezerra",
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "taliriapetrone",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "aureacarolinax",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "cynaramenezes"
+    ]
+  },
+  {
+    "name": "depjoaomaia",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "GeneralGirao",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ernestofaraujo",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "gen_heleno",
+      "fabiofaria5555",
+      "diegogarciapr",
+      "lpbragancabr"
+    ]
+  },
+  {
+    "name": "fabiofaria5555",
+    "size": 132.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ratinho_jr",
+      "tarcisiogdf",
+      "gen_heleno"
+    ]
+  },
+  {
+    "name": "benesleocadiorn",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "prof_rosaneide",
+    "size": 134.0,
+    "retweets": [
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "folha",
+      "gleisi",
+      "dasilvabenedita",
+      "senadorhumberto",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "danilocabral__",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "depzeneto",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "felipeneto",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "NeriGeller",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "nelsonbarbudo",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JoseMedeirosMT",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "tarcisiogdf",
+      "majorfabianadep",
+      "carlosjordy"
+    ]
+  },
+  {
+    "name": "emanuelzinhomt",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "CarlosBezerraJr",
+    "size": 0.0,
+    "retweets": [
+      "folha",
+      "orlandosilva"
+    ]
+  },
+  {
+    "name": "vanderloubet",
+    "size": 110.0,
+    "retweets": [
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "LTrutis",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "TerezaCrisMS",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "f_trad",
+    "size": 17.0,
+    "retweets": [
+      "f_trad",
+      "marceloramosam"
+    ]
+  },
+  {
+    "name": "dagobertopdt",
+    "size": 1.0,
+    "retweets": [
+      "cirogomes"
+    ]
+  },
+  {
+    "name": "betopereirams",
+    "size": 1.0,
+    "retweets": []
+  },
+  {
+    "name": "ProfIsrael",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "paulambelmonte",
+    "size": 18.0,
+    "retweets": [
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "LuisMirandaUSA",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JulioCesarRib",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JulioCesarRib",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "erikakokay",
+    "size": 135.0,
+    "retweets": [
+      "gleisi",
+      "senadorhumberto",
+      "uczai",
+      "gleisi",
+      "enioverri",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "celinaleao",
+    "size": 1.0,
+    "retweets": [
+      "celinaleao"
+    ]
+  },
+  {
+    "name": "Biakicis",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "opropriolavo",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "gen_heleno",
+      "fabiofaria5555",
+      "marceloramosam",
+      "bibonunes1",
+      "carlosjordy",
+      "alesilva_38",
+      "lpbragancabr",
+      "adriventurasp",
+      "roxmo"
+    ]
+  },
+  {
+    "name": "profmarcivania",
+    "size": 0.0,
+    "retweets": [
+      "perpetua_acre"
+    ]
+  },
+  {
+    "name": "CamiloPSB",
+    "size": 0.0,
+    "retweets": [
+      "waldezoficial",
+      "alessandromolon",
+      "randolfeap",
+      "gervasiomaia",
+      "lidicedamata",
+      "alessandromolon",
+      "marcelorubens",
+      "cynaramenezes",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "dep_alinegurgel",
+    "size": 1.0,
+    "retweets": [
+      "waldezoficial",
+      "cartacapital",
+      "davialcolumbre",
+      "tabataamaralsp",
+      "fabiofaria5555",
+      "lidicedamata",
+      "sorayasantos",
+      "tabataamaralsp",
+      "marcospereira04"
+    ]
+  },
+  {
+    "name": "AcacioFavacho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "SilasCamaraAM",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "sidneyleite_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "marceloramosam",
+    "size": 25.0,
+    "retweets": [
+      "o_antagonista",
+      "marceloramosam"
+    ]
+  },
+  {
+    "name": "DelegadoPablo_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "capalbertoneto",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "boscosaraiva",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "perpetua_acre",
+    "size": 167.0,
+    "retweets": [
+      "cirogomes",
+      "jandira_feghali",
+      "folha",
+      "tabataamaralsp",
+      "davidmirandario",
+      "perpetua_acre",
+      "marciojerry",
+      "lidicedamata",
+      "taliriapetrone",
+      "jandira_feghali",
+      "aureacarolinax",
+      "tabataamaralsp",
+      "orlandosilva",
+      "felipeneto",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "mararocha4545",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "jesussergioac",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Flaviano_Melo",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Vandamilani1",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Alan_Rick",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "terezanelmaal",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "paulaodopt",
+    "size": 769.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "emirsader"
+    ]
+  },
+  {
+    "name": "NivaldoAlbuque",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "marxbeltrao",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JHC_40",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "bulhoesjr",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "ArthurLira_",
+    "size": 0.0,
+    "retweets": [
+      "jhonatan_djesus",
+      "marceloramosam"
+    ]
+  },
+  {
+    "name": "rejane_dias",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "MargaretCoelho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "MarcosA_Sampaio",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DepJulioCesarPI",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DepJulioCesarPI",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "iracemaportela",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "flavionpi",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "deputadoatila",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "assis_carvalho",
+    "size": 1.0,
+    "retweets": []
+  },
+  {
+    "name": "vidigalsergio",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "laurietecantora",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "heldersalomao",
+    "size": 123.0,
+    "retweets": [
+      "dilmabr",
+      "brasil247",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "DeputadoFoletto",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "rigoni_felipe",
+    "size": 30.0,
+    "retweets": []
+  },
+  {
+    "name": "EvairdeMelo",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "DraManato",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "depdavitoria",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "amaronetotv",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "WilsonSantiago_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "ruycarneiropb",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "pedroocl",
+    "size": 1.0,
+    "retweets": []
+  },
+  {
+    "name": "JulianLemosopb1",
+    "size": 0.0,
+    "retweets": [
+      "o_antagonista"
+    ]
+  },
+  {
+    "name": "HugoMottaPB",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "gervasiomaia",
+    "size": 2.0,
+    "retweets": [
+      "alessandromolon",
+      "gervasiomaia",
+      "denisbezerra",
+      "alessandromolon"
+    ]
+  },
+  {
+    "name": "freianastaciopt",
+    "size": 70.0,
+    "retweets": [
+      "gleisi",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "uczai",
+      "carlosveraspt",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "waldenorpereira",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "efraimfilho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depaguinaldo11",
+    "size": 4.0,
+    "retweets": []
+  },
+  {
+    "name": "coelho_rodrigo",
+    "size": 2.0,
+    "retweets": [
+      "jairbolsonaro",
+      "tarcisiogdf",
+      "folha",
+      "o_antagonista",
+      "fabiofaria5555",
+      "marceloramosam",
+      "rigoni_felipe",
+      "coelho_rodrigo",
+      "depdarcidematos",
+      "marcelvanhattem",
+      "adriventurasp"
+    ]
+  },
+  {
+    "name": "uczai",
+    "size": 60.0,
+    "retweets": [
+      "brasil247",
+      "gleisi",
+      "rfalcao13",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "depzeneto",
+      "waldenorpereira",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "deputadopeninha",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "gilsonmarques30",
+    "size": 19.0,
+    "retweets": [
+      "gilsonmarques30",
+      "marcelvanhattem",
+      "pauloganime"
+    ]
+  },
+  {
+    "name": "geovaniadesa",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depdarcidematos",
+    "size": 10.0,
+    "retweets": []
+  },
+  {
+    "name": "DFDanielFreitas",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "tarcisiogdf",
+      "fabiofaria5555",
+      "majorfabianadep",
+      "carlosjordy",
+      "cabojunioamaral"
+    ]
+  },
+  {
+    "name": "cel_armando",
+    "size": 1.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "maldaner_celso",
+    "size": 6.0,
+    "retweets": [
+      "maldaner_celso",
+      "_sergiosouza"
+    ]
+  },
+  {
+    "name": "CarolDeToni",
+    "size": 0.0,
+    "retweets": [
+      "opropriolavo"
+    ]
+  },
+  {
+    "name": "carloschiodini",
+    "size": 4.0,
+    "retweets": []
+  },
+  {
+    "name": "DeputadaAngela",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "vavamartinspa",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "Priante15",
+    "size": 0.0,
+    "retweets": [
+      "helderbarbalho"
+    ]
+  },
+  {
+    "name": "OLIVALMARQUES",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DepNilsonPinto",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depjpassarinho",
+    "size": 0.0,
+    "retweets": [
+      "tarcisiogdf",
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "elcionepmdb",
+    "size": 7.0,
+    "retweets": [
+      "cartacapital",
+      "o_antagonista",
+      "diogomainardi",
+      "prof_rosaneide",
+      "elcionepmdb",
+      "fernandapsol",
+      "aureacarolinax",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "EdmilsonPSOL",
+    "size": 0.0,
+    "retweets": [
+      "luizaerundina",
+      "dasilvabenedita",
+      "esuplicy",
+      "depjoaodanielpt",
+      "dasilvabenedita",
+      "aureacarolinax",
+      "samiabomfim",
+      "luizaerundina",
+      "xicosa",
+      "reinaldoazevedo",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "EderMauroPA",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "fabiofaria5555",
+      "filipebarrost",
+      "carlosjordy",
+      "marcofeliciano",
+      "roxmo"
+    ]
+  },
+  {
+    "name": "depcelsosabino",
+    "size": 2.0,
+    "retweets": []
+  },
+  {
+    "name": "cassio_40",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "BetoFaroPT",
+    "size": 0.0,
+    "retweets": [
+      "helderbarbalho",
+      "brasil247",
+      "revistaforum",
+      "folha",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "gugachacra"
+    ]
+  },
+  {
+    "name": "FaleiroAirton",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "revistaforum",
+      "gleisi",
+      "dasilvabenedita",
+      "senadorhumberto",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "luisnassif",
+      "emirsader",
+      "felipeneto",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "ZeMarioGO",
+    "size": 0.0,
+    "retweets": [
+      "ronaldocaiado"
+    ]
+  },
+  {
+    "name": "RubensOtoni",
+    "size": 0.0,
+    "retweets": [
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "profalcids",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "MajorVitorHugo",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "tarcisiogdf",
+      "gen_heleno",
+      "diegogarciapr",
+      "onyxlorenzoni",
+      "majorfabianadep",
+      "carlosjordy",
+      "erosbiondini",
+      "cabojunioamaral"
+    ]
+  },
+  {
+    "name": "MajorVitorHugo",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "tarcisiogdf",
+      "gen_heleno",
+      "diegogarciapr",
+      "onyxlorenzoni",
+      "majorfabianadep",
+      "carlosjordy",
+      "erosbiondini",
+      "cabojunioamaral"
+    ]
+  },
+  {
+    "name": "MofattoMagda",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "joaocamposdep",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "joaocamposdep",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "glaustindafokus",
+    "size": 0.0,
+    "retweets": [
+      "ronaldocaiado"
+    ]
+  },
+  {
+    "name": "franciscojr_go",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "FlviaMo74599829",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "EliasVazGyn",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "delegado_waldir",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "adrianodobaldy",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Dep_ZeCarlosPT",
+    "size": 0.0,
+    "retweets": [
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "depPedroLucasF",
+    "size": 0.0,
+    "retweets": [
+      "luisa_canziani"
+    ]
+  },
+  {
+    "name": "pastorgil_",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ernestofaraujo",
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "marciojerry",
+    "size": 40.0,
+    "retweets": [
+      "cirogomes",
+      "eduardomoreira",
+      "luizaerundina",
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "f_trad",
+      "perpetua_acre",
+      "marciojerry",
+      "renildo",
+      "jandira_feghali",
+      "pauloteixeira13",
+      "orlandosilva",
+      "luizaerundina",
+      "xicosa",
+      "gugachacra",
+      "cynaramenezes",
+      "luisnassif",
+      "felipeneto",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "DepJuscelino",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depmarrecafilho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "josimarPL22",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "RochaHildorocha",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "gilcutrim",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "EduardoBraide",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "EdilazioJunior_",
+    "size": 0.0,
+    "retweets": [
+      "marcofeliciano"
+    ]
+  },
+  {
+    "name": "CleberVerde10",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "BiradoPindare",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "brasil247",
+      "cartacapital",
+      "folha",
+      "alessandromolon",
+      "mariadorosario",
+      "alessandromolon",
+      "aureacarolinax",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "DepAndreFufuca",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "AluisioMendesMA",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "VaidonOliveira",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DepFederalMoses",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "deputadomaurobf",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "LuizianneLinsPT",
+    "size": 0.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "natbonavides",
+      "prof_rosaneide",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "joseleonidas",
+    "size": 3.0,
+    "retweets": [
+      "cirogomes"
+    ]
+  },
+  {
+    "name": "JuniorManoDep",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JoseAirtonPT",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "IdilvanAlencar",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes"
+    ]
+  },
+  {
+    "name": "HeitorFreireCE",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "guimaraes13PT",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "eduardomoreira",
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "jeanwyllys_real",
+      "gleisi",
+      "davidmirandario",
+      "alessandromolon",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "senadorhumberto",
+      "esuplicy",
+      "prof_rosaneide",
+      "vanderloubet",
+      "perpetua_acre",
+      "heldersalomao",
+      "renildo",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "fernandapsol",
+      "waldenorpereira",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "alessandromolon",
+      "deppauloguedes",
+      "pauloteixeira13",
+      "padilhando",
+      "gugachacra",
+      "luisnassif",
+      "emirsader",
+      "felipeneto",
+      "reinaldoazevedo",
+      "miriamleitao",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "DepGenecias",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "eduardobismarck",
+    "size": 0.0,
+    "retweets": [
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "Domingos_Neto",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "denisbezerra",
+    "size": 11.0,
+    "retweets": []
+  },
+  {
+    "name": "CelioStudart",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "capitao_wagner",
+    "size": 1.0,
+    "retweets": []
+  },
+  {
+    "name": "andrepdt12",
+    "size": 41.0,
+    "retweets": [
+      "cirogomes",
+      "cartacapital",
+      "alessandromolon",
+      "randolfeap",
+      "dagobertopdt",
+      "joseleonidas",
+      "andrepdt12",
+      "fernandapsol",
+      "alessandromolon",
+      "samiabomfim",
+      "xicosa",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "WolneyQueirozM",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes"
+    ]
+  },
+  {
+    "name": "tuliogadelha",
+    "size": 3.0,
+    "retweets": [
+      "cirogomes"
+    ]
+  },
+  {
+    "name": "Silvio_CFilho",
+    "size": 0.0,
+    "retweets": [
+      "o_antagonista",
+      "marcospereira04"
+    ]
+  },
+  {
+    "name": "renildo",
+    "size": 18.0,
+    "retweets": [
+      "orlandosilva"
+    ]
+  },
+  {
+    "name": "MariliaArraes",
+    "size": 0.0,
+    "retweets": [
+      "fatimabezerra",
+      "dilmabr",
+      "brasil247",
+      "cartacapital",
+      "gleisi",
+      "dasilvabenedita",
+      "natbonavides",
+      "gleisi",
+      "mariadorosario",
+      "dasilvabenedita",
+      "padilhando",
+      "xicosa",
+      "emirsader",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "JoaoCampos",
+    "size": 0.0,
+    "retweets": [
+      "tabataamaralsp",
+      "felipecarreras",
+      "lidicedamata"
+    ]
+  },
+  {
+    "name": "JoaoCampos",
+    "size": 0.0,
+    "retweets": [
+      "felipecarreras",
+      "lidicedamata",
+      "tabataamaralsp"
+    ]
+  },
+  {
+    "name": "fernandofilhope",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "davialcolumbre"
+    ]
+  },
+  {
+    "name": "felipecarreras",
+    "size": 6.0,
+    "retweets": [
+      "maldaner_celso",
+      "felipecarreras"
+    ]
+  },
+  {
+    "name": "eduardodafonte",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "danilocabral__",
+    "size": 1.0,
+    "retweets": [
+      "eduardomoreira",
+      "folha"
+    ]
+  },
+  {
+    "name": "daniloc4010",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "carlosveraspt",
+    "size": 86.0,
+    "retweets": [
+      "dilmabr",
+      "brasil247",
+      "gleisi",
+      "dasilvabenedita",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "pauloteixeira13",
+      "padilhando",
+      "emirsader",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "dep_acoutinho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "zeca_dirceu",
+    "size": 128.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "deputadotoninho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "_sergiosouza",
+    "size": 1.0,
+    "retweets": []
+  },
+  {
+    "name": "Schiavinato_",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ratinho_jr",
+      "tarcisiogdf",
+      "marceloramosam"
+    ]
+  },
+  {
+    "name": "SargentoFAHUR",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "SandroAlex5555",
+    "size": 0.0,
+    "retweets": [
+      "ratinho_jr",
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "23rubensbueno",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "RicardoBarrosPP",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "pedro_lupion",
+    "size": 1.0,
+    "retweets": [
+      "jairbolsonaro",
+      "fabiofaria5555"
+    ]
+  },
+  {
+    "name": "neyleprevost",
+    "size": 0.0,
+    "retweets": [
+      "ratinho_jr"
+    ]
+  },
+  {
+    "name": "luizaogoulart",
+    "size": 1.0,
+    "retweets": [
+      "luizaogoulart"
+    ]
+  },
+  {
+    "name": "LuizNishimori",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "luisa_canziani",
+    "size": 1.0,
+    "retweets": [
+      "ratinho_jr",
+      "tarcisiogdf",
+      "rigoni_felipe"
+    ]
+  },
+  {
+    "name": "LucianoDucci",
+    "size": 0.0,
+    "retweets": [
+      "natbonavides"
+    ]
+  },
+  {
+    "name": "gustavofruet",
+    "size": 3.0,
+    "retweets": [
+      "jairbolsonaro",
+      "cirogomes",
+      "gustavofruet",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "gleisi",
+    "size": 402.0,
+    "retweets": [
+      "fatimabezerra",
+      "dilmabr",
+      "brasil247",
+      "revistaforum",
+      "lindberghfarias",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "zeca_dirceu",
+      "mariadorosario",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "fernandogiacobo",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "filipebarrost",
+    "size": 23.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ernestofaraujo",
+      "opropriolavo",
+      "o_antagonista",
+      "alexandregarcia",
+      "gen_heleno",
+      "fabiofaria5555",
+      "marceloramosam",
+      "depcelsosabino",
+      "diegogarciapr",
+      "majorfabianadep",
+      "carlosjordy",
+      "cabojunioamaral",
+      "alesilva_38",
+      "marcofeliciano",
+      "lpbragancabr",
+      "diegoescosteguy",
+      "roxmo"
+    ]
+  },
+  {
+    "name": "FFrancischini_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "enioverri",
+    "size": 142.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "rfalcao13",
+      "natbonavides",
+      "erikakokay",
+      "heldersalomao",
+      "freianastaciopt",
+      "zeca_dirceu",
+      "gleisi",
+      "depzeneto",
+      "dep_padrejoao",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "cynaramenezes",
+      "emirsader",
+      "felipeneto",
+      "miriamleitao"
+    ]
+  },
+  {
+    "name": "diegogarciapr",
+    "size": 26.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "ChristianeYared",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "BocaAbertaOf",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "aroldomartins",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "AlineSleutjes",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "alielmachado",
+    "size": 0.0,
+    "retweets": [
+      "eduardomoreira",
+      "gugachacra"
+    ]
+  },
+  {
+    "name": "PompeodeMattos",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "andrepdt12"
+    ]
+  },
+  {
+    "name": "pedrowestphalen",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DeputadoFederal",
+    "size": 0.0,
+    "retweets": [
+      "brasil247",
+      "cartacapital",
+      "padilhando",
+      "xicosa",
+      "luisnassif",
+      "emirsader",
+      "_pinheira"
+    ]
+  },
+  {
+    "name": "OsmarTerra",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ronaldocaiado",
+      "alexandregarcia",
+      "paulambelmonte",
+      "filipebarrost",
+      "carlosjordy"
+    ]
+  },
+  {
+    "name": "onyxlorenzoni",
+    "size": 6.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "tarcisiogdf",
+      "fabiofaria5555",
+      "onyxlorenzoni"
+    ]
+  },
+  {
+    "name": "mauricioptbrs",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "folha",
+      "o_antagonista"
+    ]
+  },
+  {
+    "name": "deputado_marlon",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "mariadorosario",
+    "size": 153.0,
+    "retweets": [
+      "fatimabezerra",
+      "dilmabr",
+      "brasil247",
+      "revistaforum",
+      "gleisi",
+      "dasilvabenedita",
+      "esuplicy",
+      "gleisi",
+      "lidicedamata",
+      "dasilvabenedita",
+      "padilhando",
+      "xicosa",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "marciobiolchi",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "marcelvanhattem",
+    "size": 42.0,
+    "retweets": [
+      "paulambelmonte",
+      "marceloramosam",
+      "gilsonmarques30",
+      "pauloganime",
+      "lucasvgonzalez",
+      "adriventurasp"
+    ]
+  },
+  {
+    "name": "LucasRedecker",
+    "size": 0.0,
+    "retweets": [
+      "rsallesmma",
+      "betopereirams",
+      "pedroocl"
+    ]
+  },
+  {
+    "name": "LizianeBayer",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "jeronimogoergen",
+    "size": 1.0,
+    "retweets": [
+      "jeronimogoergen",
+      "pauloganime"
+    ]
+  },
+  {
+    "name": "HenriqueFontana",
+    "size": 0.0,
+    "retweets": [
+      "eduardomoreira",
+      "dilmabr",
+      "jandira_feghali",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "fernandapsol",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "HeitorSchuch",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "GiovaniFeltes",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "giovanicherini",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "fernandapsol",
+    "size": 87.0,
+    "retweets": [
+      "eduardomoreira",
+      "luizaerundina",
+      "folha",
+      "taliriapetrone",
+      "samiabomfim",
+      "luizaerundina",
+      "cynaramenezes",
+      "felipeneto",
+      "_pinheira",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "CovattiFilho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "carlosgomesdep",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "BohnGass",
+    "size": 0.0,
+    "retweets": [
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "bibonunes1",
+    "size": 2.0,
+    "retweets": [
+      "jairbolsonaro",
+      "fabiofaria5555",
+      "bibonunes1"
+    ]
+  },
+  {
+    "name": "Alceu_Moreira",
+    "size": 0.0,
+    "retweets": [
+      "rsallesmma",
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "afonso_motta",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depzeneto",
+    "size": 51.0,
+    "retweets": [
+      "costa_rui",
+      "brasil247"
+    ]
+  },
+  {
+    "name": "waldenorpereira",
+    "size": 72.0,
+    "retweets": [
+      "costa_rui",
+      "dasilvabenedita",
+      "rfalcao13",
+      "prof_rosaneide",
+      "zeca_dirceu",
+      "mariadorosario",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "rfalcao13",
+      "pauloteixeira13"
+    ]
+  },
+  {
+    "name": "DepValmir",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "sergiobritoBA",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "raimundocostaba",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "deppimentel",
+    "size": 7.0,
+    "retweets": [
+      "o_antagonista",
+      "bozzellajr"
+    ]
+  },
+  {
+    "name": "nelsonpelegrino",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "dilmabr"
+    ]
+  },
+  {
+    "name": "PauloAzi",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "AbilioSantanaBA",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "OttoAlencarFilh",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "dpmarciomarinho",
+    "size": 0.0,
+    "retweets": [
+      "marcospereira04"
+    ]
+  },
+  {
+    "name": "depmarcelonilo",
+    "size": 4.0,
+    "retweets": []
+  },
+  {
+    "name": "lidicedamata",
+    "size": 10.0,
+    "retweets": [
+      "cirogomes",
+      "costa_rui",
+      "jandira_feghali",
+      "revistaforum",
+      "gleisi",
+      "alessandromolon",
+      "randolfeap",
+      "perpetua_acre",
+      "denisbezerra",
+      "felipecarreras",
+      "carlosveraspt",
+      "gleisi",
+      "mariadorosario",
+      "taliriapetrone",
+      "jandira_feghali",
+      "alessandromolon",
+      "aureacarolinax",
+      "samiabomfim"
+    ]
+  },
+  {
+    "name": "LeurLomantoJr",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "josiasgomesba",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "xicosa"
+    ]
+  },
+  {
+    "name": "dep_joserocha",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JoseNunesDep",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depjorgesolla",
+    "size": 56.0,
+    "retweets": [
+      "costa_rui",
+      "eduardomoreira",
+      "folha",
+      "gleisi",
+      "senadorhumberto",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "freianastaciopt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depjorgesolla",
+      "rfalcao13",
+      "orlandosilva",
+      "padilhando",
+      "xicosa",
+      "gugachacra",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "joaoromaneto",
+    "size": 11.0,
+    "retweets": [
+      "jairbolsonaro",
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "FelixMendoncaJr",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Daniel_PCdoB",
+    "size": 0.0,
+    "retweets": [
+      "jandira_feghali",
+      "jandira_feghali",
+      "orlandosilva"
+    ]
+  },
+  {
+    "name": "deputadocajado",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "CacaLeao",
+    "size": 0.0,
+    "retweets": [
+      "tarcisiogdf",
+      "fabiofaria5555",
+      "marceloramosam",
+      "christinoaureo",
+      "christinoaureo"
+    ]
+  },
+  {
+    "name": "DepArthurMaia",
+    "size": 0.0,
+    "retweets": [
+      "o_antagonista",
+      "marcelvanhattem"
+    ]
+  },
+  {
+    "name": "Alice_Portugal",
+    "size": 0.0,
+    "retweets": [
+      "jandira_feghali",
+      "brasil247",
+      "jandira_feghali",
+      "orlandosilva",
+      "xicosa"
+    ]
+  },
+  {
+    "name": "depalexsantana",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "AfonsoFlorence",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "dilmabr",
+      "revistaforum",
+      "gleisi",
+      "dasilvabenedita",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "erikakokay",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "waldenorpereira",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "AdolfoViana_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "WladGarotinho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "taliriapetrone",
+    "size": 150.0,
+    "retweets": [
+      "luizaerundina",
+      "lauraabcarvalho",
+      "natbonavides",
+      "fernandapsol",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim",
+      "luizaerundina"
+    ]
+  },
+  {
+    "name": "DepSostenes",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "folha",
+      "o_antagonista",
+      "alexandregarcia",
+      "fabiofaria5555",
+      "marcelvanhattem"
+    ]
+  },
+  {
+    "name": "rosangelasgomes",
+    "size": 0.0,
+    "retweets": [
+      "jhonatan_djesus",
+      "marceloramosam"
+    ]
+  },
+  {
+    "name": "sorayasantos",
+    "size": 1.0,
+    "retweets": [
+      "jhonatan_djesus"
+    ]
+  },
+  {
+    "name": "RodrigoMaia",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "depaguinaldo11",
+      "marcospereira04",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "pedropaulo",
+    "size": 3.0,
+    "retweets": []
+  },
+  {
+    "name": "professorjoziel",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "pauloganime",
+    "size": 49.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "o_antagonista",
+      "claudioedantas",
+      "arthurmoledoval",
+      "paulambelmonte",
+      "gilsonmarques30",
+      "marcelvanhattem",
+      "pauloganime",
+      "christinoaureo",
+      "christinoaureo",
+      "lucasvgonzalez",
+      "adriventurasp"
+    ]
+  },
+  {
+    "name": "OtoniDepFederal",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "marciolabre",
+    "size": 9.0,
+    "retweets": [
+      "jairbolsonaro",
+      "alexandregarcia",
+      "lpbragancabr"
+    ]
+  },
+  {
+    "name": "MarceloFreixo",
+    "size": 0.0,
+    "retweets": [
+      "revistaforum",
+      "andrepdt12",
+      "taliriapetrone",
+      "jandira_feghali",
+      "aureacarolinax",
+      "samiabomfim",
+      "orlandosilva",
+      "luizaerundina",
+      "xicosa",
+      "luisnassif",
+      "felipeneto",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "caleromarcelo",
+    "size": 9.0,
+    "retweets": [
+      "jdoriajr",
+      "folha",
+      "claudioedantas",
+      "diogomainardi",
+      "tabataamaralsp",
+      "pedropaulo",
+      "christinoaureo",
+      "christinoaureo",
+      "tabataamaralsp",
+      "gugachacra",
+      "miriamleitao"
+    ]
+  },
+  {
+    "name": "majorfabianadep",
+    "size": 76.0,
+    "retweets": [
+      "jairbolsonaro",
+      "fabiofaria5555",
+      "marciolabre",
+      "majorfabianadep",
+      "carlosjordy"
+    ]
+  },
+  {
+    "name": "Oficialluizlima",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "depluizantonio",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "LourivalGomesrj",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JuninhodoPneu",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "jandira_feghali",
+    "size": 121.0,
+    "retweets": [
+      "safbf",
+      "senadorhumberto",
+      "f_trad",
+      "perpetua_acre",
+      "renildo",
+      "jandira_feghali",
+      "orlandosilva",
+      "luizaerundina",
+      "felipeneto",
+      "miriamleitao",
+      "_pinheira",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "depHugoLeal",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depHugoLeal",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "HlioFernandoBa1",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Glauber_Braga",
+    "size": 0.0,
+    "retweets": [
+      "safbf",
+      "luizaerundina",
+      "brasil247",
+      "revistaforum",
+      "jeanwyllys_real",
+      "davidmirandario",
+      "natbonavides",
+      "marciojerry",
+      "fernandapsol",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim",
+      "luizaerundina",
+      "xicosa",
+      "cynaramenezes",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "depflordelis",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "FederalFelicio",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DelegadoFurtado",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DanielaWaguinho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "danielPMERJ",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "ToniettoChris",
+    "size": 0.0,
+    "retweets": [
+      "filipebarrost"
+    ]
+  },
+  {
+    "name": "BrazaoChiquinho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "carlosjordy",
+    "size": 87.0,
+    "retweets": [
+      "rsallesmma",
+      "o_antagonista",
+      "alexandregarcia",
+      "cel_armando",
+      "depcelsosabino",
+      "capitao_wagner",
+      "filipebarrost",
+      "diegogarciapr",
+      "carlosjordy"
+    ]
+  },
+  {
+    "name": "dasilvabenedita",
+    "size": 208.0,
+    "retweets": [
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "lindberghfarias",
+      "senadorhumberto",
+      "esuplicy",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "marciojerry",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "waldenorpereira",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "aureacarolinax",
+      "rfalcao13",
+      "pauloteixeira13",
+      "orlandosilva",
+      "padilhando",
+      "xicosa",
+      "cynaramenezes",
+      "pablovillaca",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "christinoaureo",
+    "size": 9.0,
+    "retweets": [
+      "christinoaureo"
+    ]
+  },
+  {
+    "name": "christinoaureo",
+    "size": 9.0,
+    "retweets": [
+      "christinoaureo"
+    ]
+  },
+  {
+    "name": "Altineu",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "AleSerfiotis",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "alessandromolon",
+    "size": 50.0,
+    "retweets": [
+      "jairbolsonaro",
+      "folha",
+      "randolfeap",
+      "alessandromolon"
+    ]
+  },
+  {
+    "name": "zevitor_mg",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "ZeSilva_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "pradoweliton",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "TiagoMitraud",
+    "size": 0.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "gilsonmarques30",
+      "marcelvanhattem",
+      "pauloganime",
+      "caleromarcelo",
+      "adriventurasp"
+    ]
+  },
+  {
+    "name": "subgonzagamg",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depstefano",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "RogerioCorreia_",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "dilmabr",
+      "brasil247",
+      "revistaforum",
+      "folha",
+      "gleisi",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "fernandapsol",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "aureacarolinax",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "emirsader",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "RodrigoCastro45",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "ReginaldoLopes",
+    "size": 0.0,
+    "retweets": [
+      "dilmabr",
+      "brasil247",
+      "revistaforum",
+      "gleisi",
+      "dasilvabenedita",
+      "natbonavides",
+      "prof_rosaneide",
+      "heldersalomao",
+      "gleisi",
+      "dasilvabenedita"
+    ]
+  },
+  {
+    "name": "deppauloguedes",
+    "size": 97.0,
+    "retweets": [
+      "dilmabr",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "dasilvabenedita",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "Patrus_Ananias",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "lauraabcarvalho",
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "revistaforum",
+      "folha",
+      "gleisi",
+      "tabataamaralsp",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "senadorhumberto",
+      "rfalcao13",
+      "esuplicy",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "aureacarolinax",
+      "tabataamaralsp",
+      "samiabomfim",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "marcelorubens",
+      "gugachacra",
+      "luisnassif",
+      "pablovillaca",
+      "emirsader",
+      "felipeneto",
+      "_pinheira",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "dep_padrejoao",
+    "size": 114.0,
+    "retweets": [
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "odaircunhamg",
+    "size": 115.0,
+    "retweets": [
+      "dilmabr",
+      "brasil247",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "f_trad",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "emirsader"
+    ]
+  },
+  {
+    "name": "newton1510",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "depmaurolopes",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "JFMargarida",
+    "size": 0.0,
+    "retweets": [
+      "dilmabr",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "esuplicy",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "achinaglia",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "marceloaro",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Marceloalvaroan",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "LuisTibeOficial",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "lucasvgonzalez",
+    "size": 5.0,
+    "retweets": [
+      "o_antagonista",
+      "pauloganime"
+    ]
+  },
+  {
+    "name": "lincoln_portela",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro"
+    ]
+  },
+  {
+    "name": "depleomonteiro",
+    "size": 69.0,
+    "retweets": [
+      "gleisi",
+      "prof_rosaneide",
+      "uczai",
+      "zeca_dirceu",
+      "gleisi",
+      "waldenorpereira",
+      "deppauloguedes"
+    ]
+  },
+  {
+    "name": "leomotta_ofc",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depjuliodelgado",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "oficialigortimo",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "herciliodiniz",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "gilbertoabramo",
+    "size": 0.0,
+    "retweets": [
+      "marcospereira04"
+    ]
+  },
+  {
+    "name": "FredCostaDep",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "FrancoCartafina",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "_FabinhoRamalho",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "EuclydesPetter",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "erosbiondini",
+    "size": 4.0,
+    "retweets": [
+      "jairbolsonaro",
+      "ronaldocaiado",
+      "rsallesmma",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "fabiofaria5555",
+      "majorfabianadep"
+    ]
+  },
+  {
+    "name": "eduardobarbosa_",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "mario_heringer",
+    "size": 3.0,
+    "retweets": []
+  },
+  {
+    "name": "DomingosSavioMG",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "depdimasfabiano",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DelegadoFreitas",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "charllesevg",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "cabojunioamaral",
+    "size": 20.0,
+    "retweets": [
+      "opropriolavo",
+      "cabojunioamaral"
+    ]
+  },
+  {
+    "name": "depbilacpinto",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "aureacarolinax",
+    "size": 121.0,
+    "retweets": [
+      "safbf",
+      "luizaerundina",
+      "dilmabr",
+      "cartacapital",
+      "folha",
+      "davidmirandario",
+      "tuliogadelha",
+      "fernandapsol",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim",
+      "luizaerundina",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "AndreJanonesAdv",
+    "size": 0.0,
+    "retweets": [
+      "eduardomoreira",
+      "o_antagonista",
+      "paulambelmonte"
+    ]
+  },
+  {
+    "name": "alesilva_38",
+    "size": 9.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "tarcisiogdf",
+      "claudioedantas",
+      "gen_heleno",
+      "fabiofaria5555",
+      "majorfabianadep",
+      "carlosjordy",
+      "cabojunioamaral",
+      "alesilva_38",
+      "marcofeliciano",
+      "lpbragancabr",
+      "roxmo"
+    ]
+  },
+  {
+    "name": "AecioNeves",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DepVitorLippi",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "ViniciusPoit",
+    "size": 0.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "joicehasselmann",
+      "rigoni_felipe",
+      "gilsonmarques30",
+      "marcelvanhattem",
+      "pauloganime",
+      "adriventurasp"
+    ]
+  },
+  {
+    "name": "ViniciusPoit",
+    "size": 0.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "rigoni_felipe",
+      "gilsonmarques30",
+      "marcelvanhattem",
+      "pauloganime",
+      "joicehasselmann",
+      "adriventurasp"
+    ]
+  },
+  {
+    "name": "viniciusfederal",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "VICENTINHOPT",
+    "size": 0.0,
+    "retweets": [
+      "brasil247",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "vanderleimacris",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "tiriricanaweb",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "tabataamaralsp",
+    "size": 25.0,
+    "retweets": [
+      "folha",
+      "o_antagonista",
+      "profdorinha",
+      "rigoni_felipe",
+      "tabataamaralsp"
+    ]
+  },
+  {
+    "name": "samuelmoreira",
+    "size": 6.0,
+    "retweets": []
+  },
+  {
+    "name": "samiabomfim",
+    "size": 126.0,
+    "retweets": [
+      "jairbolsonaro",
+      "eduardomoreira",
+      "luizaerundina",
+      "davidmirandario",
+      "brunocovas",
+      "natbonavides",
+      "perpetua_acre",
+      "mariadorosario",
+      "fernandapsol",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim",
+      "pauloteixeira13",
+      "luizaerundina",
+      "_pinheira"
+    ]
+  },
+  {
+    "name": "rfalcao13",
+    "size": 89.0,
+    "retweets": [
+      "brasil247",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "DepRosanaValle",
+    "size": 0.0,
+    "retweets": [
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "rodrigoagost",
+    "size": 4.0,
+    "retweets": [
+      "o_antagonista",
+      "pauloganime"
+    ]
+  },
+  {
+    "name": "robertodelucena",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "RobertoAlves_10",
+    "size": 0.0,
+    "retweets": [
+      "marcospereira04"
+    ]
+  },
+  {
+    "name": "RicardoIzar",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "RenataAbreu1919",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "KatiaSastre",
+    "size": 0.0,
+    "retweets": [
+      "tarcisiogdf"
+    ]
+  },
+  {
+    "name": "pauloteixeira13",
+    "size": 90.0,
+    "retweets": [
+      "gleisi",
+      "heldersalomao",
+      "gleisi",
+      "pauloteixeira13"
+    ]
+  },
+  {
+    "name": "DF_PauloFreire",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "dep_paulinho",
+    "size": 4.0,
+    "retweets": []
+  },
+  {
+    "name": "marcofeliciano",
+    "size": 7.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "tarcisiogdf",
+      "o_antagonista",
+      "gen_heleno"
+    ]
+  },
+  {
+    "name": "orlandosilva",
+    "size": 145.0,
+    "retweets": [
+      "lauraabcarvalho",
+      "folha",
+      "natbonavides",
+      "perpetua_acre",
+      "marciojerry",
+      "_pinheira"
+    ]
+  },
+  {
+    "name": "NiltoTatto",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "safbf",
+      "jandira_feghali",
+      "folha",
+      "gleisi",
+      "dasilvabenedita",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "waldenorpereira",
+      "taliriapetrone",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "padilhando",
+      "xicosa",
+      "pablovillaca"
+    ]
+  },
+  {
+    "name": "MiltonVieiraOfc",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DMiguellombardi",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "mariarosassp",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "marcospereira04",
+    "size": 20.0,
+    "retweets": [
+      "dep_alinegurgel"
+    ]
+  },
+  {
+    "name": "MarcoBertaiolli",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "AlvinoMarcio",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "luizaerundina",
+    "size": 54.0,
+    "retweets": [
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "esuplicy",
+      "fernandapsol",
+      "taliriapetrone",
+      "aureacarolinax",
+      "samiabomfim",
+      "xicosa",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "lpbragancabr",
+    "size": 20.0,
+    "retweets": [
+      "ernestofaraujo",
+      "alexandregarcia"
+    ]
+  },
+  {
+    "name": "KimKataguiri",
+    "size": 0.0,
+    "retweets": [
+      "joaoamoedonovo",
+      "o_antagonista",
+      "claudioedantas",
+      "arthurmoledoval",
+      "marcelvanhattem"
+    ]
+  },
+  {
+    "name": "bozzellajr",
+    "size": 33.0,
+    "retweets": [
+      "o_antagonista",
+      "joicehasselmann",
+      "deppimentel",
+      "joicehasselmann"
+    ]
+  },
+  {
+    "name": "joicehasselmann",
+    "size": 16.0,
+    "retweets": [
+      "jdoriajr",
+      "o_antagonista",
+      "claudioedantas",
+      "77_frota",
+      "deppimentel",
+      "bozzellajr",
+      "joicehasselmann",
+      "gugachacra",
+      "pablovillaca",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "DepJefferson",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "IvanValente",
+    "size": 0.0,
+    "retweets": [
+      "eduardomoreira",
+      "luizaerundina",
+      "taliriapetrone",
+      "luizaerundina",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "herculanopassos",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "GuilhermeMussi",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "DepGuigaPeixoto",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "GilbertoPSC20",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "geninhozuliani",
+    "size": 1.0,
+    "retweets": [
+      "jdoriajr",
+      "o_antagonista",
+      "claudioedantas"
+    ]
+  },
+  {
+    "name": "GenPeternelli",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "enricomisasi",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Eduardo_Cury",
+    "size": 0.0,
+    "retweets": [
+      "diogomainardi",
+      "gugachacra"
+    ]
+  },
+  {
+    "name": "BolsonaroSP",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "opropriolavo",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "gen_heleno",
+      "fabiofaria5555",
+      "diegogarciapr",
+      "majorfabianadep",
+      "carlosjordy",
+      "cabojunioamaral",
+      "alesilva_38",
+      "marcofeliciano",
+      "roxmo"
+    ]
+  },
+  {
+    "name": "davidbrsoares",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "CoronelTadeu",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "opropriolavo",
+      "tarcisiogdf",
+      "fabiofaria5555",
+      "diegogarciapr",
+      "roxmo"
+    ]
+  },
+  {
+    "name": "Czmadureira",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "CarlosZarattini",
+    "size": 0.0,
+    "retweets": [
+      "luizaerundina",
+      "dilmabr",
+      "brasil247",
+      "cartacapital",
+      "folha",
+      "jeanwyllys_real",
+      "gleisi",
+      "dasilvabenedita",
+      "senadorhumberto",
+      "rfalcao13",
+      "esuplicy",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "perpetua_acre",
+      "paulaodopt",
+      "assis_carvalho",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "fernandapsol",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "luizaerundina",
+      "padilhando",
+      "xicosa",
+      "cynaramenezes",
+      "luisnassif",
+      "emirsader",
+      "felipeneto",
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "carlossampaio_",
+    "size": 2.0,
+    "retweets": []
+  },
+  {
+    "name": "CarlaZambelli38",
+    "size": 0.0,
+    "retweets": [
+      "jairbolsonaro",
+      "rsallesmma",
+      "ernestofaraujo",
+      "opropriolavo",
+      "tarcisiogdf",
+      "alexandregarcia",
+      "gen_heleno",
+      "fabiofaria5555",
+      "paulambelmonte",
+      "filipebarrost",
+      "diegogarciapr",
+      "mariadorosario",
+      "joaoromaneto",
+      "pauloganime",
+      "marciolabre",
+      "majorfabianadep",
+      "carlosjordy",
+      "cabojunioamaral",
+      "alesilva_38",
+      "lpbragancabr"
+    ]
+  },
+  {
+    "name": "capitao_augusto",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Baleia_Rossi",
+    "size": 0.0,
+    "retweets": [
+      "profdorinha",
+      "paulambelmonte",
+      "perpetua_acre",
+      "rigoni_felipe",
+      "maldaner_celso",
+      "carloschiodini",
+      "elcionepmdb",
+      "denisbezerra",
+      "depmarcelonilo",
+      "depjorgesolla",
+      "caleromarcelo",
+      "alessandromolon",
+      "tabataamaralsp",
+      "samuelmoreira",
+      "rodrigoagost",
+      "dep_paulinho",
+      "orlandosilva",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "ArnaldoJardim",
+    "size": 0.0,
+    "retweets": [
+      "jdoriajr",
+      "christinoaureo",
+      "christinoaureo"
+    ]
+  },
+  {
+    "name": "achinaglia",
+    "size": 1.0,
+    "retweets": [
+      "reinaldoazevedo"
+    ]
+  },
+  {
+    "name": "AlexisFonteyne",
+    "size": 0.0,
+    "retweets": [
+      "pauloganime"
+    ]
+  },
+  {
+    "name": "padilhando",
+    "size": 219.0,
+    "retweets": [
+      "dilmabr",
+      "brasil247",
+      "revistaforum",
+      "gleisi",
+      "dasilvabenedita",
+      "senadorhumberto",
+      "rfalcao13",
+      "esuplicy",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "padilhando"
+    ]
+  },
+  {
+    "name": "lexandreleite",
+    "size": 0.0,
+    "retweets": [
+      "folha"
+    ]
+  },
+  {
+    "name": "AlexManente23",
+    "size": 0.0,
+    "retweets": [
+      "o_antagonista",
+      "f_trad",
+      "paulambelmonte",
+      "marceloramosam",
+      "adriventurasp"
+    ]
+  },
+  {
+    "name": "AlencarBraga13",
+    "size": 0.0,
+    "retweets": [
+      "costa_rui",
+      "dilmabr",
+      "jandira_feghali",
+      "revistaforum",
+      "jeanwyllys_real",
+      "gleisi",
+      "dasilvabenedita",
+      "senadorhumberto",
+      "rfalcao13",
+      "depjoaodanielpt",
+      "natbonavides",
+      "prof_rosaneide",
+      "vanderloubet",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "freianastaciopt",
+      "uczai",
+      "marciojerry",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "depzeneto",
+      "waldenorpereira",
+      "depjorgesolla",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "deppauloguedes",
+      "dep_padrejoao",
+      "odaircunhamg",
+      "depleomonteiro",
+      "rfalcao13",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "marcelorubens",
+      "cynaramenezes",
+      "pablovillaca",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "adriventurasp",
+    "size": 22.0,
+    "retweets": [
+      "marcelvanhattem"
+    ]
+  },
+  {
+    "name": "abou_anni",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "FMouraBrasil",
+    "size": 0.0,
+    "retweets": [
+      "deppimentel"
+    ]
+  },
+  {
+    "name": "GeorgMarques",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "revistaforum",
+      "77_frota",
+      "f_trad",
+      "enioverri",
+      "taliriapetrone",
+      "xicosa",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "PastorMalafaia",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "Ro_Moller",
+    "size": 0.0,
+    "retweets": [
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "xicosa",
+    "size": 144.0,
+    "retweets": [
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "natbonavides",
+      "marcelorubens",
+      "luisnassif",
+      "emirsader",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "marcelorubens",
+    "size": 67.0,
+    "retweets": [
+      "lauraabcarvalho",
+      "cartacapital",
+      "folha",
+      "alessandromolon",
+      "alessandromolon",
+      "pauloteixeira13",
+      "xicosa",
+      "marcelorubens",
+      "gugachacra",
+      "cynaramenezes",
+      "felipeneto",
+      "reinaldoazevedo",
+      "_pinheira",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "AndreiaSadi",
+    "size": 0.0,
+    "retweets": [
+      "o_antagonista",
+      "gugachacra",
+      "miriamleitao"
+    ]
+  },
+  {
+    "name": "gugachacra",
+    "size": 126.0,
+    "retweets": [
+      "lauraabcarvalho",
+      "folha",
+      "marcelorubens",
+      "gugachacra",
+      "felipeneto",
+      "miriamleitao"
+    ]
+  },
+  {
+    "name": "diegoescosteguy",
+    "size": 1.0,
+    "retweets": [
+      "gugachacra"
+    ]
+  },
+  {
+    "name": "cynaramenezes",
+    "size": 233.0,
+    "retweets": [
+      "cirogomes",
+      "costa_rui",
+      "helderbarbalho",
+      "eduardomoreira",
+      "safbf",
+      "lauraabcarvalho",
+      "dilmabr",
+      "jandira_feghali",
+      "brasil247",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "jeanwyllys_real",
+      "gleisi",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "esuplicy",
+      "natbonavides",
+      "erikakokay",
+      "heldersalomao",
+      "zeca_dirceu",
+      "gleisi",
+      "mariadorosario",
+      "taliriapetrone",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "samiabomfim",
+      "orlandosilva",
+      "padilhando",
+      "xicosa",
+      "marcelorubens",
+      "gugachacra",
+      "cynaramenezes",
+      "felipeneto",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "luisnassif",
+    "size": 90.0,
+    "retweets": [
+      "pauloteixeira13",
+      "padilhando",
+      "luisnassif"
+    ]
+  },
+  {
+    "name": "JanainaDoBrasil",
+    "size": 0.0,
+    "retweets": [
+      "joicehasselmann",
+      "marcelvanhattem",
+      "lpbragancabr",
+      "joicehasselmann"
+    ]
+  },
+  {
+    "name": "LeonardoBoff",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "luizaerundina",
+      "jandira_feghali",
+      "brasil247",
+      "gleisi",
+      "tabataamaralsp",
+      "alessandromolon",
+      "dasilvabenedita",
+      "senadorhumberto",
+      "esuplicy",
+      "natbonavides",
+      "erikakokay",
+      "heldersalomao",
+      "carlosveraspt",
+      "zeca_dirceu",
+      "gleisi",
+      "mariadorosario",
+      "jandira_feghali",
+      "dasilvabenedita",
+      "alessandromolon",
+      "tabataamaralsp",
+      "pauloteixeira13",
+      "orlandosilva",
+      "luizaerundina",
+      "padilhando",
+      "xicosa",
+      "gugachacra",
+      "emirsader",
+      "miriamleitao"
+    ]
+  },
+  {
+    "name": "stanleyburburin",
+    "size": 0.0,
+    "retweets": []
+  },
+  {
+    "name": "pablovillaca",
+    "size": 123.0,
+    "retweets": [
+      "safbf",
+      "lauraabcarvalho",
+      "jandira_feghali",
+      "cartacapital",
+      "revistaforum",
+      "folha",
+      "jeanwyllys_real",
+      "fernandapsol",
+      "jandira_feghali",
+      "marcelorubens",
+      "pablovillaca",
+      "felipeneto",
+      "henrybugalho",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "emirsader",
+    "size": 34.0,
+    "retweets": [
+      "costa_rui",
+      "wdiaspi",
+      "fatimabezerra",
+      "brasil247",
+      "revistaforum",
+      "folha",
+      "jeanwyllys_real",
+      "gleisi",
+      "dasilvabenedita",
+      "lindberghfarias",
+      "senadorhumberto",
+      "esuplicy",
+      "natbonavides",
+      "erikakokay",
+      "paulaodopt",
+      "heldersalomao",
+      "uczai",
+      "zeca_dirceu",
+      "gleisi",
+      "enioverri",
+      "mariadorosario",
+      "dasilvabenedita",
+      "aureacarolinax",
+      "pauloteixeira13",
+      "padilhando",
+      "xicosa",
+      "gugachacra",
+      "cynaramenezes",
+      "luisnassif",
+      "pablovillaca",
+      "emirsader",
+      "felipeneto",
+      "reinaldoazevedo",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "roxmo",
+    "size": 14.0,
+    "retweets": [
+      "gen_heleno",
+      "carlosjordy",
+      "alesilva_38",
+      "roxmo"
+    ]
+  },
+  {
+    "name": "lf_ponde",
+    "size": 5.0,
+    "retweets": [
+      "folha"
+    ]
+  },
+  {
+    "name": "DaniloGentili",
+    "size": 0.0,
+    "retweets": [
+      "o_antagonista",
+      "claudioedantas",
+      "diogomainardi",
+      "arthurmoledoval",
+      "lf_ponde"
+    ]
+  },
+  {
+    "name": "felipeneto",
+    "size": 111.0,
+    "retweets": [
+      "cirogomes",
+      "lauraabcarvalho",
+      "jandira_feghali",
+      "cartacapital",
+      "folha",
+      "jeanwyllys_real",
+      "gleisi",
+      "davidmirandario",
+      "randolfeap",
+      "esuplicy",
+      "marciojerry",
+      "gleisi",
+      "jandira_feghali",
+      "samiabomfim",
+      "orlandosilva",
+      "felipeneto",
+      "reinaldoazevedo",
+      "_pinheira",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "VillaMarcovilla",
+    "size": 0.0,
+    "retweets": [
+      "cirogomes",
+      "joaoamoedonovo",
+      "lauraabcarvalho",
+      "folha"
+    ]
+  },
+  {
+    "name": "reinaldoazevedo",
+    "size": 72.0,
+    "retweets": [
+      "folha"
+    ]
+  },
+  {
+    "name": "miriamleitao",
+    "size": 36.0,
+    "retweets": [
+      "lauraabcarvalho",
+      "folha",
+      "davialcolumbre",
+      "tabataamaralsp",
+      "alessandromolon",
+      "brunocovas",
+      "perpetua_acre",
+      "rigoni_felipe",
+      "alessandromolon",
+      "tabataamaralsp",
+      "marcelorubens",
+      "gugachacra",
+      "felipeneto"
+    ]
+  },
+  {
+    "name": "GabrielaPrioli",
+    "size": 0.0,
+    "retweets": [
+      "lauraabcarvalho",
+      "folha",
+      "gugachacra",
+      "felipeneto",
+      "reinaldoazevedo",
+      "miriamleitao",
+      "henrybugalho",
+      "_pinheira",
+      "gduvivier"
+    ]
+  },
+  {
+    "name": "henrybugalho",
+    "size": 15.0,
+    "retweets": [
+      "cirogomes",
+      "jandira_feghali",
+      "fernandapsol",
+      "jandira_feghali",
+      "samiabomfim",
+      "felipeneto",
+      "_pinheira",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "_pinheira",
+    "size": 39.0,
+    "retweets": [
+      "jeanwyllys_real",
+      "fernandapsol",
+      "aureacarolinax",
+      "felipeneto",
+      "henrybugalho",
+      "_pinheira"
+    ]
+  },
+  {
+    "name": "gduvivier",
+    "size": 83.0,
+    "retweets": [
+      "cirogomes",
+      "safbf",
+      "lauraabcarvalho",
+      "folha",
+      "jeanwyllys_real",
+      "joicehasselmann",
+      "natbonavides",
+      "marciojerry",
+      "fernandapsol",
+      "aureacarolinax",
+      "samiabomfim",
+      "joicehasselmann",
+      "xicosa",
+      "felipeneto",
+      "henrybugalho",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  },
+  {
+    "name": "slpng_giants_pt",
+    "size": 73.0,
+    "retweets": [
+      "xicosa",
+      "pablovillaca",
+      "felipeneto",
+      "reinaldoazevedo",
+      "henrybugalho",
+      "gduvivier",
+      "slpng_giants_pt"
+    ]
+  }
+]
