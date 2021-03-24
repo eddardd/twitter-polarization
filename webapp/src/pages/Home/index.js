@@ -8,6 +8,9 @@ import ProductContent from '../../content/ProductContent.json';
 
 const Hero = lazy(() => import('../../components/Hero'));
 const RetweetGraph = lazy(() => import('../../components/RetweetGraph'));
+const HierarchicalEdge = lazy(() =>
+  import('../../components/HierarchicalEdge'),
+);
 const ContentBlock = lazy(() => import('../../components/ContentBlock'));
 const MiddleBlock = lazy(() => import('../../components/MiddleBlock'));
 const Container = lazy(() => import('../../common/Container'));
@@ -21,6 +24,9 @@ function Home() {
         <ScrollTop />
         <Suspense fallback="<div>">
           <RetweetGraph />
+        </Suspense>
+        <Suspense fallback="<div>">
+          <HierarchicalEdge />
         </Suspense>
         <MiddleBlock
           title={MiddleBlockContent.title}
