@@ -7,14 +7,15 @@ export const HeroDiv = styled.div`
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-image: url(${cover});
+  //background-image: url(${cover});
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 
-  h1 {
+  h1,
+  p {
     color: white;
     text-align: center;
     justify-content: center;
