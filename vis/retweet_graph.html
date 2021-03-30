@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Retweet Graph</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/4.2.5/dc.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <link rel="stylesheet" href="graph1_style.css">
+</head>
+<body>
+    <main id="container" class="container">
+    <div class="flex-container">
+        <div id="graph" class="flex-child"><h2>Grafo de Retweets</h2></div>
+        <div id="bar1" class="flex-child"><h2 id="barHeader">Ideologia de quem Retweetou:</h2></div>
+    </div>
+    <script src="hierarchical_edge_bundling.js"></script>
+</body>
+</html>
