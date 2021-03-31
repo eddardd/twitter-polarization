@@ -37,28 +37,49 @@ Promise.all(promises).then(ready)
 
 function ready(us) {
     hierarchical_data = us[0]
+    all_retweets = us[1].links
+    console.log(all_retweets)
     all_users = us[1].nodes
 
     orientationTypeScale = d3.scaleOrdinal()
                              .domain(["Esquerda", "Direita", "Centro"])
                              .range(["#941c1c", "#1a219c", "#9c8e19"])
-    facts = crossfilter(all_users)
-    ideologyDimension = facts.dimension(d => d['Ideology'])
-    nameDimension = facts.dimension(d => d['username'])
-    ideologyCount = ideologyDimension.group()
-    let barchart = new dc.BarChart("#bar1");
+    facts1 = crossfilter(all_users)
+    ideologyDimension1 = facts1.dimension(d => d['Ideology'])
+    nameDimension1 = facts1.dimension(d => d['username'])
+    ideologyCount1 = ideologyDimension1.group()
 
+    facts2 = crossfilter(all_users)
+    ideologyDimension2 = facts2.dimension(d => d['Ideology'])
+    nameDimension2 = facts2.dimension(d => d['username'])
+    ideologyCount2 = ideologyDimension2.group()
+        
+    let barchart = new dc.BarChart("#bar1");
     barchart.width(barplot_width)
             .height(barplot_height)
-            .dimension(ideologyDimension)
+            .dimension(ideologyDimension1)
             .x(orientationTypeScale)
             .xUnits(dc.units.ordinal)
-            .group(ideologyCount)
+            .group(ideologyCount1)
             .margins({top: 10, right: 20, bottom: 20, left: 30})
             .elasticY(true)
             .renderHorizontalGridLines(true)
             .colors(orientationTypeScale)
             .colorAccessor(d => d.key)
+
+    let barchart2 = new dc.BarChart("#bar2");
+
+    barchart2.width(barplot_width)
+             .height(barplot_height)
+             .dimension(ideologyDimension2)
+             .x(orientationTypeScale)
+             .xUnits(dc.units.ordinal)
+             .group(ideologyCount2)
+             .margins({top: 10, right: 20, bottom: 20, left: 30})
+             .elasticY(true)
+             .renderHorizontalGridLines(true)
+             .colors(orientationTypeScale)
+             .colorAccessor(d => d.key)
 
     y = d3.scaleLinear()
           .domain([0, 60])
@@ -118,7 +139,7 @@ function ready(us) {
             d3.selectAll(d.incoming.map(([d]) => d.text)).attr("font-weight", null);
             d3.selectAll(d.outgoing.map(([, d]) => d.text)).attr("font-weight", null);
         }else {
-            document.getElementById("barHeader").innerHTML = `Ideologia de quem retweetou: @${d.data.name}`
+            document.getElementById("barHeader1").innerHTML = `Ideologia de quem retweetou: @${d.data.name}`
             d.data.selected = true
             link.style("mix-blend-mode", null);
             d3.select(this).attr("font-weight", "bold");
@@ -130,11 +151,19 @@ function ready(us) {
         }
 
         let retweeted_usernames = getRetweetedUsers(d.data.imports)
-        nameDimension.filterFunction(function (d) {
+        let users_who_retweet = getWhoRetweetedUser(d.data['name'])
+        console.log(retweeted_usernames)
+        console.log(users_who_retweet)
+        nameDimension1.filterFunction(function (d) {
             return retweeted_usernames.indexOf(d) > -1;
         })
         dc.redrawAll();
-        dc.renderAll();
+
+        nameDimension2.filterFunction(function (d) {
+            return users_who_retweet.indexOf(d) > -1;
+        })
+        dc.redrawAll();
+        //dc.renderAll();
     }
 
     function getRetweetedUsers(who_user_retweeted) {
@@ -144,6 +173,17 @@ function ready(us) {
         })
 
         return usernames
+    }
+
+    function getWhoRetweetedUser(user) {
+        let users_who_retweet = []
+        all_retweets.forEach(function (link) {
+            if (link['target'] == user){
+                users_who_retweet.push(link['source'])
+            }
+        })
+
+        return users_who_retweet
     }
 
     function overed(d, event) {
