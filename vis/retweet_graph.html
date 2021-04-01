@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html>
 <head>
     <title>Retweet Graph</title>
@@ -8,17 +7,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/4.2.5/dc.js"></script>
     <script src="https://unpkg.com/topojson@3"></script>
-    <link rel="stylesheet" href="graph1_style.css">
+    <link rel="stylesheet" href="retweet_graph.css">
 </head>
 <body>
     <main id="container" class="container">
     <div class="flex-container">
         <div id="graph" class="flex-child"><h2>Grafo de Retweets</h2></div>
         <div id="barChartContainer" class="flex-child">
-            <div id="bar1" class="flex-child"><h2 id="barHeader1">Ideologia de quem Retweetou:</h2></div>
-            <div id="bar2" class="flex-child"><h2 id="barHeader2">Ideologia dos Retweets:</h2></div>
+            <div id="bar1" class="flex-child"><h2 id="barHeader1">Ideologia de quem retuitou</h2></div>
+            <div id="bar2" class="flex-child"><h2 id="barHeader2">Ideologia dos retuitados por</h2></div>
         </div>
     </div>
-    <script src="hierarchical_edge_bundling.js"></script>
+    <script src="retweet_graph.js"></script>
 </body>
 </html>

@@ -2,7 +2,7 @@
   {
     "name": "jairbolsonaro",
     "size": 964.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -16,12 +16,12 @@
   {
     "name": "GeneralMourao",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "MarinaSilva",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "alessandromolon",
       "randolfeap",
@@ -33,7 +33,7 @@
   {
     "name": "Haddad_Fernando",
     "size": 0.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "lauraabcarvalho",
       "jandira_feghali",
@@ -62,7 +62,7 @@
   {
     "name": "LulaOficial",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "wdiaspi",
       "fatimabezerra",
@@ -93,7 +93,7 @@
   {
     "name": "cirogomes",
     "size": 178.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "eduardomoreira",
       "alessandromolon",
@@ -109,7 +109,7 @@
   {
     "name": "GuilhermeBoulos",
     "size": 0.0,
-    "imports": [
+    "children": [
       "luizaerundina",
       "lauraabcarvalho",
       "dilmabr",
@@ -145,12 +145,12 @@
   {
     "name": "geraldoalckmin",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "joaoamoedonovo",
     "size": 104.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "o_antagonista",
       "diogomainardi",
@@ -161,26 +161,26 @@
   {
     "name": "GladsonCameli",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jdoriajr"
     ]
   },
   {
     "name": "RenanFilho_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "waldezoficial",
     "size": 32.0,
-    "imports": [
+    "children": [
       "helderbarbalho"
     ]
   },
   {
     "name": "wilsonlimaAM",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "helderbarbalho",
       "tarcisiogdf"
@@ -189,7 +189,7 @@
   {
     "name": "costa_rui",
     "size": 102.0,
-    "imports": [
+    "children": [
       "folha",
       "gugachacra",
       "cynaramenezes",
@@ -199,22 +199,22 @@
   {
     "name": "CamiloSantanaCE",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "IbaneisOficial",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Casagrande_ES",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ronaldocaiado",
     "size": 7.0,
-    "imports": [
+    "children": [
       "tarcisiogdf",
       "o_antagonista"
     ]
@@ -222,7 +222,7 @@
   {
     "name": "FlavioDino",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jandira_feghali",
       "brasil247",
       "cartacapital",
@@ -244,29 +244,29 @@
   {
     "name": "MauroMendes40",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Reinaldo45psdb",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "RomeuZema",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "helderbarbalho",
     "size": 22.0,
-    "imports": [
+    "children": [
       "randolfeap"
     ]
   },
   {
     "name": "joaoazevedolins",
     "size": 8.0,
-    "imports": [
+    "children": [
       "joaoazevedolins",
       "fatimabezerra"
     ]
@@ -274,19 +274,19 @@
   {
     "name": "ratinho_jr",
     "size": 41.0,
-    "imports": [
+    "children": [
       "tarcisiogdf"
     ]
   },
   {
     "name": "PauloCamara40",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "wdiaspi",
     "size": 11.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "o_antagonista"
     ]
@@ -294,12 +294,12 @@
   {
     "name": "claudiocastroRJ",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "fatimabezerra",
     "size": 73.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "natbonavides"
     ]
@@ -307,17 +307,17 @@
   {
     "name": "EduardoLeite_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "celmarcosrocha",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "antoniodenarium",
     "size": 1.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "antoniodenarium",
       "jhonatan_djesus",
@@ -327,14 +327,14 @@
   {
     "name": "CarlosMoises",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tarcisiogdf"
     ]
   },
   {
     "name": "jdoriajr",
     "size": 51.0,
-    "imports": [
+    "children": [
       "jdoriajr",
       "folha",
       "o_antagonista"
@@ -343,38 +343,38 @@
   {
     "name": "belivaldochagas",
     "size": 1.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "maurocarlesse",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "rsallesmma",
     "size": 66.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "ernestofaraujo",
     "size": 60.0,
-    "imports": [
+    "children": [
       "fabiofaria5555"
     ]
   },
   {
     "name": "opropriolavo",
     "size": 25.0,
-    "imports": [
+    "children": [
       "opropriolavo"
     ]
   },
   {
     "name": "tarcisiogdf",
     "size": 302.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "tarcisiogdf",
       "fabiofaria5555",
@@ -384,7 +384,7 @@
   {
     "name": "DamaresAlves",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ernestofaraujo",
       "gen_heleno",
@@ -396,14 +396,14 @@
   {
     "name": "Astro_Pontes",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "CarlosBolsonaro",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ernestofaraujo",
       "tarcisiogdf",
@@ -413,7 +413,7 @@
   {
     "name": "eduardomoreira",
     "size": 37.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "luizaerundina",
       "dilmabr",
@@ -428,7 +428,7 @@
   {
     "name": "safbf",
     "size": 12.0,
-    "imports": [
+    "children": [
       "cartacapital",
       "revistaforum",
       "natbonavides",
@@ -441,7 +441,7 @@
   {
     "name": "luizaerundina",
     "size": 54.0,
-    "imports": [
+    "children": [
       "cartacapital",
       "revistaforum",
       "folha",
@@ -457,7 +457,7 @@
   {
     "name": "lauraabcarvalho",
     "size": 39.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "lauraabcarvalho",
       "folha",
@@ -476,7 +476,7 @@
   {
     "name": "MidiaNINJA",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "eduardomoreira",
       "jandira_feghali",
@@ -513,7 +513,7 @@
   {
     "name": "dilmabr",
     "size": 107.0,
-    "imports": [
+    "children": [
       "revistaforum",
       "gleisi",
       "gleisi",
@@ -524,7 +524,7 @@
   {
     "name": "jandira_feghali",
     "size": 121.0,
-    "imports": [
+    "children": [
       "safbf",
       "luizaerundina",
       "jandira_feghali",
@@ -543,7 +543,7 @@
   {
     "name": "J_LIVRES",
     "size": 0.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "cartacapital",
       "erikakokay",
@@ -554,7 +554,7 @@
   {
     "name": "brasil247",
     "size": 201.0,
-    "imports": [
+    "children": [
       "dasilvabenedita",
       "dasilvabenedita"
     ]
@@ -562,7 +562,7 @@
   {
     "name": "TheInterceptBr",
     "size": 0.0,
-    "imports": [
+    "children": [
       "xicosa",
       "felipeneto",
       "reinaldoazevedo",
@@ -574,43 +574,43 @@
   {
     "name": "cartacapital",
     "size": 89.0,
-    "imports": [
+    "children": [
       "cartacapital"
     ]
   },
   {
     "name": "revistaforum",
     "size": 187.0,
-    "imports": [
+    "children": [
       "revistaforum"
     ]
   },
   {
     "name": "VEJA",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "folha",
     "size": 200.0,
-    "imports": [
+    "children": [
       "reinaldoazevedo"
     ]
   },
   {
     "name": "EstadaoSaoPaulo",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "OGloboPolitica",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "o_antagonista",
     "size": 468.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "claudioedantas",
       "diogomainardi"
@@ -619,7 +619,7 @@
   {
     "name": "CarlaZambelli38",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -645,7 +645,7 @@
   {
     "name": "MBLivre",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "joaoamoedonovo",
       "jdoriajr",
@@ -659,14 +659,14 @@
   {
     "name": "Rconstantino",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jdoriajr"
     ]
   },
   {
     "name": "claudioedantas",
     "size": 133.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "claudioedantas",
       "diogomainardi",
@@ -676,7 +676,7 @@
   {
     "name": "diogomainardi",
     "size": 23.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "o_antagonista",
       "claudioedantas"
@@ -685,12 +685,12 @@
   {
     "name": "alexandregarcia",
     "size": 31.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "jeanwyllys_real",
     "size": 211.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "eduardomoreira",
       "luizaerundina",
@@ -729,7 +729,7 @@
   {
     "name": "MarceloFreixo",
     "size": 0.0,
-    "imports": [
+    "children": [
       "luizaerundina",
       "jandira_feghali",
       "revistaforum",
@@ -747,17 +747,17 @@
   {
     "name": "FHC",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "MichelTemer",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "RodrigoMaia",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "depaguinaldo11",
       "marcospereira04",
@@ -767,12 +767,12 @@
   {
     "name": "lhmandetta",
     "size": 1.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "davialcolumbre",
     "size": 17.0,
-    "imports": [
+    "children": [
       "waldezoficial",
       "joaoromaneto"
     ]
@@ -780,14 +780,14 @@
   {
     "name": "gen_heleno",
     "size": 37.0,
-    "imports": [
+    "children": [
       "gen_heleno"
     ]
   },
   {
     "name": "ManuelaDavila",
     "size": 0.0,
-    "imports": [
+    "children": [
       "lauraabcarvalho",
       "jandira_feghali",
       "cartacapital",
@@ -814,7 +814,7 @@
   {
     "name": "gleisi",
     "size": 402.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "dilmabr",
       "brasil247",
@@ -841,7 +841,7 @@
   {
     "name": "77_frota",
     "size": 13.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "joaoamoedonovo",
       "jdoriajr",
@@ -880,7 +880,7 @@
   {
     "name": "Baleia_Rossi",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tabataamaralsp",
       "alessandromolon",
       "profdorinha",
@@ -904,17 +904,17 @@
   {
     "name": "tassojereissati",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "EduGiraoOficial",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "tabataamaralsp",
     "size": 25.0,
-    "imports": [
+    "children": [
       "folha",
       "o_antagonista",
       "tabataamaralsp",
@@ -925,7 +925,7 @@
   {
     "name": "davidmirandario",
     "size": 17.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "eduardomoreira",
       "jandira_feghali",
@@ -945,7 +945,7 @@
   {
     "name": "alessandromolon",
     "size": 50.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "folha",
       "alessandromolon",
@@ -955,7 +955,7 @@
   {
     "name": "randolfeap",
     "size": 28.0,
-    "imports": [
+    "children": [
       "eduardomoreira",
       "o_antagonista",
       "tabataamaralsp",
@@ -971,7 +971,7 @@
   {
     "name": "dasilvabenedita",
     "size": 208.0,
-    "imports": [
+    "children": [
       "jandira_feghali",
       "brasil247",
       "cartacapital",
@@ -1013,7 +1013,7 @@
   {
     "name": "lindberghfarias",
     "size": 67.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "jandira_feghali",
       "dasilvabenedita",
@@ -1028,7 +1028,7 @@
   {
     "name": "senadorhumberto",
     "size": 43.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "gleisi",
@@ -1039,7 +1039,7 @@
   {
     "name": "rfalcao13",
     "size": 89.0,
-    "imports": [
+    "children": [
       "brasil247",
       "gleisi",
       "dasilvabenedita",
@@ -1067,7 +1067,7 @@
   {
     "name": "esuplicy",
     "size": 62.0,
-    "imports": [
+    "children": [
       "gleisi",
       "tabataamaralsp",
       "dasilvabenedita",
@@ -1083,14 +1083,14 @@
   {
     "name": "brunocovas",
     "size": 2.0,
-    "imports": [
+    "children": [
       "esuplicy"
     ]
   },
   {
     "name": "KimKataguiri",
     "size": 0.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "o_antagonista",
       "claudioedantas",
@@ -1101,7 +1101,7 @@
   {
     "name": "SenadorRogerio",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jandira_feghali",
       "brasil247",
       "folha",
@@ -1120,7 +1120,7 @@
   {
     "name": "arthurmoledoval",
     "size": 671.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "folha",
       "arthurmoledoval"
@@ -1129,7 +1129,7 @@
   {
     "name": "FernandoHoliday",
     "size": 0.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "jdoriajr",
       "folha",
@@ -1145,7 +1145,7 @@
   {
     "name": "joicehasselmann",
     "size": 16.0,
-    "imports": [
+    "children": [
       "jdoriajr",
       "o_antagonista",
       "claudioedantas",
@@ -1161,17 +1161,17 @@
   {
     "name": "vicentinhojr",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "tiago_dimas",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "profdorinha",
     "size": 12.0,
-    "imports": [
+    "children": [
       "tabataamaralsp",
       "perpetua_acre",
       "tabataamaralsp"
@@ -1180,12 +1180,12 @@
   {
     "name": "elidiasborges",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "CelioMouraTO",
     "size": 0.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "dasilvabenedita",
@@ -1213,7 +1213,7 @@
   {
     "name": "LaercioFederal",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "joaoamoedonovo",
       "pauloganime",
@@ -1225,7 +1225,7 @@
   {
     "name": "depjoaodanielpt",
     "size": 78.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "dasilvabenedita",
@@ -1261,7 +1261,7 @@
   {
     "name": "GustinhoRibeiro",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "fabiofaria5555"
     ]
@@ -1269,12 +1269,12 @@
   {
     "name": "fabioreis1515",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depfmitidieri",
     "size": 0.0,
-    "imports": [
+    "children": [
       "belivaldochagas",
       "felipeneto"
     ]
@@ -1282,27 +1282,27 @@
   {
     "name": "FabioHenriqueSE",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "BoscoCosta_SE",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DepSheridan",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depnicoletti",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JoeniaWapichana",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tabataamaralsp",
       "tabataamaralsp"
     ]
@@ -1310,54 +1310,54 @@
   {
     "name": "jhonatan_djesus",
     "size": 4.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ediolopes",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "deputadohiran",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "silviacristinax",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DeputadaMariana",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tarcisiogdf"
     ]
   },
   {
     "name": "luciomosquini",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "jqcassol",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "netto_expedito",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "nazif_dr",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "walteralvesrn",
     "size": 1.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "o_antagonista",
       "walteralvesrn"
@@ -1366,14 +1366,14 @@
   {
     "name": "RafaelMottaRN",
     "size": 0.0,
-    "imports": [
+    "children": [
       "natbonavides"
     ]
   },
   {
     "name": "natbonavides",
     "size": 167.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "dilmabr",
       "gleisi",
@@ -1412,12 +1412,12 @@
   {
     "name": "depjoaomaia",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "GeneralGirao",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ernestofaraujo",
       "tarcisiogdf",
@@ -1431,7 +1431,7 @@
   {
     "name": "fabiofaria5555",
     "size": 132.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ratinho_jr",
       "tarcisiogdf",
@@ -1441,12 +1441,12 @@
   {
     "name": "benesleocadiorn",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "prof_rosaneide",
     "size": 134.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "jandira_feghali",
       "brasil247",
@@ -1478,17 +1478,17 @@
   {
     "name": "NeriGeller",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "nelsonbarbudo",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JoseMedeirosMT",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "tarcisiogdf",
       "majorfabianadep",
@@ -1498,12 +1498,12 @@
   {
     "name": "emanuelzinhomt",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "CarlosBezerraJr",
     "size": 0.0,
-    "imports": [
+    "children": [
       "folha",
       "orlandosilva"
     ]
@@ -1511,7 +1511,7 @@
   {
     "name": "vanderloubet",
     "size": 110.0,
-    "imports": [
+    "children": [
       "gleisi",
       "dasilvabenedita",
       "rfalcao13",
@@ -1544,12 +1544,12 @@
   {
     "name": "LTrutis",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "TerezaCrisMS",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "tarcisiogdf"
     ]
@@ -1557,7 +1557,7 @@
   {
     "name": "f_trad",
     "size": 17.0,
-    "imports": [
+    "children": [
       "f_trad",
       "marceloramosam"
     ]
@@ -1565,46 +1565,46 @@
   {
     "name": "dagobertopdt",
     "size": 1.0,
-    "imports": [
+    "children": [
       "cirogomes"
     ]
   },
   {
     "name": "betopereirams",
     "size": 1.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ProfIsrael",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "paulambelmonte",
     "size": 18.0,
-    "imports": [
+    "children": [
       "tarcisiogdf"
     ]
   },
   {
     "name": "LuisMirandaUSA",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JulioCesarRib",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JulioCesarRib",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "erikakokay",
     "size": 135.0,
-    "imports": [
+    "children": [
       "gleisi",
       "senadorhumberto",
       "uczai",
@@ -1619,14 +1619,14 @@
   {
     "name": "celinaleao",
     "size": 1.0,
-    "imports": [
+    "children": [
       "celinaleao"
     ]
   },
   {
     "name": "Biakicis",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -1647,14 +1647,14 @@
   {
     "name": "profmarcivania",
     "size": 0.0,
-    "imports": [
+    "children": [
       "perpetua_acre"
     ]
   },
   {
     "name": "CamiloPSB",
     "size": 0.0,
-    "imports": [
+    "children": [
       "waldezoficial",
       "alessandromolon",
       "randolfeap",
@@ -1669,7 +1669,7 @@
   {
     "name": "dep_alinegurgel",
     "size": 1.0,
-    "imports": [
+    "children": [
       "waldezoficial",
       "cartacapital",
       "davialcolumbre",
@@ -1684,22 +1684,22 @@
   {
     "name": "AcacioFavacho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "SilasCamaraAM",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "sidneyleite_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "marceloramosam",
     "size": 25.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "marceloramosam"
     ]
@@ -1707,24 +1707,24 @@
   {
     "name": "DelegadoPablo_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "capalbertoneto",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "boscosaraiva",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "perpetua_acre",
     "size": 167.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "jandira_feghali",
       "folha",
@@ -1745,37 +1745,37 @@
   {
     "name": "mararocha4545",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "jesussergioac",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Flaviano_Melo",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Vandamilani1",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Alan_Rick",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "terezanelmaal",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "paulaodopt",
     "size": 769.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "dasilvabenedita",
@@ -1811,27 +1811,27 @@
   {
     "name": "NivaldoAlbuque",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "marxbeltrao",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JHC_40",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "bulhoesjr",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ArthurLira_",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jhonatan_djesus",
       "marceloramosam"
     ]
@@ -1839,62 +1839,62 @@
   {
     "name": "rejane_dias",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "MargaretCoelho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "MarcosA_Sampaio",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DepJulioCesarPI",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DepJulioCesarPI",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "iracemaportela",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "flavionpi",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "deputadoatila",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "assis_carvalho",
     "size": 1.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "vidigalsergio",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "laurietecantora",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "heldersalomao",
     "size": 123.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "brasil247",
       "gleisi",
@@ -1932,17 +1932,17 @@
   {
     "name": "DeputadoFoletto",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "rigoni_felipe",
     "size": 30.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "EvairdeMelo",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "fabiofaria5555"
     ]
@@ -1950,7 +1950,7 @@
   {
     "name": "DraManato",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "fabiofaria5555"
     ]
@@ -1958,44 +1958,44 @@
   {
     "name": "depdavitoria",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "amaronetotv",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "WilsonSantiago_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ruycarneiropb",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "pedroocl",
     "size": 1.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JulianLemosopb1",
     "size": 0.0,
-    "imports": [
+    "children": [
       "o_antagonista"
     ]
   },
   {
     "name": "HugoMottaPB",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "gervasiomaia",
     "size": 2.0,
-    "imports": [
+    "children": [
       "alessandromolon",
       "gervasiomaia",
       "denisbezerra",
@@ -2005,7 +2005,7 @@
   {
     "name": "freianastaciopt",
     "size": 70.0,
-    "imports": [
+    "children": [
       "gleisi",
       "depjoaodanielpt",
       "natbonavides",
@@ -2031,17 +2031,17 @@
   {
     "name": "efraimfilho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depaguinaldo11",
     "size": 4.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "coelho_rodrigo",
     "size": 2.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "tarcisiogdf",
       "folha",
@@ -2058,7 +2058,7 @@
   {
     "name": "uczai",
     "size": 60.0,
-    "imports": [
+    "children": [
       "brasil247",
       "gleisi",
       "rfalcao13",
@@ -2088,7 +2088,7 @@
   {
     "name": "deputadopeninha",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "fabiofaria5555"
     ]
@@ -2096,7 +2096,7 @@
   {
     "name": "gilsonmarques30",
     "size": 19.0,
-    "imports": [
+    "children": [
       "gilsonmarques30",
       "marcelvanhattem",
       "pauloganime"
@@ -2105,17 +2105,17 @@
   {
     "name": "geovaniadesa",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depdarcidematos",
     "size": 10.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DFDanielFreitas",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "tarcisiogdf",
@@ -2128,14 +2128,14 @@
   {
     "name": "cel_armando",
     "size": 1.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "maldaner_celso",
     "size": 6.0,
-    "imports": [
+    "children": [
       "maldaner_celso",
       "_sergiosouza"
     ]
@@ -2143,48 +2143,48 @@
   {
     "name": "CarolDeToni",
     "size": 0.0,
-    "imports": [
+    "children": [
       "opropriolavo"
     ]
   },
   {
     "name": "carloschiodini",
     "size": 4.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DeputadaAngela",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "vavamartinspa",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "Priante15",
     "size": 0.0,
-    "imports": [
+    "children": [
       "helderbarbalho"
     ]
   },
   {
     "name": "OLIVALMARQUES",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DepNilsonPinto",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depjpassarinho",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tarcisiogdf",
       "fabiofaria5555"
     ]
@@ -2192,7 +2192,7 @@
   {
     "name": "elcionepmdb",
     "size": 7.0,
-    "imports": [
+    "children": [
       "cartacapital",
       "o_antagonista",
       "diogomainardi",
@@ -2206,7 +2206,7 @@
   {
     "name": "EdmilsonPSOL",
     "size": 0.0,
-    "imports": [
+    "children": [
       "luizaerundina",
       "dasilvabenedita",
       "esuplicy",
@@ -2223,7 +2223,7 @@
   {
     "name": "EderMauroPA",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "tarcisiogdf",
       "alexandregarcia",
@@ -2237,17 +2237,17 @@
   {
     "name": "depcelsosabino",
     "size": 2.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "cassio_40",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "BetoFaroPT",
     "size": 0.0,
-    "imports": [
+    "children": [
       "helderbarbalho",
       "brasil247",
       "revistaforum",
@@ -2285,7 +2285,7 @@
   {
     "name": "FaleiroAirton",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "revistaforum",
       "gleisi",
@@ -2325,14 +2325,14 @@
   {
     "name": "ZeMarioGO",
     "size": 0.0,
-    "imports": [
+    "children": [
       "ronaldocaiado"
     ]
   },
   {
     "name": "RubensOtoni",
     "size": 0.0,
-    "imports": [
+    "children": [
       "gleisi",
       "dasilvabenedita",
       "rfalcao13",
@@ -2366,12 +2366,12 @@
   {
     "name": "profalcids",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "MajorVitorHugo",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -2388,7 +2388,7 @@
   {
     "name": "MajorVitorHugo",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -2405,56 +2405,56 @@
   {
     "name": "MofattoMagda",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "joaocamposdep",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "joaocamposdep",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "glaustindafokus",
     "size": 0.0,
-    "imports": [
+    "children": [
       "ronaldocaiado"
     ]
   },
   {
     "name": "franciscojr_go",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "FlviaMo74599829",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "EliasVazGyn",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "delegado_waldir",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "adrianodobaldy",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Dep_ZeCarlosPT",
     "size": 0.0,
-    "imports": [
+    "children": [
       "gleisi",
       "dasilvabenedita",
       "rfalcao13",
@@ -2487,14 +2487,14 @@
   {
     "name": "depPedroLucasF",
     "size": 0.0,
-    "imports": [
+    "children": [
       "luisa_canziani"
     ]
   },
   {
     "name": "pastorgil_",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ernestofaraujo",
       "tarcisiogdf"
@@ -2503,7 +2503,7 @@
   {
     "name": "marciojerry",
     "size": 40.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "eduardomoreira",
       "luizaerundina",
@@ -2531,49 +2531,49 @@
   {
     "name": "DepJuscelino",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depmarrecafilho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "josimarPL22",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "RochaHildorocha",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "gilcutrim",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "EduardoBraide",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "EdilazioJunior_",
     "size": 0.0,
-    "imports": [
+    "children": [
       "marcofeliciano"
     ]
   },
   {
     "name": "CleberVerde10",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "BiradoPindare",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "brasil247",
       "cartacapital",
@@ -2588,32 +2588,32 @@
   {
     "name": "DepAndreFufuca",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "AluisioMendesMA",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "VaidonOliveira",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DepFederalMoses",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "deputadomaurobf",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "LuizianneLinsPT",
     "size": 0.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "dasilvabenedita",
@@ -2641,36 +2641,36 @@
   {
     "name": "joseleonidas",
     "size": 3.0,
-    "imports": [
+    "children": [
       "cirogomes"
     ]
   },
   {
     "name": "JuniorManoDep",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JoseAirtonPT",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "IdilvanAlencar",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes"
     ]
   },
   {
     "name": "HeitorFreireCE",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "guimaraes13PT",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "eduardomoreira",
       "dilmabr",
@@ -2715,39 +2715,39 @@
   {
     "name": "DepGenecias",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "eduardobismarck",
     "size": 0.0,
-    "imports": [
+    "children": [
       "felipeneto"
     ]
   },
   {
     "name": "Domingos_Neto",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "denisbezerra",
     "size": 11.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "CelioStudart",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "capitao_wagner",
     "size": 1.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "andrepdt12",
     "size": 41.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "cartacapital",
       "alessandromolon",
@@ -2765,21 +2765,21 @@
   {
     "name": "WolneyQueirozM",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes"
     ]
   },
   {
     "name": "tuliogadelha",
     "size": 3.0,
-    "imports": [
+    "children": [
       "cirogomes"
     ]
   },
   {
     "name": "Silvio_CFilho",
     "size": 0.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "marcospereira04"
     ]
@@ -2787,14 +2787,14 @@
   {
     "name": "renildo",
     "size": 18.0,
-    "imports": [
+    "children": [
       "orlandosilva"
     ]
   },
   {
     "name": "MariliaArraes",
     "size": 0.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "dilmabr",
       "brasil247",
@@ -2814,7 +2814,7 @@
   {
     "name": "JoaoCampos",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tabataamaralsp",
       "felipecarreras",
       "lidicedamata"
@@ -2823,7 +2823,7 @@
   {
     "name": "JoaoCampos",
     "size": 0.0,
-    "imports": [
+    "children": [
       "felipecarreras",
       "lidicedamata",
       "tabataamaralsp"
@@ -2832,7 +2832,7 @@
   {
     "name": "fernandofilhope",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "davialcolumbre"
     ]
@@ -2840,7 +2840,7 @@
   {
     "name": "felipecarreras",
     "size": 6.0,
-    "imports": [
+    "children": [
       "maldaner_celso",
       "felipecarreras"
     ]
@@ -2848,12 +2848,12 @@
   {
     "name": "eduardodafonte",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "danilocabral__",
     "size": 1.0,
-    "imports": [
+    "children": [
       "eduardomoreira",
       "folha"
     ]
@@ -2861,12 +2861,12 @@
   {
     "name": "daniloc4010",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "carlosveraspt",
     "size": 86.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "brasil247",
       "gleisi",
@@ -2900,12 +2900,12 @@
   {
     "name": "dep_acoutinho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "zeca_dirceu",
     "size": 128.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "dasilvabenedita",
@@ -2941,17 +2941,17 @@
   {
     "name": "deputadotoninho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "_sergiosouza",
     "size": 1.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Schiavinato_",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ratinho_jr",
       "tarcisiogdf",
@@ -2961,12 +2961,12 @@
   {
     "name": "SargentoFAHUR",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "SandroAlex5555",
     "size": 0.0,
-    "imports": [
+    "children": [
       "ratinho_jr",
       "tarcisiogdf"
     ]
@@ -2974,17 +2974,17 @@
   {
     "name": "23rubensbueno",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "RicardoBarrosPP",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "pedro_lupion",
     "size": 1.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "fabiofaria5555"
     ]
@@ -2992,26 +2992,26 @@
   {
     "name": "neyleprevost",
     "size": 0.0,
-    "imports": [
+    "children": [
       "ratinho_jr"
     ]
   },
   {
     "name": "luizaogoulart",
     "size": 1.0,
-    "imports": [
+    "children": [
       "luizaogoulart"
     ]
   },
   {
     "name": "LuizNishimori",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "luisa_canziani",
     "size": 1.0,
-    "imports": [
+    "children": [
       "ratinho_jr",
       "tarcisiogdf",
       "rigoni_felipe"
@@ -3020,14 +3020,14 @@
   {
     "name": "LucianoDucci",
     "size": 0.0,
-    "imports": [
+    "children": [
       "natbonavides"
     ]
   },
   {
     "name": "gustavofruet",
     "size": 3.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "cirogomes",
       "gustavofruet",
@@ -3037,7 +3037,7 @@
   {
     "name": "gleisi",
     "size": 402.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "dilmabr",
       "brasil247",
@@ -3064,12 +3064,12 @@
   {
     "name": "fernandogiacobo",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "filipebarrost",
     "size": 23.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ernestofaraujo",
       "opropriolavo",
@@ -3093,12 +3093,12 @@
   {
     "name": "FFrancischini_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "enioverri",
     "size": 142.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "rfalcao13",
@@ -3123,36 +3123,36 @@
   {
     "name": "diegogarciapr",
     "size": 26.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "ChristianeYared",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "BocaAbertaOf",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "aroldomartins",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "AlineSleutjes",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "alielmachado",
     "size": 0.0,
-    "imports": [
+    "children": [
       "eduardomoreira",
       "gugachacra"
     ]
@@ -3160,7 +3160,7 @@
   {
     "name": "PompeodeMattos",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "andrepdt12"
     ]
@@ -3168,12 +3168,12 @@
   {
     "name": "pedrowestphalen",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DeputadoFederal",
     "size": 0.0,
-    "imports": [
+    "children": [
       "brasil247",
       "cartacapital",
       "padilhando",
@@ -3186,7 +3186,7 @@
   {
     "name": "OsmarTerra",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ronaldocaiado",
       "alexandregarcia",
@@ -3198,7 +3198,7 @@
   {
     "name": "onyxlorenzoni",
     "size": 6.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "tarcisiogdf",
@@ -3209,7 +3209,7 @@
   {
     "name": "mauricioptbrs",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "folha",
       "o_antagonista"
@@ -3218,12 +3218,12 @@
   {
     "name": "deputado_marlon",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "mariadorosario",
     "size": 153.0,
-    "imports": [
+    "children": [
       "fatimabezerra",
       "dilmabr",
       "brasil247",
@@ -3242,12 +3242,12 @@
   {
     "name": "marciobiolchi",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "marcelvanhattem",
     "size": 42.0,
-    "imports": [
+    "children": [
       "paulambelmonte",
       "marceloramosam",
       "gilsonmarques30",
@@ -3259,7 +3259,7 @@
   {
     "name": "LucasRedecker",
     "size": 0.0,
-    "imports": [
+    "children": [
       "rsallesmma",
       "betopereirams",
       "pedroocl"
@@ -3268,12 +3268,12 @@
   {
     "name": "LizianeBayer",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "jeronimogoergen",
     "size": 1.0,
-    "imports": [
+    "children": [
       "jeronimogoergen",
       "pauloganime"
     ]
@@ -3281,7 +3281,7 @@
   {
     "name": "HenriqueFontana",
     "size": 0.0,
-    "imports": [
+    "children": [
       "eduardomoreira",
       "dilmabr",
       "jandira_feghali",
@@ -3320,22 +3320,22 @@
   {
     "name": "HeitorSchuch",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "GiovaniFeltes",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "giovanicherini",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "fernandapsol",
     "size": 87.0,
-    "imports": [
+    "children": [
       "eduardomoreira",
       "luizaerundina",
       "folha",
@@ -3351,17 +3351,17 @@
   {
     "name": "CovattiFilho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "carlosgomesdep",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "BohnGass",
     "size": 0.0,
-    "imports": [
+    "children": [
       "gleisi",
       "dasilvabenedita",
       "rfalcao13",
@@ -3395,7 +3395,7 @@
   {
     "name": "bibonunes1",
     "size": 2.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "fabiofaria5555",
       "bibonunes1"
@@ -3404,7 +3404,7 @@
   {
     "name": "Alceu_Moreira",
     "size": 0.0,
-    "imports": [
+    "children": [
       "rsallesmma",
       "tarcisiogdf"
     ]
@@ -3412,12 +3412,12 @@
   {
     "name": "afonso_motta",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depzeneto",
     "size": 51.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "brasil247"
     ]
@@ -3425,7 +3425,7 @@
   {
     "name": "waldenorpereira",
     "size": 72.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "dasilvabenedita",
       "rfalcao13",
@@ -3441,7 +3441,7 @@
   {
     "name": "DepValmir",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "dilmabr",
       "gleisi",
@@ -3476,17 +3476,17 @@
   {
     "name": "sergiobritoBA",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "raimundocostaba",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "deppimentel",
     "size": 7.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "bozzellajr"
     ]
@@ -3494,7 +3494,7 @@
   {
     "name": "nelsonpelegrino",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "dilmabr"
     ]
@@ -3502,34 +3502,34 @@
   {
     "name": "PauloAzi",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "AbilioSantanaBA",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "OttoAlencarFilh",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "dpmarciomarinho",
     "size": 0.0,
-    "imports": [
+    "children": [
       "marcospereira04"
     ]
   },
   {
     "name": "depmarcelonilo",
     "size": 4.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "lidicedamata",
     "size": 10.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "costa_rui",
       "jandira_feghali",
@@ -3553,12 +3553,12 @@
   {
     "name": "LeurLomantoJr",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "josiasgomesba",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "xicosa"
     ]
@@ -3566,17 +3566,17 @@
   {
     "name": "dep_joserocha",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JoseNunesDep",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depjorgesolla",
     "size": 56.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "eduardomoreira",
       "folha",
@@ -3601,7 +3601,7 @@
   {
     "name": "joaoromaneto",
     "size": 11.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "tarcisiogdf"
     ]
@@ -3609,12 +3609,12 @@
   {
     "name": "FelixMendoncaJr",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Daniel_PCdoB",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jandira_feghali",
       "jandira_feghali",
       "orlandosilva"
@@ -3623,12 +3623,12 @@
   {
     "name": "deputadocajado",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "CacaLeao",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tarcisiogdf",
       "fabiofaria5555",
       "marceloramosam",
@@ -3639,7 +3639,7 @@
   {
     "name": "DepArthurMaia",
     "size": 0.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "marcelvanhattem"
     ]
@@ -3647,7 +3647,7 @@
   {
     "name": "Alice_Portugal",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jandira_feghali",
       "brasil247",
       "jandira_feghali",
@@ -3658,12 +3658,12 @@
   {
     "name": "depalexsantana",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "AfonsoFlorence",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "dilmabr",
       "revistaforum",
@@ -3693,17 +3693,17 @@
   {
     "name": "AdolfoViana_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "WladGarotinho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "taliriapetrone",
     "size": 150.0,
-    "imports": [
+    "children": [
       "luizaerundina",
       "lauraabcarvalho",
       "natbonavides",
@@ -3717,7 +3717,7 @@
   {
     "name": "DepSostenes",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "folha",
       "o_antagonista",
@@ -3729,7 +3729,7 @@
   {
     "name": "rosangelasgomes",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jhonatan_djesus",
       "marceloramosam"
     ]
@@ -3737,14 +3737,14 @@
   {
     "name": "sorayasantos",
     "size": 1.0,
-    "imports": [
+    "children": [
       "jhonatan_djesus"
     ]
   },
   {
     "name": "RodrigoMaia",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "depaguinaldo11",
       "marcospereira04",
@@ -3754,17 +3754,17 @@
   {
     "name": "pedropaulo",
     "size": 3.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "professorjoziel",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "pauloganime",
     "size": 49.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "o_antagonista",
       "claudioedantas",
@@ -3782,12 +3782,12 @@
   {
     "name": "OtoniDepFederal",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "marciolabre",
     "size": 9.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "alexandregarcia",
       "lpbragancabr"
@@ -3796,7 +3796,7 @@
   {
     "name": "MarceloFreixo",
     "size": 0.0,
-    "imports": [
+    "children": [
       "revistaforum",
       "andrepdt12",
       "taliriapetrone",
@@ -3814,7 +3814,7 @@
   {
     "name": "caleromarcelo",
     "size": 9.0,
-    "imports": [
+    "children": [
       "jdoriajr",
       "folha",
       "claudioedantas",
@@ -3831,7 +3831,7 @@
   {
     "name": "majorfabianadep",
     "size": 76.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "fabiofaria5555",
       "marciolabre",
@@ -3842,29 +3842,29 @@
   {
     "name": "Oficialluizlima",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "depluizantonio",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "LourivalGomesrj",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JuninhodoPneu",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "jandira_feghali",
     "size": 121.0,
-    "imports": [
+    "children": [
       "safbf",
       "senadorhumberto",
       "f_trad",
@@ -3883,22 +3883,22 @@
   {
     "name": "depHugoLeal",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depHugoLeal",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "HlioFernandoBa1",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Glauber_Braga",
     "size": 0.0,
-    "imports": [
+    "children": [
       "safbf",
       "luizaerundina",
       "brasil247",
@@ -3920,44 +3920,44 @@
   {
     "name": "depflordelis",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "FederalFelicio",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DelegadoFurtado",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DanielaWaguinho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "danielPMERJ",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ToniettoChris",
     "size": 0.0,
-    "imports": [
+    "children": [
       "filipebarrost"
     ]
   },
   {
     "name": "BrazaoChiquinho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "carlosjordy",
     "size": 87.0,
-    "imports": [
+    "children": [
       "rsallesmma",
       "o_antagonista",
       "alexandregarcia",
@@ -3972,7 +3972,7 @@
   {
     "name": "dasilvabenedita",
     "size": 208.0,
-    "imports": [
+    "children": [
       "brasil247",
       "cartacapital",
       "revistaforum",
@@ -4014,31 +4014,31 @@
   {
     "name": "christinoaureo",
     "size": 9.0,
-    "imports": [
+    "children": [
       "christinoaureo"
     ]
   },
   {
     "name": "christinoaureo",
     "size": 9.0,
-    "imports": [
+    "children": [
       "christinoaureo"
     ]
   },
   {
     "name": "Altineu",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "AleSerfiotis",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "alessandromolon",
     "size": 50.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "folha",
       "randolfeap",
@@ -4048,22 +4048,22 @@
   {
     "name": "zevitor_mg",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ZeSilva_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "pradoweliton",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "TiagoMitraud",
     "size": 0.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "gilsonmarques30",
       "marcelvanhattem",
@@ -4075,17 +4075,17 @@
   {
     "name": "subgonzagamg",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depstefano",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "RogerioCorreia_",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "dilmabr",
       "brasil247",
@@ -4128,12 +4128,12 @@
   {
     "name": "RodrigoCastro45",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ReginaldoLopes",
     "size": 0.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "brasil247",
       "revistaforum",
@@ -4149,7 +4149,7 @@
   {
     "name": "deppauloguedes",
     "size": 97.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "gleisi",
       "dasilvabenedita",
@@ -4180,7 +4180,7 @@
   {
     "name": "Patrus_Ananias",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "lauraabcarvalho",
       "dilmabr",
@@ -4238,7 +4238,7 @@
   {
     "name": "dep_padrejoao",
     "size": 114.0,
-    "imports": [
+    "children": [
       "gleisi",
       "dasilvabenedita",
       "rfalcao13",
@@ -4270,7 +4270,7 @@
   {
     "name": "odaircunhamg",
     "size": 115.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "brasil247",
       "gleisi",
@@ -4309,19 +4309,19 @@
   {
     "name": "newton1510",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "depmaurolopes",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "JFMargarida",
     "size": 0.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "brasil247",
       "cartacapital",
@@ -4361,12 +4361,12 @@
   {
     "name": "marceloaro",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Marceloalvaroan",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "tarcisiogdf"
     ]
@@ -4374,12 +4374,12 @@
   {
     "name": "LuisTibeOficial",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "lucasvgonzalez",
     "size": 5.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "pauloganime"
     ]
@@ -4387,14 +4387,14 @@
   {
     "name": "lincoln_portela",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro"
     ]
   },
   {
     "name": "depleomonteiro",
     "size": 69.0,
-    "imports": [
+    "children": [
       "gleisi",
       "prof_rosaneide",
       "uczai",
@@ -4407,54 +4407,54 @@
   {
     "name": "leomotta_ofc",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depjuliodelgado",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "oficialigortimo",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "herciliodiniz",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "gilbertoabramo",
     "size": 0.0,
-    "imports": [
+    "children": [
       "marcospereira04"
     ]
   },
   {
     "name": "FredCostaDep",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "FrancoCartafina",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "_FabinhoRamalho",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "EuclydesPetter",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "erosbiondini",
     "size": 4.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "ronaldocaiado",
       "rsallesmma",
@@ -4467,37 +4467,37 @@
   {
     "name": "eduardobarbosa_",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "mario_heringer",
     "size": 3.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DomingosSavioMG",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "depdimasfabiano",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DelegadoFreitas",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "charllesevg",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "cabojunioamaral",
     "size": 20.0,
-    "imports": [
+    "children": [
       "opropriolavo",
       "cabojunioamaral"
     ]
@@ -4505,12 +4505,12 @@
   {
     "name": "depbilacpinto",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "aureacarolinax",
     "size": 121.0,
-    "imports": [
+    "children": [
       "safbf",
       "luizaerundina",
       "dilmabr",
@@ -4529,7 +4529,7 @@
   {
     "name": "AndreJanonesAdv",
     "size": 0.0,
-    "imports": [
+    "children": [
       "eduardomoreira",
       "o_antagonista",
       "paulambelmonte"
@@ -4538,7 +4538,7 @@
   {
     "name": "alesilva_38",
     "size": 9.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -4558,17 +4558,17 @@
   {
     "name": "AecioNeves",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DepVitorLippi",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "ViniciusPoit",
     "size": 0.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "joicehasselmann",
       "rigoni_felipe",
@@ -4581,7 +4581,7 @@
   {
     "name": "ViniciusPoit",
     "size": 0.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "rigoni_felipe",
       "gilsonmarques30",
@@ -4594,12 +4594,12 @@
   {
     "name": "viniciusfederal",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "VICENTINHOPT",
     "size": 0.0,
-    "imports": [
+    "children": [
       "brasil247",
       "gleisi",
       "dasilvabenedita",
@@ -4634,17 +4634,17 @@
   {
     "name": "vanderleimacris",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "tiriricanaweb",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "tabataamaralsp",
     "size": 25.0,
-    "imports": [
+    "children": [
       "folha",
       "o_antagonista",
       "profdorinha",
@@ -4655,12 +4655,12 @@
   {
     "name": "samuelmoreira",
     "size": 6.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "samiabomfim",
     "size": 126.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "eduardomoreira",
       "luizaerundina",
@@ -4681,7 +4681,7 @@
   {
     "name": "rfalcao13",
     "size": 89.0,
-    "imports": [
+    "children": [
       "brasil247",
       "depjoaodanielpt",
       "natbonavides",
@@ -4709,14 +4709,14 @@
   {
     "name": "DepRosanaValle",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tarcisiogdf"
     ]
   },
   {
     "name": "rodrigoagost",
     "size": 4.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "pauloganime"
     ]
@@ -4724,36 +4724,36 @@
   {
     "name": "robertodelucena",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "RobertoAlves_10",
     "size": 0.0,
-    "imports": [
+    "children": [
       "marcospereira04"
     ]
   },
   {
     "name": "RicardoIzar",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "RenataAbreu1919",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "KatiaSastre",
     "size": 0.0,
-    "imports": [
+    "children": [
       "tarcisiogdf"
     ]
   },
   {
     "name": "pauloteixeira13",
     "size": 90.0,
-    "imports": [
+    "children": [
       "gleisi",
       "heldersalomao",
       "gleisi",
@@ -4763,17 +4763,17 @@
   {
     "name": "DF_PauloFreire",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "dep_paulinho",
     "size": 4.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "marcofeliciano",
     "size": 7.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -4785,7 +4785,7 @@
   {
     "name": "orlandosilva",
     "size": 145.0,
-    "imports": [
+    "children": [
       "lauraabcarvalho",
       "folha",
       "natbonavides",
@@ -4797,7 +4797,7 @@
   {
     "name": "NiltoTatto",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "safbf",
       "jandira_feghali",
@@ -4835,39 +4835,39 @@
   {
     "name": "MiltonVieiraOfc",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DMiguellombardi",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "mariarosassp",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "marcospereira04",
     "size": 20.0,
-    "imports": [
+    "children": [
       "dep_alinegurgel"
     ]
   },
   {
     "name": "MarcoBertaiolli",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "AlvinoMarcio",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "luizaerundina",
     "size": 54.0,
-    "imports": [
+    "children": [
       "cartacapital",
       "revistaforum",
       "folha",
@@ -4883,7 +4883,7 @@
   {
     "name": "lpbragancabr",
     "size": 20.0,
-    "imports": [
+    "children": [
       "ernestofaraujo",
       "alexandregarcia"
     ]
@@ -4891,7 +4891,7 @@
   {
     "name": "KimKataguiri",
     "size": 0.0,
-    "imports": [
+    "children": [
       "joaoamoedonovo",
       "o_antagonista",
       "claudioedantas",
@@ -4902,7 +4902,7 @@
   {
     "name": "bozzellajr",
     "size": 33.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "joicehasselmann",
       "deppimentel",
@@ -4912,7 +4912,7 @@
   {
     "name": "joicehasselmann",
     "size": 16.0,
-    "imports": [
+    "children": [
       "jdoriajr",
       "o_antagonista",
       "claudioedantas",
@@ -4928,12 +4928,12 @@
   {
     "name": "DepJefferson",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "IvanValente",
     "size": 0.0,
-    "imports": [
+    "children": [
       "eduardomoreira",
       "luizaerundina",
       "taliriapetrone",
@@ -4944,27 +4944,27 @@
   {
     "name": "herculanopassos",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "GuilhermeMussi",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "DepGuigaPeixoto",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "GilbertoPSC20",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "geninhozuliani",
     "size": 1.0,
-    "imports": [
+    "children": [
       "jdoriajr",
       "o_antagonista",
       "claudioedantas"
@@ -4973,17 +4973,17 @@
   {
     "name": "GenPeternelli",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "enricomisasi",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Eduardo_Cury",
     "size": 0.0,
-    "imports": [
+    "children": [
       "diogomainardi",
       "gugachacra"
     ]
@@ -4991,7 +4991,7 @@
   {
     "name": "BolsonaroSP",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -5012,12 +5012,12 @@
   {
     "name": "davidbrsoares",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "CoronelTadeu",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "opropriolavo",
       "tarcisiogdf",
@@ -5029,12 +5029,12 @@
   {
     "name": "Czmadureira",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "CarlosZarattini",
     "size": 0.0,
-    "imports": [
+    "children": [
       "luizaerundina",
       "dilmabr",
       "brasil247",
@@ -5086,12 +5086,12 @@
   {
     "name": "carlossampaio_",
     "size": 2.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "CarlaZambelli38",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jairbolsonaro",
       "rsallesmma",
       "ernestofaraujo",
@@ -5117,12 +5117,12 @@
   {
     "name": "capitao_augusto",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Baleia_Rossi",
     "size": 0.0,
-    "imports": [
+    "children": [
       "profdorinha",
       "paulambelmonte",
       "perpetua_acre",
@@ -5146,7 +5146,7 @@
   {
     "name": "ArnaldoJardim",
     "size": 0.0,
-    "imports": [
+    "children": [
       "jdoriajr",
       "christinoaureo",
       "christinoaureo"
@@ -5155,21 +5155,21 @@
   {
     "name": "achinaglia",
     "size": 1.0,
-    "imports": [
+    "children": [
       "reinaldoazevedo"
     ]
   },
   {
     "name": "AlexisFonteyne",
     "size": 0.0,
-    "imports": [
+    "children": [
       "pauloganime"
     ]
   },
   {
     "name": "padilhando",
     "size": 219.0,
-    "imports": [
+    "children": [
       "dilmabr",
       "brasil247",
       "revistaforum",
@@ -5207,14 +5207,14 @@
   {
     "name": "lexandreleite",
     "size": 0.0,
-    "imports": [
+    "children": [
       "folha"
     ]
   },
   {
     "name": "AlexManente23",
     "size": 0.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "f_trad",
       "paulambelmonte",
@@ -5225,7 +5225,7 @@
   {
     "name": "AlencarBraga13",
     "size": 0.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "dilmabr",
       "jandira_feghali",
@@ -5272,26 +5272,26 @@
   {
     "name": "adriventurasp",
     "size": 22.0,
-    "imports": [
+    "children": [
       "marcelvanhattem"
     ]
   },
   {
     "name": "abou_anni",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "FMouraBrasil",
     "size": 0.0,
-    "imports": [
+    "children": [
       "deppimentel"
     ]
   },
   {
     "name": "GeorgMarques",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "revistaforum",
       "77_frota",
@@ -5305,19 +5305,19 @@
   {
     "name": "PastorMalafaia",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "Ro_Moller",
     "size": 0.0,
-    "imports": [
+    "children": [
       "slpng_giants_pt"
     ]
   },
   {
     "name": "xicosa",
     "size": 144.0,
-    "imports": [
+    "children": [
       "cartacapital",
       "revistaforum",
       "folha",
@@ -5331,7 +5331,7 @@
   {
     "name": "marcelorubens",
     "size": 67.0,
-    "imports": [
+    "children": [
       "lauraabcarvalho",
       "cartacapital",
       "folha",
@@ -5352,7 +5352,7 @@
   {
     "name": "AndreiaSadi",
     "size": 0.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "gugachacra",
       "miriamleitao"
@@ -5361,7 +5361,7 @@
   {
     "name": "gugachacra",
     "size": 126.0,
-    "imports": [
+    "children": [
       "lauraabcarvalho",
       "folha",
       "marcelorubens",
@@ -5373,14 +5373,14 @@
   {
     "name": "diegoescosteguy",
     "size": 1.0,
-    "imports": [
+    "children": [
       "gugachacra"
     ]
   },
   {
     "name": "cynaramenezes",
     "size": 233.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "costa_rui",
       "helderbarbalho",
@@ -5421,7 +5421,7 @@
   {
     "name": "luisnassif",
     "size": 90.0,
-    "imports": [
+    "children": [
       "pauloteixeira13",
       "padilhando",
       "luisnassif"
@@ -5430,7 +5430,7 @@
   {
     "name": "JanainaDoBrasil",
     "size": 0.0,
-    "imports": [
+    "children": [
       "joicehasselmann",
       "marcelvanhattem",
       "lpbragancabr",
@@ -5440,7 +5440,7 @@
   {
     "name": "LeonardoBoff",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "luizaerundina",
       "jandira_feghali",
@@ -5475,12 +5475,12 @@
   {
     "name": "stanleyburburin",
     "size": 0.0,
-    "imports": []
+    "children": []
   },
   {
     "name": "pablovillaca",
     "size": 123.0,
-    "imports": [
+    "children": [
       "safbf",
       "lauraabcarvalho",
       "jandira_feghali",
@@ -5500,7 +5500,7 @@
   {
     "name": "emirsader",
     "size": 34.0,
-    "imports": [
+    "children": [
       "costa_rui",
       "wdiaspi",
       "fatimabezerra",
@@ -5540,7 +5540,7 @@
   {
     "name": "roxmo",
     "size": 14.0,
-    "imports": [
+    "children": [
       "gen_heleno",
       "carlosjordy",
       "alesilva_38",
@@ -5550,14 +5550,14 @@
   {
     "name": "lf_ponde",
     "size": 5.0,
-    "imports": [
+    "children": [
       "folha"
     ]
   },
   {
     "name": "DaniloGentili",
     "size": 0.0,
-    "imports": [
+    "children": [
       "o_antagonista",
       "claudioedantas",
       "diogomainardi",
@@ -5568,7 +5568,7 @@
   {
     "name": "felipeneto",
     "size": 111.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "lauraabcarvalho",
       "jandira_feghali",
@@ -5593,7 +5593,7 @@
   {
     "name": "VillaMarcovilla",
     "size": 0.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "joaoamoedonovo",
       "lauraabcarvalho",
@@ -5603,14 +5603,14 @@
   {
     "name": "reinaldoazevedo",
     "size": 72.0,
-    "imports": [
+    "children": [
       "folha"
     ]
   },
   {
     "name": "miriamleitao",
     "size": 36.0,
-    "imports": [
+    "children": [
       "lauraabcarvalho",
       "folha",
       "davialcolumbre",
@@ -5629,7 +5629,7 @@
   {
     "name": "GabrielaPrioli",
     "size": 0.0,
-    "imports": [
+    "children": [
       "lauraabcarvalho",
       "folha",
       "gugachacra",
@@ -5644,7 +5644,7 @@
   {
     "name": "henrybugalho",
     "size": 15.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "jandira_feghali",
       "fernandapsol",
@@ -5659,7 +5659,7 @@
   {
     "name": "_pinheira",
     "size": 39.0,
-    "imports": [
+    "children": [
       "jeanwyllys_real",
       "fernandapsol",
       "aureacarolinax",
@@ -5671,7 +5671,7 @@
   {
     "name": "gduvivier",
     "size": 83.0,
-    "imports": [
+    "children": [
       "cirogomes",
       "safbf",
       "lauraabcarvalho",
@@ -5694,7 +5694,7 @@
   {
     "name": "slpng_giants_pt",
     "size": 73.0,
-    "imports": [
+    "children": [
       "xicosa",
       "pablovillaca",
       "felipeneto",
