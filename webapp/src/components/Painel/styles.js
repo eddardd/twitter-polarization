@@ -36,6 +36,17 @@ export const Container = styled.div`
     height: 48px;
   }
 
+  .left {
+    padding-left: 10%;
+    @media only screen and (max-width: 768px) {
+      padding-left: 0%;
+
+      svg {
+        width: 100%;
+      }
+    }
+  }
+
   .userInfo {
     padding-top: 1rem;
     display: inline-flex;
@@ -44,9 +55,5 @@ export const Container = styled.div`
       padding-top: 1rem;
       padding-right: 1rem;
     }
-  }
-
-  #hierarchical svg {
-    width: 100%;
   }
 `;

@@ -50,6 +50,20 @@ function Painel() {
   }
 
   function bilink(root) {
+    if (typeof root.leaves() === 'undefined') {
+      console.log('sou undefined');
+      root = [
+        {
+          data: { name: 'loading', Orientaçao: 'Centro', imports: [] },
+          depth: 2,
+          height: 0,
+          incoming: [],
+          outgoing: [],
+          parent: [],
+        },
+      ];
+    }
+
     const map = new Map(root.leaves().map((d) => [id(d), d]));
     for (const d of root.leaves())
       (d.incoming = []),
@@ -61,7 +75,6 @@ function Painel() {
 
   function hierarchy(data, delimiter = '.') {
     let root;
-    console.log(data);
     const map = new Map();
     data.forEach(function find(data) {
       const { name } = data;
@@ -111,7 +124,6 @@ function Painel() {
 
   useEffect(() => {
     if (allRetweets.length > 0 && loading === false) {
-      console.log(response2);
       const colorin = '#00f';
       const colornone = '#ccc';
       const colorout = '#f00';
@@ -256,8 +268,6 @@ function Painel() {
 
         let retweeted_usernames = getRetweetedUsers(d.data.imports);
         let users_who_retweet = getWhoRetweetedUser(d.data['name']);
-        console.log(retweeted_usernames);
-        console.log(users_who_retweet);
 
         nameDimension1.filterFunction(function (d) {
           return retweeted_usernames.indexOf(d) > -1;
@@ -286,8 +296,8 @@ function Painel() {
       {allRetweets.length > 100 ? (
         <GraphSection>
           <Container>
-            <div className="left">
-              <Svg id="hierarchical"></Svg>
+            <div className="left ">
+              <Svg id="hierarchical" preserveAspectRatio="xMidYMid meet"></Svg>
             </div>
             <div className="right">
               <div className="userInfo">
@@ -301,6 +311,7 @@ function Painel() {
                   x={orientationTypeScale}
                   xUnits={dc.units.ordinal}
                   elasticY={true}
+                  elasticX={false}
                   margins={{ top: 10, right: 20, bottom: 20, left: 30 }}
                   renderHorizontalGridLines={true}
                   colorAccessor={(d) => d.key}
