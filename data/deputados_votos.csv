@@ -1,0 +1,514 @@
+,Nome,Partido,Estado,votos_totalizados,total_de_votos,Ideologia
+0,Leda Sadala,AVANTE,AP,11301,426382,Centro
+1,Pastor Sargento Isidório,AVANTE,BA,323264,8235310,Centro
+2,Tito,AVANTE,BA,48899,8235310,Centro
+3,Andre Janones,AVANTE,MG,178660,12211254,Centro
+4,Luis Tibe,AVANTE,MG,50474,12211254,Centro
+5,Greyce Elias,AVANTE,MG,37620,12211254,Centro
+6,Chiquinho Brazão,AVANTE,RJ,25817,9474441,Centro
+7,Luiz Antônio,DC,RJ,50284,9474441,Direita
+8,Alan Rick,DEM,AC,22263,443429,Direita
+9,Elmar,DEM,BA,103823,8235310,Direita
+10,Arthur Maia,DEM,BA,88908,8235310,Direita
+11,Paulo Azi,DEM,BA,84090,8235310,Direita
+12,Leur Lomanto Jr,DEM,BA,82110,8235310,Direita
+13,Luis Miranda,DEM,DF,65107,1691392,Direita
+14,Norma Ayub,DEM,ES,57156,2223207,Direita
+15,Dr. Zacarias Calil,DEM,GO,151508,3553706,Direita
+16,Zé Mario,DEM,GO,96188,3553706,Direita
+17,Juscelino Filho,DEM,MA,97075,3604580,Direita
+18,Bilac Pinto,DEM,MG,87683,12211254,Direita
+19,Tereza Cristina,DEM,MS,75068,1478642,Direita
+20,Olival Marques,DEM,PA,135398,4400611,Direita
+21,Hélio Leite,DEM,PA,102554,4400611,Direita
+22,Efraim Filho,DEM,PB,76089,2435477,Direita
+23,Fernando Filho,DEM,PE,92188,5391639,Direita
+24,Pedro Lupion,DEM,PR,92300,6616901,Direita
+25,Sóstenes,DEM,RJ,94203,9474441,Direita
+26,Rodrigo Maia,DEM,RJ,74232,9474441,Direita
+27,Pedro Paulo,DEM,RJ,56646,9474441,Direita
+28,Juninho do Pneu,DEM,RJ,45087,9474441,Direita
+29,Onyx Lorenzoni,DEM,RS,183518,6835866,Direita
+30,Kim Kataguiri,DEM,SP,465310,25921320,Direita
+31,Alexandre Leite,DEM,SP,116416,25921320,Direita
+32,David Soares,DEM,SP,99865,25921320,Direita
+33,Eli Corrêa Filho,DEM,SP,92257,25921320,Direita
+34,Geninho Zuliani,DEM,SP,89378,25921320,Direita
+35,Carlos Henrique Gaguim,DEM,TO,48012,831214,Direita
+36,Professora Dorinha,DEM,TO,48008,831214,Direita
+37,Jéssica Sales,MDB,AC,28717,443429,Centro
+38,Flaviano Melo,MDB,AC,18723,443429,Centro
+39,Isnaldo Bulhões,MDB,AL,71847,1692875,Centro
+40,Moses Rodrigues,MDB,CE,128526,5243490,Centro
+41,Hildo Rocha,MDB,MA,77661,3604580,Centro
+42,João Marcelo,MDB,MA,67352,3604580,Centro
+43,Hercílio Coelho Diniz,MDB,MG,120489,12211254,Centro
+44,Newton Cardoso Jr,MDB,MG,69900,12211254,Centro
+45,Fabio Ramalho,MDB,MG,63149,12211254,Centro
+46,Mauro Lopes,MDB,MG,58243,12211254,Centro
+47,Carlos Bezerra,MDB,MT,59155,1757368,Centro
+48,Juarez Costa,MDB,MT,49912,1757368,Centro
+49,Elcione,MDB,PA,165202,4400611,Centro
+50,Priante,MDB,PA,154647,4400611,Centro
+51,Raul Henry,MDB,PE,87585,5391639,Centro
+52,Marcos Aurelio Sampaio,MDB,PI,73302,1997587,Centro
+53,Hermes Frangão Parcianello,MDB,PR,110717,6616901,Centro
+54,Sérgio Souza,MDB,PR,94077,6616901,Centro
+55,Daniela do Waguinho,MDB,RJ,136286,9474441,Centro
+56,Vinícius Farah,MDB,RJ,57707,9474441,Centro
+57,Gutemberg Reis,MDB,RJ,54573,9474441,Centro
+58,Walter Alves,MDB,RN,79333,1966450,Centro
+59,Lucio Mosquini,MDB,RO,38630,912914,Centro
+60,Márcio Biolchi,MDB,RS,100362,6835866,Centro
+61,Alceu Moreira,MDB,RS,100341,6835866,Centro
+62,Giovani Feltes,MDB,RS,93088,6835866,Centro
+63,Osmar Terra,MDB,RS,86305,6835866,Centro
+64,Carlos Chiodini,MDB,SC,97613,4241667,Centro
+65,Celso Maldaner,MDB,SC,80086,4241667,Centro
+66,Peninha,MDB,SC,76925,4241667,Centro
+67,Fabio Reis,MDB,SE,64879,1279582,Centro
+68,Baleia Rossi,MDB,SP,214042,25921320,Centro
+69,Herculano Passos,MDB,SP,49653,25921320,Centro
+70,Dulce Miranda,MDB,TO,40719,831214,Centro
+71,Tiago Mitraud,NOVO,MG,71901,12211254,Direita
+72,Lucas Gonzalez,NOVO,MG,64022,12211254,Direita
+73,Paulo Ganime,NOVO,RJ,52983,9474441,Direita
+74,Marcel Van Hattem,NOVO,RS,349855,6835866,Direita
+75,Gilson Marques,NOVO,SC,27443,4241667,Direita
+76,Vinicius Poit,NOVO,SP,207118,25921320,Direita
+77,Adriana Ventura,NOVO,SP,64341,25921320,Direita
+78,Alexis,NOVO,SP,45298,25921320,Direita
+79,Júnior Mano,PATRIOTA,CE,67917,5243490,Direita
+80,Junior Marreca Filho,PATRIOTA,MA,79674,3604580,Direita
+81,Fred Costa,PATRIOTA,MG,87446,12211254,Direita
+82,Doutor Frederico,PATRIOTA,MG,60950,12211254,Direita
+83,Pastor Eurico,PATRIOTA,PE,125025,5391639,Direita
+84,Perpetua Almeida ,PCDOB,AC,18374,443429,Esquerda
+85,Professora Marcivania,PCDOB,AP,14196,426382,Esquerda
+86,Alice Portugal,PCDOB,BA,126595,8235310,Esquerda
+87,Daniel Almeida,PCDOB,BA,114213,8235310,Esquerda
+88,Márcio Jerry,PCDOB,MA,134223,3604580,Esquerda
+89,Rubens Junior,PCDOB,MA,111584,3604580,Esquerda
+90,Renildo Calheiros,PCDOB,PE,57919,5391639,Esquerda
+91,Jandira Feghali,PCDOB,RJ,71646,9474441,Esquerda
+92,Orlando Silva,PCDOB,SP,64822,25921320,Esquerda
+93,Jesus Sérgio,PDT,AC,9537,443429,Esquerda
+94,Felix Mendonça,PDT,BA,91913,8235310,Esquerda
+95,Alex Santana,PDT,BA,62922,8235310,Esquerda
+96,Mauro Filho,PDT,CE,157510,5243490,Esquerda
+97,Idilvan,PDT,CE,154338,5243490,Esquerda
+98,Robério Monteiro,PDT,CE,131275,5243490,Esquerda
+99,André Figueiredo,PDT,CE,103385,5243490,Esquerda
+100,Leonidas Cristino,PDT,CE,102417,5243490,Esquerda
+101,Eduardo Bismarck,PDT,CE,87009,5243490,Esquerda
+102,Sergio Vidigal,PDT,ES,73030,2223207,Esquerda
+103,Flavia Morais,PDT,GO,169774,3553706,Esquerda
+104,Gil Cutrim,PDT,MA,72038,3604580,Esquerda
+105,Subtenente Gonzaga,PDT,MG,93932,12211254,Esquerda
+106,Dr. Mário Heringer,PDT,MG,89046,12211254,Esquerda
+107,Dagoberto,PDT,MS,40233,1478642,Esquerda
+108,Dr Damião,PDT,PB,100876,2435477,Esquerda
+109,Wolney Queiroz,PDT,PE,82592,5391639,Esquerda
+110,Túlio Gadêlha,PDT,PE,75642,5391639,Esquerda
+111,Flavio Nogueira,PDT,PI,111672,1997587,Esquerda
+112,Gustavo Fruet,PDT,PR,113252,6616901,Esquerda
+113,Chico D'Angelo,PDT,RJ,26417,9474441,Esquerda
+114,Paulo Ramos,PDT,RJ,25557,9474441,Esquerda
+115,Silvia Cristina,PDT,RO,33038,912914,Esquerda
+116,Marlon Santos,PDT,RS,116483,6835866,Esquerda
+117,Pompeo de Mattos,PDT,RS,80427,6835866,Esquerda
+118,Afonso Motta,PDT,RS,65712,6835866,Esquerda
+119,Fábio Henrique,PDT,SE,35226,1279582,Esquerda
+120,Tabata Amaral,PDT,SP,264450,25921320,Esquerda
+121,Igor Kannario,PHS,BA,54858,8235310,Centro
+122,Pastor Abilio Santana,PHS,BA,50345,8235310,Centro
+123,Marcelo Aro,PHS,MG,107219,12211254,Centro
+124,Franco Cartafina,PHS,MG,53390,12211254,Centro
+125,Fernando Rodolfo,PHS,PE,52824,5391639,Centro
+126,Gelson Azevedo,PHS,RJ,28216,9474441,Centro
+127,Eduardo Braide,PMN,MA,189843,3604580,Esquerda
+128,Pastor Gildenemyr,PMN,MA,47758,3604580,Esquerda
+129,Zé Vitor,PMN,MG,32833,12211254,Esquerda
+130,Bacelar,PODEMOS,BA,149274,8235310,Direita
+131,José  Nelto,PODEMOS,GO,61809,3553706,Direita
+132,Aluisio Mendes,PODEMOS,MA,105778,3604580,Direita
+133,Igor Timo,PODEMOS,MG,60509,12211254,Direita
+134,Jose Medeiros,PODEMOS,MT,82528,1757368,Direita
+135,Ricardo Teobaldo,PODEMOS,PE,73551,5391639,Direita
+136,Diego Garcia,PODEMOS,PR,103154,6616901,Direita
+137,Léo Moraes,PODEMOS,RO,69565,912914,Direita
+138,Pastor Marco Feliciano,PODEMOS,SP,239784,25921320,Direita
+139,Renata Abreu,PODEMOS,SP,161239,25921320,Direita
+140,Roberto de Lucena,PODEMOS,SP,56033,25921320,Direita
+141,Arthur Lira,PP,AL,143858,1692875,Direita
+142,Atila Lins,PP,AM,118700,1957418,Direita
+143,Andre Abdon,PP,AP,12856,426382,Direita
+144,Ronaldo Carletto,PP,BA,118097,8235310,Direita
+145,Cacá Leão,PP,BA,106592,8235310,Direita
+146,Claudio Cajado,PP,BA,104322,8235310,Direita
+147,Mário Negromonte Jr,PP,BA,102512,8235310,Direita
+148,Aj Albuquerque,PP,CE,132319,5243490,Direita
+149,Celina Leão,PP,DF,31610,1691392,Direita
+150,Evair de Melo,PP,ES,48412,2223207,Direita
+151,Professor Alcides,PP,GO,88545,3553706,Direita
+152,Adriano do Baldy,PP,GO,77729,3553706,Direita
+153,Andre Fufuca,PP,MA,105583,3604580,Direita
+154,Pinheirinho,PP,MG,98404,12211254,Direita
+155,Dimas Fabiano,PP,MG,74223,12211254,Direita
+156,Neri Geller,PP,MT,73072,1757368,Direita
+157,Aguinaldo Ribeiro,PP,PB,120220,2435477,Direita
+158,Eduardo da Fonte,PP,PE,113640,5391639,Direita
+159,Fernando Monteiro,PP,PE,82071,5391639,Direita
+160,Iracema Portella,PP,PI,96277,1997587,Direita
+161,Margarete Coelho,PP,PI,76338,1997587,Direita
+162,Ricardo Barros,PP,PR,80025,6616901,Direita
+163,Schiavinato,PP,PR,75540,6616901,Direita
+164,Dr. Luizinho,PP,RJ,103745,9474441,Direita
+165,Christino Aureo,PP,RJ,47101,9474441,Direita
+166,Jaqueline Cassol,PP,RO,34193,912914,Direita
+167,Dr. Hiran Gonçalves,PP,RR,13299,286754,Direita
+168,Covatti Filho,PP,RS,102063,6835866,Direita
+169,Afonso Hamm,PP,RS,100018,6835866,Direita
+170,Pedro Westphalen,PP,RS,97163,6835866,Direita
+171,Jerônimo Goergen,PP,RS,89707,6835866,Direita
+172,Angela Amin,PP,SC,86189,4241667,Direita
+173,Laercio Oliveira,PP,SE,68014,1279582,Direita
+174,Guilherme Mussi,PP,SP,134301,25921320,Direita
+175,Ricardo Izar,PP,SP,121869,25921320,Direita
+176,Tenente Derrite,PP,SP,119034,25921320,Direita
+177,Fausto Pinato,PP,SP,118684,25921320,Direita
+178,Uldúrico Júnior,PPL,BA,66343,8235310,Esquerda
+179,Paula Belmonte,PPS,DF,46069,1691392,Esquerda
+180,da Vitoria,PPS,ES,74787,2223207,Esquerda
+181,Daniel Coelho,PPS,PE,97745,5391639,Esquerda
+182,Rubens Bueno,PPS,PR,76471,6616901,Esquerda
+183,Marcelo Calero,PPS,RJ,50533,9474441,Esquerda
+184,Carmen Zanotto,PPS,SC,84703,4241667,Esquerda
+185,Arnaldo Jardim,PPS,SP,132363,25921320,Esquerda
+186,Alex Manente,PPS,SP,127366,25921320,Esquerda
+187,Sérgio Toledo,PR,AL,98201,1692875,Direita
+188,Marcelo Ramos,PR,AM,106805,1957418,Direita
+189,Vinícius,PR,AP,18818,426382,Direita
+190,João Bacelar,PR,BA,84684,8235310,Direita
+191,Jose Rocha,PR,BA,84016,8235310,Direita
+192,Dr.Jaziel,PR,CE,65300,5243490,Direita
+193,Flavia Arruda,PR,DF,121340,1691392,Direita
+194,Lauriete,PR,ES,51983,2223207,Direita
+195,Magda Mofatto,PR,GO,88894,3553706,Direita
+196,Josimar Maranhãozinho,PR,MA,195768,3604580,Direita
+197,Junior Lourenço,PR,MA,117033,3604580,Direita
+198,Lincoln Portela,PR,MG,105731,12211254,Direita
+199,Cristiano Vale,PR,PA,176812,4400611,Direita
+200,Wellington Roberto,PR,PB,107465,2435477,Direita
+201,Sebastião Oliveira,PR,PE,129978,5391639,Direita
+202,Capitão Fábio Abreu,PR,PI,132719,1997587,Direita
+203,Giacobo,PR,PR,111384,6616901,Direita
+204,Christiane Yared,PR,PR,107636,6616901,Direita
+205,Luiz Nishimori,PR,PR,73344,6616901,Direita
+206,Altineu Cortes,PR,RJ,55367,9474441,Direita
+207,Soraya Santos,PR,RJ,48328,9474441,Direita
+208,João Maia,PR,RN,93505,1966450,Direita
+209,Edio Lopes,PR,RR,11952,286754,Direita
+210,Giovani Cherini,PR,RS,151719,6835866,Direita
+211,Bosco Costa,PR,SE,47788,1279582,Direita
+212,Tiririca,PR,SP,453855,25921320,Direita
+213,Policial Katia Sastre,PR,SP,264013,25921320,Direita
+214,Capitão Augusto,PR,SP,242327,25921320,Direita
+215,Marcio Alvino,PR,SP,135844,25921320,Direita
+216,Paulo Freire Costa,PR,SP,109461,25921320,Direita
+217,Miguel Lombardi,PR,SP,93093,25921320,Direita
+218,Luiz Carlos Motta,PR,SP,75218,25921320,Direita
+219,Vicentinho Junior,PR,TO,49868,831214,Direita
+220,Pastor Manuel Marcos,PRB,AC,7489,443429,Direita
+221,Severino Pessôa,PRB,AL,70413,1692875,Direita
+222,Silas Câmara,PRB,AM,117181,1957418,Direita
+223,Capitão Alberto Neto,PRB,AM,107168,1957418,Direita
+224,Aline Gurgel,PRB,AP,16519,426382,Direita
+225,Marcio Marinho,PRB,BA,95204,8235310,Direita
+226,João Roma,PRB,BA,84455,8235310,Direita
+227,Julio Cesar,PRB,DF,79775,1691392,Direita
+228,Amaro Neto,PRB,ES,181813,2223207,Direita
+229,João Campos,PRB,GO,106014,3553706,Direita
+230,Cleber Verde,PRB,MA,101806,3604580,Direita
+231,Gilberto Abramo,PRB,MG,162092,12211254,Direita
+232,Lafayette Andrada,PRB,MG,103090,12211254,Direita
+233,Vavá Martins,PRB,PA,158717,4400611,Direita
+234,Hugo,PRB,PB,92468,2435477,Direita
+235,Silvio Costa Filho,PRB,PE,109185,5391639,Direita
+236,Bispo Ossesio,PRB,PE,65939,5391639,Direita
+237,Luizão Goulart,PRB,PR,141730,6616901,Direita
+238,Aroldo Martins,PRB,PR,52572,6616901,Direita
+239,Wagner Montes,PRB,RJ,65868,9474441,Direita
+240,Rosangela Gomes ,PRB,RJ,63952,9474441,Direita
+241,Jhonatan de Jesus,PRB,RR,13429,286754,Direita
+242,Carlos Gomes,PRB,RS,103373,6835866,Direita
+243,Hélio Costa,PRB,SC,179307,4241667,Direita
+244,Celso Russomanno,PRB,SP,521728,25921320,Direita
+245,Marcos Pereira,PRB,SP,139165,25921320,Direita
+246,Vinicius Carvalho,PRB,SP,97862,25921320,Direita
+247,Roberto Alves,PRB,SP,82097,25921320,Direita
+248,Milton Vieira,PRB,SP,77413,25921320,Direita
+249,Maria Rosas,PRB,SP,71745,25921320,Direita
+250,Acácio Favacho,PROS,AP,19111,426382,Centro
+251,Capitão Wagner,PROS,CE,303593,5243490,Centro
+252,Vaidon Oliveira,PROS,CE,30392,5243490,Centro
+253,Eros Biondini,PROS,MG,157394,12211254,Centro
+254,Weliton Prado,PROS,MG,129199,12211254,Centro
+255,Boca Aberta,PROS,PR,90158,6616901,Centro
+256,Toninho Wandscheer,PROS,PR,72475,6616901,Centro
+257,Clarissa Garontinho,PROS,RJ,35131,9474441,Centro
+258,Raimundo Costa,PRP,BA,38829,8235310,Direita
+259,Bia Kicis,PRP,DF,86415,1691392,Direita
+260,Alcides Rodrigues,PRP,GO,64941,3553706,Direita
+261,Wladimir Garotinho,PRP,RJ,39398,9474441,Direita
+262,Jhc,PSB,AL,178645,1692875,Esquerda
+263,Camilo Capiberibe,PSB,AP,24987,426382,Esquerda
+264,Marcelo Nilo,PSB,BA,115277,8235310,Esquerda
+265,Lídice da Mata,PSB,BA,104348,8235310,Esquerda
+266,Denis Bezerra,PSB,CE,106294,5243490,Esquerda
+267,Felipe Rigoni,PSB,ES,84405,2223207,Esquerda
+268,Foletto,PSB,ES,55957,2223207,Esquerda
+269,Elias Vaz,PSB,GO,74877,3553706,Esquerda
+270,Bira do Pindaré,PSB,MA,99598,3604580,Esquerda
+271,Emidinho Madeira,PSB,MG,103533,12211254,Esquerda
+272,Vilson da Fetaemg,PSB,MG,70481,12211254,Esquerda
+273,Julio Delgado,PSB,MG,58413,12211254,Esquerda
+274,Cássio Andrade,PSB,PA,130768,4400611,Esquerda
+275,Gervásio Maia,PSB,PB,146860,2435477,Esquerda
+276,João Campos,PSB,PE,460387,5391639,Esquerda
+277,Felipe Carreras,PSB,PE,114268,5391639,Esquerda
+278,Danilo Cabral,PSB,PE,91635,5391639,Esquerda
+279,Gonzaga Patriota,PSB,PE,80498,5391639,Esquerda
+280,Tadeu Alencar,PSB,PE,53597,5391639,Esquerda
+281,Átila Lira,PSB,PI,54095,1997587,Esquerda
+282,Luciano Ducci,PSB,PR,98214,6616901,Esquerda
+283,Aliel Machado,PSB,PR,95386,6616901,Esquerda
+284,Alessandro Molon,PSB,RJ,227914,9474441,Esquerda
+285,Rafael Motta,PSB,RN,82791,1966450,Esquerda
+286,Dr. Mauro Nazif,PSB,RO,30399,912914,Esquerda
+287,Heitor Schuch,PSB,RS,109053,6835866,Esquerda
+288,Liziane Bayer,PSB,RS,52977,6835866,Esquerda
+289,Rodrigo Coelho,PSB,SC,43314,4241667,Esquerda
+290,Rosana Valle,PSB,SP,106100,25921320,Esquerda
+291,Rodrigo Agostinho,PSB,SP,100179,25921320,Esquerda
+292,Jefferson Campos,PSB,SP,99974,25921320,Esquerda
+293,Professor Luiz Flavio Gomes,PSB,SP,86433,25921320,Esquerda
+294,Glaustin da Fokus,PSC,GO,100437,3553706,Direita
+295,Euclydes Pettersen ,PSC,MG,65316,12211254,Direita
+296,Andre Ferreira,PSC,PE,175834,5391639,Direita
+297,Paulo Martins,PSC,PR,118754,6616901,Direita
+298,Otoni de Paula,PSC,RJ,120498,9474441,Direita
+299,Valdevan Noventa,PSC,SE,45472,1279582,Direita
+300,Gilberto Nascimento,PSC,SP,91797,25921320,Direita
+301,Osires Damaso,PSC,TO,58726,831214,Direita
+302,Marx Beltrão,PSD,AL,139458,1692875,Direita
+303,Sidney Leite,PSD,AM,77458,1957418,Direita
+304,Otto Alencar Filho,PSD,BA,185428,8235310,Direita
+305,Antonio Brito,PSD,BA,127716,8235310,Direita
+306,Sérgio Brito,PSD,BA,105427,8235310,Direita
+307,José Nunes,PSD,BA,99535,8235310,Direita
+308,Domingos Neto,PSD,CE,111154,5243490,Direita
+309,Francisco Jr,PSD,GO,111788,3553706,Direita
+310,Edilazio,PSD,MA,106576,3604580,Direita
+311,Misael Varella,PSD,MG,128537,12211254,Direita
+312,Stefano Aguiar,PSD,MG,115795,12211254,Direita
+313,Diego Andrade,PSD,MG,105803,12211254,Direita
+314,Fabio Trad,PSD,MS,89385,1478642,Direita
+315,Júnior Ferrari,PSD,PA,146678,4400611,Direita
+316,Delegado Éder Mauro,PSD,PA,145653,4400611,Direita
+317,Joaquim Passarinho,PSD,PA,95582,4400611,Direita
+318,Andre de Paula,PSD,PE,118641,5391639,Direita
+319,Júlio Cesar,PSD,PI,110804,1997587,Direita
+320,Sargento Fahur,PSD,PR,314963,6616901,Direita
+321,Sandro Alex,PSD,PR,124512,6616901,Direita
+322,Ney Leprevost,PSD,PR,92399,6616901,Direita
+323,Vermelho,PSD,PR,70001,6616901,Direita
+324,Flordelis,PSD,RJ,196959,9474441,Direita
+325,Hugo Leal,PSD,RJ,63561,9474441,Direita
+326,Alexandre Serfiotis,PSD,RJ,37526,9474441,Direita
+327,Fábio Faria,PSD,RN,70350,1966450,Direita
+328,Expedito Netto,PSD,RO,39953,912914,Direita
+329,Haroldo Cathedral,PSD,RR,14751,286754,Direita
+330,Danrlei de Deus Goleiro,PSD,RS,102662,6835866,Direita
+331,Darci de Matos,PSD,SC,68130,4241667,Direita
+332,Ricardo Guidi,PSD,SC,61830,4241667,Direita
+333,Fábio Mitidieri,PSD,SE,102899,1279582,Direita
+334,Marco Bertaiolli,PSD,SP,137628,25921320,Direita
+335,Cezinha de Madureira,PSD,SP,119024,25921320,Direita
+336,Mara Rocha,PSDB,AC,40047,443429,Centro
+337,Tereza Nelma,PSDB,AL,44207,1692875,Centro
+338,Luiz Carlos,PSDB,AP,14069,426382,Centro
+339,Adolfo Viana ,PSDB,BA,102603,8235310,Centro
+340,Roberto Pessoa,PSDB,CE,102470,5243490,Centro
+341,Célio Silveira,PSDB,GO,70663,3553706,Centro
+342,Rodrigo de Castro,PSDB,MG,131120,12211254,Centro
+343,Aécio Neves,PSDB,MG,106702,12211254,Centro
+344,Eduardo Barbosa,PSDB,MG,105969,12211254,Centro
+345,Domingos Sávio,PSDB,MG,80990,12211254,Centro
+346,Paulo Abi Ackel,PSDB,MG,79797,12211254,Centro
+347,Rose Modesto,PSDB,MS,120901,1478642,Centro
+348,Beto Pereira,PSDB,MS,80500,1478642,Centro
+349,Nilson Pinto,PSDB,PA,148972,4400611,Centro
+350,Celso Sabino,PSDB,PA,146288,4400611,Centro
+351,Pedro Cunha Lima,PSDB,PB,76754,2435477,Centro
+352,Edna Henrique,PSDB,PB,69935,2435477,Centro
+353,Ruy Carneiro,PSDB,PB,61259,2435477,Centro
+354,Mariana Carvalho,PSDB,RO,38776,912914,Centro
+355,Shéridan,PSDB,RR,12129,286754,Centro
+356,Lucas Redecker,PSDB,RS,114346,6835866,Centro
+357,Daniel da Tv,PSDB,RS,74789,6835866,Centro
+358,Geovania de Sa,PSDB,SC,101937,4241667,Centro
+359,Bruna Furlan,PSDB,SP,126847,25921320,Centro
+360,Carlos Sampaio,PSDB,SP,125666,25921320,Centro
+361,Vitor Lippi,PSDB,SP,120529,25921320,Centro
+362,Samuel Moreira,PSDB,SP,103215,25921320,Centro
+363,Vanderlei Macris,PSDB,SP,102708,25921320,Centro
+364,Eduardo Cury,PSDB,SP,94282,25921320,Centro
+365,Delegado Pablo,PSL,AM,151649,1957418,Direita
+366,Prof. Dayane Pimentel,PSL,BA,136742,8235310,Direita
+367,Heitor Freire,PSL,CE,97201,5243490,Direita
+368,Dra. Soraya Manato,PSL,ES,57741,2223207,Direita
+369,Delegado Waldir,PSL,GO,274406,3553706,Direita
+370,Major Vitor Hugo,PSL,GO,31190,3553706,Direita
+371,Marcelo Alvaro Antonio,PSL,MG,230008,12211254,Direita
+372,Cabo Junio Amaral,PSL,MG,158541,12211254,Direita
+373,Delegado Marcelo Freitas,PSL,MG,58176,12211254,Direita
+374,Charlles Evangelista,PSL,MG,51626,12211254,Direita
+375,Léo Motta,PSL,MG,51073,12211254,Direita
+376,Alê Silva,PSL,MG,48043,12211254,Direita
+377,Tio Trutis,PSL,MS,56339,1478642,Direita
+378,Dr. Luiz Ovando,PSL,MS,50376,1478642,Direita
+379,Nelson Barbudo,PSL,MT,126249,1757368,Direita
+380,Julian Lemos,PSL,PB,71899,2435477,Direita
+381,Luciano Bivar,PSL,PE,117943,5391639,Direita
+382,Felipe Francischini,PSL,PR,241537,6616901,Direita
+383,Filipe Barros,PSL,PR,75326,6616901,Direita
+384,Aline Sleutjes,PSL,PR,33628,6616901,Direita
+385,Helio Fernando Barbosa Lopes,PSL,RJ,345234,9474441,Direita
+386,Carlos Jordy,PSL,RJ,204048,9474441,Direita
+387,Luiz Lima ,PSL,RJ,115119,9474441,Direita
+388,Delegado Antônio Furtado,PSL,RJ,104211,9474441,Direita
+389,Sargento Gurgel,PSL,RJ,62089,9474441,Direita
+390,Major Fabiana,PSL,RJ,57611,9474441,Direita
+391,Felício Laterça,PSL,RJ,47065,9474441,Direita
+392,Márcio Labre,PSL,RJ,46934,9474441,Direita
+393,Lourival Gomes,PSL,RJ,41307,9474441,Direita
+394,Chris Tonietto,PSL,RJ,38525,9474441,Direita
+395,Professor Joziel,PSL,RJ,34274,9474441,Direita
+396,Daniel Silveira,PSL,RJ,31789,9474441,Direita
+397,General Girao,PSL,RN,81640,1966450,Direita
+398,Coronel Chrisóstomo,PSL,RO,28344,912914,Direita
+399,Nicoletti,PSL,RR,12969,286754,Direita
+400,Bibo Nunes,PSL,RS,91664,6835866,Direita
+401,Sanderson Federal,PSL,RS,88559,6835866,Direita
+402,Nereu Crispin,PSL,RS,32200,6835866,Direita
+403,Daniel Freitas,PSL,SC,142571,4241667,Direita
+404,Caroline de Toni,PSL,SC,109363,4241667,Direita
+405,Fabio Schiochet,PSL,SC,87345,4241667,Direita
+406,Coronel Armando,PSL,SC,60069,4241667,Direita
+407,Eduardo Bolsonaro,PSL,SP,1843735,25921320,Direita
+408,Joice Hasselmann,PSL,SP,1078666,25921320,Direita
+409,Alexandre Frota,PSL,SP,155522,25921320,Direita
+410,Luiz Philippe o. Bragança,PSL,SP,118457,25921320,Direita
+411,Coronel Tadeu,PSL,SP,98373,25921320,Direita
+412,Junior Bozzella,PSL,SP,78712,25921320,Direita
+413,Carla Zambelli,PSL,SP,76306,25921320,Direita
+414,General Peternelli,PSL,SP,74190,25921320,Direita
+415,Abou Anni,PSL,SP,69256,25921320,Direita
+416,Guiga Peixoto,PSL,SP,31718,25921320,Direita
+417,Aurea Carolina,PSOL,MG,162740,12211254,Esquerda
+418,Edmilson Rodrigues,PSOL,PA,184042,4400611,Esquerda
+419,Marcelo Freixo,PSOL,RJ,342491,9474441,Esquerda
+420,Talíria Petrone,PSOL,RJ,107317,9474441,Esquerda
+421,Glauber Braga,PSOL,RJ,40199,9474441,Esquerda
+422,Jean Wyllys,PSOL,RJ,24295,9474441,Esquerda
+423,Fernanda Melchionna,PSOL,RS,114302,6835866,Esquerda
+424,Sâmia Bomfim,PSOL,SP,249887,25921320,Esquerda
+425,Luiza Erundina,PSOL,SP,176883,25921320,Esquerda
+426,Ivan Valente,PSOL,SP,155334,25921320,Esquerda
+427,Paulão,PT,AL,60900,1692875,Esquerda
+428,José Ricardo,PT,AM,197270,1957418,Esquerda
+429,Jorge Solla,PT,BA,135657,8235310,Esquerda
+430,Afonso Florence,PT,BA,130548,8235310,Esquerda
+431,Zé Neto,PT,BA,129196,8235310,Esquerda
+432,Caetano,PT,BA,124647,8235310,Esquerda
+433,Waldenor Pereira,PT,BA,121278,8235310,Esquerda
+434,Valmir Assunção,PT,BA,118313,8235310,Esquerda
+435,Josias Gomes,PT,BA,115571,8235310,Esquerda
+436,Pelegrino,PT,BA,101476,8235310,Esquerda
+437,Luizianne,PT,CE,173777,5243490,Esquerda
+438,Guimaraes,PT,CE,173039,5243490,Esquerda
+439,Jose Airton,PT,CE,74099,5243490,Esquerda
+440,Erika Kokay,PT,DF,89986,1691392,Esquerda
+441,Helder Salomão,PT,ES,73384,2223207,Esquerda
+442,Rubens Otoni,PT,GO,83063,3553706,Esquerda
+443,Ze Carlos,PT,MA,76893,3604580,Esquerda
+444,Reginaldo Lopes,PT,MG,194332,12211254,Esquerda
+445,Paulo Guedes,PT,MG,176841,12211254,Esquerda
+446,Rogério Correia,PT,MG,131312,12211254,Esquerda
+447,Padre João,PT,MG,131228,12211254,Esquerda
+448,Patrus Ananias,PT,MG,112724,12211254,Esquerda
+449,Margarida Salomão,PT,MG,89378,12211254,Esquerda
+450,Odair Cunha,PT,MG,87891,12211254,Esquerda
+451,Leonardo Monteiro,PT,MG,68686,12211254,Esquerda
+452,Vander Loubet,PT,MS,55970,1478642,Esquerda
+453,Professora Rosa Neide,PT,MT,51015,1757368,Esquerda
+454,Beto Faro,PT,PA,143822,4400611,Esquerda
+455,Airton Faleiro,PT,PA,106965,4400611,Esquerda
+456,Frei Anastacio,PT,PB,91408,2435477,Esquerda
+457,Marília Arraes,PT,PE,193108,5391639,Esquerda
+458,Carlos Veras,PT,PE,72005,5391639,Esquerda
+459,Rejane Dias,PT,PI,138800,1997587,Esquerda
+460,Assis Carvalho,PT,PI,129623,1997587,Esquerda
+461,Gleisi Lula,PT,PR,212513,6616901,Esquerda
+462,Zeca Dirceu,PT,PR,77306,6616901,Esquerda
+463,Enio Verri,PT,PR,62169,6616901,Esquerda
+464,Benedita da Silva ,PT,RJ,44804,9474441,Esquerda
+465,Natalia Bonavides,PT,RN,112998,1966450,Esquerda
+466,Mineiro,PT,RN,98070,1966450,Esquerda
+467,Paulo Pimenta,PT,RS,133086,6835866,Esquerda
+468,Marcon,PT,RS,122838,6835866,Esquerda
+469,Henrique Fontana,PT,RS,108585,6835866,Esquerda
+470,Bohn Gass,PT,RS,102964,6835866,Esquerda
+471,Maria do Rosário,PT,RS,97303,6835866,Esquerda
+472,Professor Pedro Uczai,PT,SC,115232,4241667,Esquerda
+473,Joao Daniel,PT,SE,59933,1279582,Esquerda
+474,Rui Falcão,PT,SP,158389,25921320,Esquerda
+475,Carlos Zarattini,PT,SP,137909,25921320,Esquerda
+476,Nilto Tatto,PT,SP,124281,25921320,Esquerda
+477,Alexandre Padilha,PT,SP,87576,25921320,Esquerda
+478,Arlindo Chinaglia,PT,SP,87449,25921320,Esquerda
+479,Paulo Teixeira,PT,SP,78512,25921320,Esquerda
+480,Vicentinho,PT,SP,70645,25921320,Esquerda
+481,Alencar Santana,PT,SP,67892,25921320,Esquerda
+482,Celio Moura,PT,TO,18167,831214,Esquerda
+483,Nivaldo Albuquerque,PTB,AL,84956,1692875,Direita
+484,Pedro Bezerra,PTB,CE,119030,5243490,Direita
+485,Pedro Lucas Fernandes,PTB,MA,111538,3604580,Direita
+486,Emanuelzinho,PTB,MT,76781,1757368,Direita
+487,Paulo Bengtson,PTB,PA,96722,4400611,Direita
+488,Eduardo Costa,PTB,PA,75346,4400611,Direita
+489,Wilson Santiago,PTB,PB,86208,2435477,Direita
+490,Luisa Canziani,PTB,PR,90249,6616901,Direita
+491,Maurício Dziedricki,PTB,RS,83617,6835866,Direita
+492,Marcelo Moraes,PTB,RS,69904,6835866,Direita
+493,Dra. Marina,PTC,PI,70828,1997587,Direita
+494,Benes Leocadio,PTC,RN,125841,1966450,Direita
+495,Celio Studart,PV,CE,208854,5243490,Esquerda
+496,Professor Israel,PV,DF,67598,1691392,Esquerda
+497,Leandre,PV,PR,123958,6616901,Esquerda
+498,Enrico Misasi,PV,SP,108038,25921320,Esquerda
+499,Joenia Wapichana,REDE,RR,8491,286754,Esquerda
+500,Dra. Vanda Milani,SOLIDARIEDADE,AC,22219,443429,Centro
+501,Bosco Saraiva,SOLIDARIEDADE,AM,55477,1957418,Centro
+502,Genecias Noronha,SOLIDARIEDADE,CE,113515,5243490,Centro
+503,Lucas Vergílio,SOLIDARIEDADE,GO,78431,3553706,Centro
+504,Zé Silva,SOLIDARIEDADE,MG,109335,12211254,Centro
+505,Dr Leonardo,SOLIDARIEDADE,MT,52335,1757368,Centro
+506,Augusto Coutinho,SOLIDARIEDADE,PE,77817,5391639,Centro
+507,Aureo,SOLIDARIEDADE,RJ,68414,9474441,Centro
+508,Otaci,SOLIDARIEDADE,RR,11879,286754,Centro
+509,Gustinho Ribeiro,SOLIDARIEDADE,SE,64132,1279582,Centro
+510,Paulinho da Força,SOLIDARIEDADE,SP,75613,25921320,Centro
+511,Tiago Dimas,SOLIDARIEDADE,TO,71842,831214,Centro
+512,Eli Borges,SOLIDARIEDADE,TO,48812,831214,Centro
