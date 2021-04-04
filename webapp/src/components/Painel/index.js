@@ -36,9 +36,6 @@ function Painel() {
   const barplot_width = 300;
   const barplot_height = 150;
   const radius = width / 2;
-  const colorin = '#00f';
-  const colorout = '#f00';
-  const colornone = '#ccc';
 
   const orientationTypeScale = d3
     .scaleOrdinal()
@@ -124,13 +121,9 @@ function Painel() {
 
   useEffect(() => {
     if (allRetweets.length > 0 && loading === false) {
-      const colorin = '#00f';
       const colornone = '#ccc';
-      const colorout = '#f00';
-      const orientationTypeScale = d3
-        .scaleOrdinal()
-        .domain(['Esquerda', 'Direita', 'Centro'])
-        .range(['#941c1c', '#1a219c', '#9c8e19']);
+      const colorin = '#660033';
+      const colorout = '#669900';
 
       const data = hierarchy(response.data);
 
@@ -162,6 +155,8 @@ function Painel() {
         .attr('viewBox', [-width / 2, -width / 2, width, width]);
 
       let y = d3.scaleLinear().domain([0, 60]).range([barplot_height, 0]);
+
+      console.log(root.leaves());
       const node = svg
         .append('g')
         .attr('font-family', 'sans-serif')
@@ -179,11 +174,12 @@ function Painel() {
         .attr('text-anchor', (d) => (d.x < Math.PI ? 'start' : 'end'))
         .attr('transform', (d) => (d.x >= Math.PI ? 'rotate(180)' : null))
         .text((d) => d.data.name)
-        .attr('fill', (d) => orientationTypeScale(d.data['Ideology']))
+        .attr('fill', (d) => orientationTypeScale(d.data['Orientação']))
         .each(function (d) {
           d.text = this;
         })
         .on('click', selection_fn)
+        //.on("dblclick", outed)
         .call((text) =>
           text.append('title').text(
             (d) => `${d.data.name}
@@ -204,6 +200,8 @@ function Painel() {
         .each(function (d) {
           d.path = this;
         });
+
+      dc.renderAll();
 
       function getRetweetedUsers(who_user_retweeted) {
         let usernames = [];
@@ -229,8 +227,8 @@ function Painel() {
         if (d.data.selected) {
           d.data.selected = false;
           link.style('mix-blend-mode', 'multiply');
-          d3.select(this).attr('font-weight', null);
-          d3.select(this).attr(
+          d3.select('hierarchical').attr('font-weight', null);
+          d3.select('hierarchical').attr(
             'fill',
             orientationTypeScale(d.data['Ideology']),
           );
@@ -248,8 +246,8 @@ function Painel() {
           setSelectedName(d.data.name);
           d.data.selected = true;
           link.style('mix-blend-mode', null);
-          d3.select(this).attr('font-weight', 'bold');
-          d3.select(this).attr('fill', '#000');
+          d3.select('hierarchical').attr('font-weight', 'bold');
+          d3.select('hierarchical').attr('fill', '#000');
           d3.selectAll(d.incoming.map((d) => d.path))
             .attr('stroke', colorin)
             .raise();
@@ -286,11 +284,6 @@ function Painel() {
   }
   if (error) return <p>Error!</p>;
 
-  function importImage() {
-    const image = '../../assets/images/_pinheira.jpg';
-    return image;
-  }
-
   return (
     <>
       {allRetweets.length > 100 ? (
@@ -302,7 +295,10 @@ function Painel() {
             <div className="right">
               <div className="userInfo">
                 <p>Ideologia de quem retuitou @{selectedName}</p>
-                <img src={`/images/${selectedName}.jpg`} alt={selectedName} />
+                <img
+                  src={`/twitter-polarization/images/${selectedName}.jpg`}
+                  alt={selectedName}
+                />
               </div>
               <div className="charts">
                 <BarChart

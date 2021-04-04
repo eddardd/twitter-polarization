@@ -13,6 +13,18 @@ export const FlexContainer = styled.div`
   align-items: center;
   justify-content: center;
 
+  .map-container.is-locked:after {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    content: '';
+    display: block;
+  }
+
   @media only screen and (max-width: 768px) {
     display: block;
   }
@@ -34,8 +46,11 @@ export const FlexContainer = styled.div`
     }
   }
 
+  .right {
+    padding-left: 3%;
+  }
+
   .left {
-    padding-left: 15%;
     @media only screen and (max-width: 768px) {
       padding-left: 0%;
     }
