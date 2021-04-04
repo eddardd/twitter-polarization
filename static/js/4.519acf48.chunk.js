@@ -1,0 +1,2 @@
+(this["webpackJsonptwitter-polarization"]=this["webpackJsonptwitter-polarization"]||[]).push([[4],{145:function(t,i,r){"use strict";r.r(i);var a=r(1);i.default=function(t){var i=t.src,r=t.width,s=t.height;return Object(a.jsx)("img",{src:"/img/svg/".concat(i),alt:i,with:r,height:s})}}}]);
+//# sourceMappingURL=4.519acf48.chunk.js.map
