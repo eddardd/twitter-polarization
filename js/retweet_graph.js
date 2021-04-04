@@ -3,8 +3,8 @@ const height = 800;
 const barplot_width = 300;
 const barplot_height = 150;
 const radius = width / 2;
-const colorin = "#00f";
-const colorout = "#f00";
+const colorin = "#660033";
+const colorout = "#669900";
 const colornone = "#ccc";
 
 line = d3.lineRadial()
@@ -37,7 +37,7 @@ function ready(us) {
 
     orientationTypeScale = d3.scaleOrdinal()
                              .domain(["Esquerda", "Direita", "Centro"])
-                             .range(["#941c1c", "#1a219c", "#9c8e19"])
+                             .range([colorLeft, colorRight, colorCenter])
     facts1 = crossfilter(all_users)
     ideologyDimension1 = facts1.dimension(d => d['Ideology'])
     nameDimension1 = facts1.dimension(d => d['username'])
@@ -48,7 +48,7 @@ function ready(us) {
     nameDimension2 = facts2.dimension(d => d['username'])
     ideologyCount2 = ideologyDimension2.group()
         
-    let barchart = new dc.BarChart("#bar1");
+    let barchart = new dc.BarChart("#bar3");
     barchart.width(barplot_width)
             .height(barplot_height)
             .dimension(ideologyDimension1)
@@ -61,7 +61,7 @@ function ready(us) {
             .colors(orientationTypeScale)
             .colorAccessor(d => d.key)
 
-    let barchart2 = new dc.BarChart("#bar2");
+    let barchart2 = new dc.BarChart("#bar4");
 
     barchart2.width(barplot_width)
              .height(barplot_height)
@@ -103,7 +103,6 @@ function ready(us) {
                     .attr('fill', d => orientationTypeScale(d.data['Ideology']))
                     .each(function(d) { d.text = this; })
                     .on("click", selection_fn)
-                    //.on("dblclick", outed)
                     .call(text => text.append("title").text(
                         d => `${d.data.name}
                         Retweeted by ${d.outgoing.length} users
@@ -133,8 +132,8 @@ function ready(us) {
             d3.selectAll(d.incoming.map(([d]) => d.text)).attr("font-weight", null);
             d3.selectAll(d.outgoing.map(([, d]) => d.text)).attr("font-weight", null);
         }else {
-            document.getElementById("barHeader1").innerHTML = `Ideologia de quem retuitou @${d.data.name}`
-            document.getElementById("barHeader2").innerHTML = `Ideologia dos retuitados por @${d.data.name}`
+            document.getElementById("barHeader3").innerHTML = `Ideologia de quem retuitou @${d.data.name}`
+            document.getElementById("barHeader4").innerHTML = `Ideologia dos retuitados por @${d.data.name}`
             d.data.selected = true
             link.style("mix-blend-mode", null);
             d3.select(this).attr("font-weight", "bold");
