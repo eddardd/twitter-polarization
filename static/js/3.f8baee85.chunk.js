@@ -1,2 +1,0 @@
-(this["webpackJsonpweb-app"]=this["webpackJsonpweb-app"]||[]).push([[3],{112:function(t,i,s){"use strict";s.r(i);var c=s(1);i.default=function(t){var i=t.src,s=t.width,e=t.height;return Object(c.jsx)("img",{src:"/img/svg/".concat(i),alt:i,with:s,height:e})}}}]);
-//# sourceMappingURL=3.f8baee85.chunk.js.map
