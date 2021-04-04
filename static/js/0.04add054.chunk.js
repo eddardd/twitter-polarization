@@ -1,0 +1,2 @@
+(this["webpackJsonptwitter-polarization"]=this["webpackJsonptwitter-polarization"]||[]).push([[0],{41:function(t,e,i){"use strict";i.r(e);i(0);var n=i(1);e.default=function(){return Object(n.jsx)(n.Fragment,{children:Object(n.jsx)("h1",{children:"Test"})})}}}]);
+//# sourceMappingURL=0.04add054.chunk.js.map

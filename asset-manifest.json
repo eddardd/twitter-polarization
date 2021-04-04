@@ -1,7 +1,7 @@
 {
   "files": {
-    "static/js/0.eff308db.chunk.js": "/twitter-polarization/static/js/0.eff308db.chunk.js",
-    "static/js/0.eff308db.chunk.js.map": "/twitter-polarization/static/js/0.eff308db.chunk.js.map",
+    "static/js/0.04add054.chunk.js": "/twitter-polarization/static/js/0.04add054.chunk.js",
+    "static/js/0.04add054.chunk.js.map": "/twitter-polarization/static/js/0.04add054.chunk.js.map",
     "static/js/1.24862dc8.chunk.js": "/twitter-polarization/static/js/1.24862dc8.chunk.js",
     "static/js/1.24862dc8.chunk.js.map": "/twitter-polarization/static/js/1.24862dc8.chunk.js.map",
     "static/js/2.0886ea3f.chunk.js": "/twitter-polarization/static/js/2.0886ea3f.chunk.js",
@@ -10,10 +10,10 @@
     "static/js/3.9b329d56.chunk.js.map": "/twitter-polarization/static/js/3.9b329d56.chunk.js.map",
     "static/js/4.519acf48.chunk.js": "/twitter-polarization/static/js/4.519acf48.chunk.js",
     "static/js/4.519acf48.chunk.js.map": "/twitter-polarization/static/js/4.519acf48.chunk.js.map",
-    "main.js": "/twitter-polarization/static/js/main.bcab2c74.chunk.js",
-    "main.js.map": "/twitter-polarization/static/js/main.bcab2c74.chunk.js.map",
-    "runtime-main.js": "/twitter-polarization/static/js/runtime-main.ad0f5889.js",
-    "runtime-main.js.map": "/twitter-polarization/static/js/runtime-main.ad0f5889.js.map",
+    "main.js": "/twitter-polarization/static/js/main.98f205ca.chunk.js",
+    "main.js.map": "/twitter-polarization/static/js/main.98f205ca.chunk.js.map",
+    "runtime-main.js": "/twitter-polarization/static/js/runtime-main.bdb80bad.js",
+    "runtime-main.js.map": "/twitter-polarization/static/js/runtime-main.bdb80bad.js.map",
     "static/css/7.015dc0ab.chunk.css": "/twitter-polarization/static/css/7.015dc0ab.chunk.css",
     "static/js/7.00b03485.chunk.js": "/twitter-polarization/static/js/7.00b03485.chunk.js",
     "static/js/7.00b03485.chunk.js.map": "/twitter-polarization/static/js/7.00b03485.chunk.js.map",
@@ -44,9 +44,9 @@
     "static/media/cover.ffe4d6ea.jpg": "/twitter-polarization/static/media/cover.ffe4d6ea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad0f5889.js",
+    "static/js/runtime-main.bdb80bad.js",
     "static/css/7.015dc0ab.chunk.css",
     "static/js/7.00b03485.chunk.js",
-    "static/js/main.bcab2c74.chunk.js"
+    "static/js/main.98f205ca.chunk.js"
   ]
 }
