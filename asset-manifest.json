@@ -10,8 +10,8 @@
     "static/js/3.9b329d56.chunk.js.map": "/twitter-polarization/static/js/3.9b329d56.chunk.js.map",
     "static/js/4.519acf48.chunk.js": "/twitter-polarization/static/js/4.519acf48.chunk.js",
     "static/js/4.519acf48.chunk.js.map": "/twitter-polarization/static/js/4.519acf48.chunk.js.map",
-    "main.js": "/twitter-polarization/static/js/main.98f205ca.chunk.js",
-    "main.js.map": "/twitter-polarization/static/js/main.98f205ca.chunk.js.map",
+    "main.js": "/twitter-polarization/static/js/main.388eb43c.chunk.js",
+    "main.js.map": "/twitter-polarization/static/js/main.388eb43c.chunk.js.map",
     "runtime-main.js": "/twitter-polarization/static/js/runtime-main.bdb80bad.js",
     "runtime-main.js.map": "/twitter-polarization/static/js/runtime-main.bdb80bad.js.map",
     "static/css/7.015dc0ab.chunk.css": "/twitter-polarization/static/css/7.015dc0ab.chunk.css",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.bdb80bad.js",
     "static/css/7.015dc0ab.chunk.css",
     "static/js/7.00b03485.chunk.js",
-    "static/js/main.98f205ca.chunk.js"
+    "static/js/main.388eb43c.chunk.js"
   ]
 }
