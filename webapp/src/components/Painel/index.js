@@ -40,7 +40,7 @@ function Painel() {
   const orientationTypeScale = d3
     .scaleOrdinal()
     .domain(['Esquerda', 'Direita', 'Centro'])
-    .range(['#941c1c', '#1a219c', '#9c8e19']);
+    .range(['#ef3b2c', '#4292c6', '#8a00e6']);
 
   function id(node) {
     return `${node.parent ? id(node.parent) + '.' : ''}${node.data.name}`;
@@ -48,7 +48,6 @@ function Painel() {
 
   function bilink(root) {
     if (typeof root.leaves() === 'undefined') {
-      console.log('sou undefined');
       root = [
         {
           data: { name: 'loading', Orientaçao: 'Centro', imports: [] },
@@ -121,9 +120,9 @@ function Painel() {
 
   useEffect(() => {
     if (allRetweets.length > 0 && loading === false) {
-      const colornone = '#ccc';
       const colorin = '#660033';
       const colorout = '#669900';
+      const colornone = '#ccc';
 
       const data = hierarchy(response.data);
 
@@ -156,7 +155,6 @@ function Painel() {
 
       let y = d3.scaleLinear().domain([0, 60]).range([barplot_height, 0]);
 
-      console.log(root.leaves());
       const node = svg
         .append('g')
         .attr('font-family', 'sans-serif')
@@ -310,6 +308,7 @@ function Painel() {
                   elasticX={false}
                   margins={{ top: 10, right: 20, bottom: 20, left: 30 }}
                   renderHorizontalGridLines={true}
+                  colors={orientationTypeScale}
                   colorAccessor={(d) => d.key}
                 />
                 <div className="userInfo">
@@ -323,6 +322,7 @@ function Painel() {
                   elasticY={true}
                   margin={{ top: 10, right: 20, bottom: 20, left: 30 }}
                   renderHorizontalGridLines={true}
+                  colors={orientationTypeScale}
                   colorAccessor={(d) => d.key}
                 />
               </div>

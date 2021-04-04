@@ -8,6 +8,7 @@ const HierarchicalEdge = lazy(() =>
   import('../../components/HierarchicalEdge'),
 );
 const MapPainel = lazy(() => import('../../components/MapPainel'));
+const BubblePainel = lazy(() => import('../../components/BubblePainel'));
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
       <Container>
         <Painel />
         <MapPainel />
+        <BubblePainel />
       </Container>
     </>
   );
