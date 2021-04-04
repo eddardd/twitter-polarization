@@ -243,6 +243,7 @@ function Painel() {
             null,
           );
         } else {
+          setSelectedName(d.data.name);
           d.data.selected = true;
           link.style('mix-blend-mode', null);
           d3.select('hierarchical').attr('font-weight', 'bold');
