@@ -37,7 +37,7 @@ function ready(us) {
 
     orientationTypeScale = d3.scaleOrdinal()
                              .domain(["Esquerda", "Direita", "Centro"])
-                             .range(["#941c1c", "#1a219c", "#9c8e19"])
+                             .range([colorLeft, colorRight, colorCenter])
     facts1 = crossfilter(all_users)
     ideologyDimension1 = facts1.dimension(d => d['Ideology'])
     nameDimension1 = facts1.dimension(d => d['username'])
@@ -103,7 +103,6 @@ function ready(us) {
                     .attr('fill', d => orientationTypeScale(d.data['Ideology']))
                     .each(function(d) { d.text = this; })
                     .on("click", selection_fn)
-                    //.on("dblclick", outed)
                     .call(text => text.append("title").text(
                         d => `${d.data.name}
                         Retweeted by ${d.outgoing.length} users

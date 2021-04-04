@@ -1,17 +1,19 @@
-const width = 650;
-const height = 480;
-const barplot_width = 700;
-const barplot_height = 150;
-const bolsonaroColor = "#39bd60"
-const haddadColor = "#c43737"
+const map_width = 500;
+const map_height = 500;
+const stacked_barplot_width = 700;
+const stacked_barplot_height = 250;
+const colorLeft = "#ef3b2c"
+const colorRight = "#4292c6"
+const colorCenter = "#fc9f30"
 
-const svg = d3.select("#map").append("svg")
-              .attr("width", width)
-              .attr("height", height);
+const svg2 = d3.select("#map")
+               .append("svg")
+               .attr("width", map_width)
+               .attr("height", map_height);
 
 scaleBolsonaro = d3.scaleQuantize()
                    .domain([0, 1])
-                   .range(d3.schemeGreens[9]);
+                   .range(d3.schemeBlues[9]);
 
 
 scaleHaddad = d3.scaleQuantize()
@@ -49,7 +51,7 @@ const nomeToSigla = {
 }
 
 
-let promises = [
+let map_promises = [
     d3.csv('../data/Eleicoes2018SegundoTurno.csv').then(function(data) {
         data.forEach(function(d) {
             d.totalVotos = +d.totalVotos;
@@ -72,7 +74,7 @@ let promises = [
     d3.json('../data/brazil_geo.js')
 ]
 
-Promise.all(promises).then(ready)
+Promise.all(map_promises).then(ready)
 
 function ready(us){
     let resultadoMunicipio = us[0]
@@ -108,7 +110,7 @@ function ready(us){
         mappingUF_VotosHaddad.set(nameCorrected, +d.percentHaddad)
     })
 
-    let mapInstance = L.map('map').setView([-14.3739305,-63.2576349], 4.25)
+    let mapInstance = L.map('map').setView([-15,-57], 4)
     L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", {
                 attribution:  `&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>,
  Map tiles by &copy; <a href="https://carto.com/attribution">CARTO</a>`,
@@ -127,12 +129,12 @@ function ready(us){
                 .domain(listUFs)
     maisVotadoScale = d3.scaleOrdinal()
                         .domain([13, 17])
-                        .range([haddadColor, bolsonaroColor])
+                        .range([colorLeft, colorRight])
 
     // dc.js barchart
-    let barchart = new dc.BarChart("#bar1");
-    barchart.width(barplot_width)
-            .height(barplot_height)
+    let barchart = new dc.BarChart("#bar3");
+    barchart.width(stacked_barplot_width)
+            .height(stacked_barplot_height)
             .dimension(ufDimension)
             .x(ufScale)
             .xUnits(dc.units.ordinal)
@@ -144,9 +146,9 @@ function ready(us){
             .on("pretransition", function(chart) {
                 chart.selectAll("g.stack rect.bar").style('fill', function (d) {
                     if (d.layer == 0) {
-                        return haddadColor
+                        return colorLeft
                     }else {
-                        return bolsonaroColor
+                        return colorRight
                     }
                 })
             });
@@ -184,9 +186,9 @@ function ready(us){
     municipioScale = d3.scaleOrdinal().domain(municipioDimension)
 
     // dc.js barchart
-    let barchart2 = new dc.BarChart("#bar2");
-    barchart2.width(barplot_width)
-             .height(barplot_height)
+    let barchart2 = new dc.BarChart("#bar4");
+    barchart2.width(stacked_barplot_width)
+             .height(stacked_barplot_height)
              .gap(50)
              .dimension(municipioDimension)
              .x(municipioScale)
@@ -199,9 +201,9 @@ function ready(us){
              .on("pretransition", function(chart) {
                  chart.selectAll("g.stack rect.bar").style('fill', function (d) {
                      if (d.layer == 0) {
-                         return haddadColor
+                         return colorLeft
                      } else {
-                         return bolsonaroColor
+                         return colorRight
                      }
                  })
              });
@@ -248,9 +250,9 @@ function highlightFeature(e) {
     municipioVotosHaddad = municipioDimension.group().reduceSum(function(d) {return d.percentHaddad})
     municipioVotosBolsonaro = municipioDimension.group().reduceSum(function(d) {return d.percentBolsonaro})
     municipioScale = d3.scaleOrdinal().domain(municipioDimension)
-    let barchart2 = new dc.BarChart("#bar2");
-    barchart2.width(barplot_width)
-             .height(barplot_height)
+    let barchart2 = new dc.BarChart("#bar4");
+    barchart2.width(stacked_barplot_width)
+             .height(stacked_barplot_height)
              .gap(50)
              .dimension(municipioDimension)
              .x(municipioScale)
@@ -263,9 +265,9 @@ function highlightFeature(e) {
              .on("pretransition", function(chart) {
                  chart.selectAll("g.stack rect.bar").style('fill', function (d) {
                      if (d.layer == 0) {
-                         return haddadColor
+                         return colorLeft
                      } else {
-                         return bolsonaroColor
+                         return colorRight
                      }
                  })
              });
