@@ -4,7 +4,7 @@ const stacked_barplot_width = 700;
 const stacked_barplot_height = 250;
 const colorLeft = "#ef3b2c"
 const colorRight = "#4292c6"
-const colorCenter = "#fc9f30"
+const colorCenter = "#8a00e6"
 
 const svg2 = d3.select("#map")
                .append("svg")
@@ -132,7 +132,7 @@ function ready(us){
                         .range([colorLeft, colorRight])
 
     // dc.js barchart
-    let barchart = new dc.BarChart("#bar3");
+    let barchart = new dc.BarChart("#bar1");
     barchart.width(stacked_barplot_width)
             .height(stacked_barplot_height)
             .dimension(ufDimension)
@@ -186,7 +186,7 @@ function ready(us){
     municipioScale = d3.scaleOrdinal().domain(municipioDimension)
 
     // dc.js barchart
-    let barchart2 = new dc.BarChart("#bar4");
+    let barchart2 = new dc.BarChart("#bar2");
     barchart2.width(stacked_barplot_width)
              .height(stacked_barplot_height)
              .gap(50)
@@ -250,7 +250,7 @@ function highlightFeature(e) {
     municipioVotosHaddad = municipioDimension.group().reduceSum(function(d) {return d.percentHaddad})
     municipioVotosBolsonaro = municipioDimension.group().reduceSum(function(d) {return d.percentBolsonaro})
     municipioScale = d3.scaleOrdinal().domain(municipioDimension)
-    let barchart2 = new dc.BarChart("#bar4");
+    let barchart2 = new dc.BarChart("#bar2");
     barchart2.width(stacked_barplot_width)
              .height(stacked_barplot_height)
              .gap(50)
