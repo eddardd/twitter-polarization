@@ -12,8 +12,8 @@
     "static/js/4.e80cf7a4.chunk.js.map": "/twitter-polarization/static/js/4.e80cf7a4.chunk.js.map",
     "main.js": "/twitter-polarization/static/js/main.58d1a842.chunk.js",
     "main.js.map": "/twitter-polarization/static/js/main.58d1a842.chunk.js.map",
-    "runtime-main.js": "/twitter-polarization/static/js/runtime-main.8f229752.js",
-    "runtime-main.js.map": "/twitter-polarization/static/js/runtime-main.8f229752.js.map",
+    "runtime-main.js": "/twitter-polarization/static/js/runtime-main.b3518838.js",
+    "runtime-main.js.map": "/twitter-polarization/static/js/runtime-main.b3518838.js.map",
     "static/css/7.015dc0ab.chunk.css": "/twitter-polarization/static/css/7.015dc0ab.chunk.css",
     "static/js/7.dc17f15d.chunk.js": "/twitter-polarization/static/js/7.dc17f15d.chunk.js",
     "static/js/7.dc17f15d.chunk.js.map": "/twitter-polarization/static/js/7.dc17f15d.chunk.js.map",
@@ -28,8 +28,8 @@
     "static/js/11.063bb16a.chunk.js.map": "/twitter-polarization/static/js/11.063bb16a.chunk.js.map",
     "static/js/12.61d10652.chunk.js": "/twitter-polarization/static/js/12.61d10652.chunk.js",
     "static/js/12.61d10652.chunk.js.map": "/twitter-polarization/static/js/12.61d10652.chunk.js.map",
-    "static/js/13.70ec8d98.chunk.js": "/twitter-polarization/static/js/13.70ec8d98.chunk.js",
-    "static/js/13.70ec8d98.chunk.js.map": "/twitter-polarization/static/js/13.70ec8d98.chunk.js.map",
+    "static/js/13.c6e2d732.chunk.js": "/twitter-polarization/static/js/13.c6e2d732.chunk.js",
+    "static/js/13.c6e2d732.chunk.js.map": "/twitter-polarization/static/js/13.c6e2d732.chunk.js.map",
     "static/js/14.154c1cf1.chunk.js": "/twitter-polarization/static/js/14.154c1cf1.chunk.js",
     "static/js/14.154c1cf1.chunk.js.map": "/twitter-polarization/static/js/14.154c1cf1.chunk.js.map",
     "static/js/15.0de98856.chunk.js": "/twitter-polarization/static/js/15.0de98856.chunk.js",
@@ -42,7 +42,7 @@
     "static/media/cover.ffe4d6ea.jpg": "/twitter-polarization/static/media/cover.ffe4d6ea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f229752.js",
+    "static/js/runtime-main.b3518838.js",
     "static/css/7.015dc0ab.chunk.css",
     "static/js/7.dc17f15d.chunk.js",
     "static/js/main.58d1a842.chunk.js"
