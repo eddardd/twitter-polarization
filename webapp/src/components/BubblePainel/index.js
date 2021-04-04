@@ -3,10 +3,12 @@ import * as d3 from 'd3';
 
 import deputadosData from '../../assets/deputadosData.json';
 
-import { GraphSection } from './styles';
+import { GraphSection, Container } from './styles';
 
 function BubblePainel() {
-  const [radiosValue, setRadiosValue] = useState(0);
+  const [radiusValue, setRadiosValue] = useState(3);
+  const [heightValue, setHeightValue] = useState(500);
+
   const width = 1200;
   const noSplitHeight = 500;
   const splitHeight = 2000;
@@ -25,9 +27,6 @@ function BubblePainel() {
     .round(true);
 
   const y = d3.scaleBand().domain(['Todos']).range([noSplitHeight, 0]);
-
-  console.log('y');
-  console.log(y('PT'));
 
   const yAxis = (g) =>
     g
@@ -83,67 +82,76 @@ function BubblePainel() {
       d3.forceY((d) => y(d.partido)),
     );
 
+  const svg = d3
+    .select('#bubble')
+    .attr('viewBox', [0, 0, width, noSplitHeight + margin.top + margin.bottom]);
+
+  const wrapper = svg
+    .append('g')
+    .attr('transform', `translate(${margin.left}, ${margin.top})`);
+
+  wrapper.append('g').call(xAxis);
+
+  const yAxisContainer = wrapper
+    .append('g')
+    .attr('transform', `translate(-10,10)`);
+
+  console.log(r('22263'));
+
+  console.log(svg.nodes());
+
   useEffect(() => {
-    const svg = d3
-      .select('#bubble')
-      .attr('viewBox', [
-        0,
-        0,
-        width,
-        noSplitHeight + margin.top + margin.bottom,
-      ]);
+    if (radiusValue !== 3) {
+      let height = radiusValue ? splitHeight : noSplitHeight;
+      let partidos = [...deputadosData.keys()].sort();
 
-    const wrapper = svg
-      .append('g')
-      .attr('transform', `translate(${margin.left}, ${margin.top})`);
+      setHeightValue(height);
+      console.log(height);
 
-    wrapper.append('g').call(xAxis);
-    const yAxisContainer = wrapper
-      .append('g')
-      .attr('transform', `translate(-10,10)`);
+      yAxisContainer
+        .call(yAxis, y, radiusValue ? partidos : ['Todos'])
+        .call((g) => g.select('.domain').remove())
+        .call((g) => g.selectAll('.tick line').remove());
 
-    console.log(r('22263'));
-    const circles = wrapper
-      .append('g')
-      .attr('className', 'circles')
-      .selectAll('circle')
-      .data(deputadosData)
-      .join('circle')
-      .attr('r', (d) => r(d.votos))
-      .attr('fill', (d) => color(d.ideologia))
-      .attr('x', (d) => Math.floor(Math.random() * 100));
+      y.domain(radiusValue ? partidos : ['Todos']);
+      y.range(
+        radiusValue
+          ? [splitHeight - margin.top - margin.bottom, 0]
+          : [noSplitHeight - margin.top - margin.bottom, 0],
+      );
+      yAxisContainer
+        .call(yAxis, y, radiusValue ? partidos : ['Todos'])
+        .call((g) => g.select('.domain').remove())
+        .call((g) => g.selectAll('.tick line').remove());
 
-    force.on('tick', () => {
-      circles
-        .transition()
-        .ease(d3.easeLinear)
-        .attr('cx', (d) => d.x)
-        .attr('cy', (d) => d.y);
-    });
+      force.force(
+        'y',
+        radiusValue
+          ? d3.forceY((d) => y(d.partido) + 45)
+          : d3.forceY((noSplitHeight - margin.top - margin.bottom) / 2),
+      );
 
-    console.log(force);
+      force.alpha(1).restart();
+    }
+  }, [radiusValue]);
+
+  function handleChange(e) {
+    setRadiosValue(false);
+    const split = false;
     return Object.assign(svg.node(), {
       update(split) {
-        y.domain(split ? partidos : ['Todos']);
+        console.log(svg);
       },
     });
-  }, []);
+  }
 
-  function update(split) {}
-
-  function handleChange() {
-    setRadiosValue(1);
+  function handleChange1(e) {
+    setRadiosValue(true);
   }
 
   return (
     <>
-      <label>
-        <input type={'radio'} name={'split'} /> Todos
-      </label>
-      <label>
-        <input type={'radio'} name={'split'} /> Por Partido
-      </label>
-      <svg id="bubble"></svg>
+      <Container></Container>
     </>
   );
 }

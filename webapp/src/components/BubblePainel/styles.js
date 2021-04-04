@@ -7,3 +7,10 @@ export const GraphSection = styled.section`
     padding: 4rem 0 4rem;
   }
 `;
+
+export const Container = styled.div`
+  iframe {
+    margin: 0px;
+    border: 0px solid white;
+  }
+`;

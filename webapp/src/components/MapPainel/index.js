@@ -23,11 +23,12 @@ function MapPainel() {
   const scaleBolsonaro = d3
     .scaleQuantize()
     .domain([0, 1])
-    .range(d3.schemeGreens[9]);
+    .range(d3.schemeBlues[9]);
+
   const scaleHaddad = d3.scaleQuantize().domain([0, 1]).range(d3.schemeReds[9]);
 
-  const bolsonaroColor = '#39bd60';
-  const haddadColor = '#c43737';
+  const bolsonaroColor = '#4292c6';
+  const haddadColor = '#ef3b2c';
 
   const nomeToSigla = {
     Acre: 'AC',
@@ -351,7 +352,7 @@ function MapPainel() {
                 <GeoJSON
                   data={geo.features}
                   style={(feature) => {
-                    let color = '';
+                    let color = '#E8E8E8';
                     let uf = feature.properties.sigla
                       .normalize('NFD')
                       .replace(/[\u0300-\u036f]/g, '')
