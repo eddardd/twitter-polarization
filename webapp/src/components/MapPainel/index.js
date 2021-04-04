@@ -312,11 +312,18 @@ function MapPainel() {
         });
       });
     dc.renderAll();
+
+    layer.setStyle({
+      weight: 2,
+      color: '#AAA',
+      dashArray: '',
+      fillOpacity: 0.7,
+    });
   }
 
   function resetHighlight(e) {
     var layer = e.target;
-    layer.setStyle(e.target);
+    layer.setStyle({ color: '#fff' });
   }
 
   function UnitsBar() {
