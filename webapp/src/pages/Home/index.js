@@ -7,15 +7,15 @@ const ContentBlock = lazy(() => import('../../components/ContentBlock'));
 const HierarchicalEdge = lazy(() =>
   import('../../components/HierarchicalEdge'),
 );
+const MapPainel = lazy(() => import('../../components/MapPainel'));
 
 function Home() {
   return (
     <>
       <Hero />
       <Container>
-        <Suspense fallback="<div>">
-          <Painel />
-        </Suspense>
+        <Painel />
+        <MapPainel />
       </Container>
     </>
   );
