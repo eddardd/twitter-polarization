@@ -31,7 +31,28 @@
         <li>3. Análise do comportamento de agentes políticos nas redes sociais.</li>
     </ul>
 </p>
-<h1 id="sect2">Eleições Presidenciais de 2018</h1>
+<h1 id="sect2">1. Eleições Presidenciais de 2018</h1>
+<p>
+    Nesta seção, analisamos a votação ocorrida no segundo turno das eleições presidenciais de 2018. Os dados foram
+    obtidos à partir de <a href="#refs">[1]</a>, por município, e foram agrupados por estado da federação, incluindo
+    votos no exterior (sigla "zz"). O cenário político de 2018 foi bastante turbulento, e diversos fatores convergiram
+    para a polarização política que culminou na eleição do atual presidente Jair Bolsonaro (sem partido). Entre estes,
+    ressaltamos os seguintes,
+    <ul>
+        <li>1. Atuação de um susposto Gabinete do Ódio para a disseminação de fake news em favor do então candidato
+            Jair Bolsonaro <a href="#refs">[2]</a>, <a href="#refs">[3]</a>,</li>
+        <li>2. Um cansaço generalizado de boa parte da população brasileira com a proposta política, e com a ideologia
+            representada pelo Partido dos Trabalhadores (PT) <a href="#refs">[4]</a>.</li>
+    </ul>
+    Os fatores apresentados na lista anterior culminaram num país dividido (como mostrado no mapa abaixo). De um lado,
+    as regiões norte, centro-oeste, sul e sudeste aderiram, em sua maioria, ao programa de governo apresentado por Jair
+    Bolsonaro, enquanto o nordeste permaneceu em sua totalidade com o candidato pelo PT, Fernando Haddad. 
+
+    Em contra-partida à argumentos xenófobos, que visam mostrar um nordeste dependente do assistencialismo herdado pelos
+    governos Lula e Dilma (2002 à 2016), o nordeste tem se mostrado um "Cinturão de Esquerda" <a href="#refs">[5]</a>. Isso
+    é, sobretudo, refletido pela eleição de governantes de orientação de esquerda na história recente. Para citar alguns:
+    Cid Gomes (PDT-CE), Camilo Santana (PT-CE), Flávio Dino (PCdoB - MA) e Rui Costa (PT-BA).
+</p>
 <div class="flex-container">
     <div id="map" class="flex-child"><h2>Votação para Presidente por Estado Brasileiro</h2></div>
     <div id="barChartContainer" class="flex-child">
@@ -39,14 +60,17 @@
         <div id="bar2" class="flex-child"><h2 id="barHeader2">5 Municípios com mais votos</h2></div>
     </div>
 </div>
-<h1 id="sect3">Análise da ideologia dos deputados em 2020</h1>
-<h1 id="sect4">Comportamento de Agentes Políticos nas Redes Sociais</h1>
-<p>Por fim, procuramos fazer uma análise do comportamento que diversos agentes políticos apresentam na
-    rede social Twitter. O foco da nossa visualização está na interação entre usuários. Para visualizar
-    essas interações, nós vamos considerar o ato de retweet como uma conexão entre dois usuários. Portanto,
-    nós agrupamos usuários de mesma ideologia política e incluímos uma conexão entre personalidades que se reuitaram.
-    Isso nos permite verificar: (i) se os retuites seguem a ideologia política dos agentes políticos, (ii) quais usuários
-    conseguem se comunicar com diferentes ideologias políticas.
+<h1 id="sect3">2. Análise da ideologia dos deputados em 2020</h1>
+<h1 id="sect4">3. Comportamento de Agentes Políticos nas Redes Sociais</h1>
+<p>
+   Procuramos fazer uma análise do comportamento que diversos agentes políticos apresentam na
+   rede social Twitter. O foco da nossa visualização está na interação entre usuários. Para visualizar
+   essas interações, nós vamos considerar o ato de retweet como uma conexão entre dois usuários. Portanto,
+   nós agrupamos usuários de mesma ideologia política. Note que a definição da ideologia política dos usuários
+   pesquisados segue a ideologia partidária levantada em <a href="#refs">[1]</a>, bem como a análise feita por
+   <a href="#refs">[2]</a>. Incluímos uma conexão entre personalidades que se reuitaram. Isso nos permite verificar:
+   (i) se os retuites seguem a ideologia política dos agentes políticos, (ii) quais usuários
+   conseguem se comunicar com diferentes ideologias políticas.
 </p>
 <h2>I. Ideologia Política e Retuites</h2>
 <p>Ao analisarmos os perfis, notamos que usuários à esquerda tendem a retuitar usuários de esquerda,
@@ -66,13 +90,26 @@
 
 <p style="display: inline-block;">O mesmo não se verifica para usuários de centro. Por exemplo, veículos de informação tem uma
     maior comunicabilidade entre todo o espectro político, como pode ser visto abaixo nas conexões
-    do perfil @folha.</p>
+    do perfil @folha, ou mesmo nomes de centro-direita como o perfil @77_frota. Isso reforça dois 
+    pontos-chave: (i) a imparcialidade de veículos de imprensa e de jornalistas, e (ii) o fato de que
+    agentes políticos menos radicais tendem a se comunicar com os dois lados do espectro político.
+</p>
 
-<div style="display: inline-block; width: 50%; height: auto;">
+<div style="float: left; width: 50%; height: auto;">
     <p style="text-align: center;"><b>Conexões de @folha</b></p>
     <img src="./Figures/Folha.png" alt="" style="width: 100%; height: auto; align-content: center;">
 </div>
-<h2>III. Visualização Iterativa</h2>
+<div style="float: right; width: 50%; height: auto;">
+    <p style="text-align: center;"><b>Conexões de @77_frota</b></p>
+    <img src="./Figures/77_frota.png" alt="" style="width: 100%; height: auto; align-content: center;">
+</div>
+
+<p style="display: inline-block;">
+Os usuários apresentados anteriormente, bem como outros perfis analisados podem ser explorados na
+visualização abaixo.
+</p>
+
+<h2>II. Visualização Iterativa</h2>
 <div class="flex-container">
     <div id="graph" class="flex-child"><h2>Grafo de Retweets</h2></div>
     <div id="barChartContainer" class="flex-child">
@@ -80,7 +117,16 @@
         <div id="bar4" class="flex-child"><h2 id="barHeader4">Ideologia dos retuitados por</h2></div>
     </div>
 </div>
-<script src="./js/retweet_graph.js"></script>
+
+<h1 id="refs">Referências Bibliográficas</h1>
+[1] Gazeta do Povo. <a href="https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/mapa-eleitoral-de-presidente-por-municipios-2turno/">Mapa eleitoral de presidente por municípios no 2º turno</a>, 2018 Acessado em: 19/02/2021. <br>
+[2] Veja. <a href="https://veja.abril.com.br/politica/cpi-das-fake-news-convoca-gabinete-do-odio-de-bolsonaro/">CPI das Fake News convoca ‘gabinete do ódio’ de Bolsonaro </a>, 2019 Acessado em 04/04/2021 <br>
+[3] Carlos Graieb. <a href="https://istoe.com.br/o-gabinete-do-odio-existe-ponto-final/">O Gabinete do Ódio Existe. Ponto Final</a>, 2020 Acessado em: 04/04/2021 <br>
+[4] Patricia Faching e Ricardo Machado. <a href="http://www.ihu.unisinos.br/159-noticias/entrevistas/583456-eleicoes-2018-a-radicalizacao-da-polarizacao-politica-no-brasil-algumas-analises-entrevistas-especiais">Eleições 2018. A radicalização da polarização política no Brasil. Algumas análises. Entrevistas especiais</a> <br>
+[5] Estadão. <a href="https://politica.estadao.com.br/noticias/eleicoes,nordeste-se-mantem-como-cinturao-da-esquerda">Nordeste se Mantém como "Cinturão da esquerda"</a>, 2018 Acessado em: 04/04/2021 <br>
+[6] Syvio Sardinha, Edson e Costa. <a id="1" href="https://congressoemfoco.uol.com.br/legislativo/direita-cresce-e-engole-o-centro-no-congresso-mais-fragmentado-da-historia/">Direita cresce e engole o centro no congresso mais fragmentado da historia</a>, 2019. Acessado em: 19/02/2021.<br>
+[7] Daniel Mariani, Fábio Takahashi. <a id="2" href="https://temas.folha.uol.com.br/gps-ideologico/">GPS Ideológico</a>, 2019 Acessado em: 19/02/2021. <br>
+<script src="./js/retweet_graph.js"></script> 
 <script src="./js/election_map.js"></script>
 </main>
 </body>
