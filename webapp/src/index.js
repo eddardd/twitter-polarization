@@ -9,7 +9,7 @@ import * as serviceWorker from './serviceWorker';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={'/twitter-polarization/'}>
       <I18nextProvider i18n={i18n}>
         <Router />
       </I18nextProvider>

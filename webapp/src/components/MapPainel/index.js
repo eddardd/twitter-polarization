@@ -60,28 +60,32 @@ function MapPainel() {
   };
 
   useEffect(() => {
-    d3.csv('/data/Eleicoes2018SegundoTurno.csv').then((data) => {
-      data.forEach((d) => {
-        d.totalVotos = +d.totalVotos;
-        d.percentHaddad = +d.percentHaddad;
-        d.percentBolsonaro = +d.percentBolsonaro;
-        d.numeroCandidatoMaisVotado = +d.numeroCandidatoMaisVotado;
-      });
+    d3.csv('/twitter-polarization/data/Eleicoes2018SegundoTurno.csv').then(
+      (data) => {
+        data.forEach((d) => {
+          d.totalVotos = +d.totalVotos;
+          d.percentHaddad = +d.percentHaddad;
+          d.percentBolsonaro = +d.percentBolsonaro;
+          d.numeroCandidatoMaisVotado = +d.numeroCandidatoMaisVotado;
+        });
 
-      setResultadoMunicipio(data);
-    });
+        setResultadoMunicipio(data);
+      },
+    );
 
-    d3.csv('/data/ResultadoUFEleicoes2018.csv').then((data) => {
-      data.forEach(function (d) {
-        d.percentHaddad = +d.percentHaddad;
-        d.percentBolsonaro = +d.percentBolsonaro;
-        d.numeroCandidatoMaisVotado = +d.numeroCandidatoMaisVotado;
-      });
+    d3.csv('/twitter-polarization/data/ResultadoUFEleicoes2018.csv').then(
+      (data) => {
+        data.forEach(function (d) {
+          d.percentHaddad = +d.percentHaddad;
+          d.percentBolsonaro = +d.percentBolsonaro;
+          d.numeroCandidatoMaisVotado = +d.numeroCandidatoMaisVotado;
+        });
 
-      setResultadoUF(data);
-    });
+        setResultadoUF(data);
+      },
+    );
 
-    d3.json('/data/brazil_geo.json').then((data) => {
+    d3.json('/twitter-polarization/data/brazil_geo.json').then((data) => {
       setGeometryUF(data);
     });
   }, []);
@@ -332,57 +336,59 @@ function MapPainel() {
 
   return (
     <>
-      <FlexContainer>
-        <div className="left">
-          <MapContainer
-            className="markercluster-map"
-            center={[-14.4107911, -48.9010266]}
-            zoom={4}
-            zoomControl={false}
-            minZoom={4}
-            maxZoom={4}
-          >
-            {mappingUFMaisVotado && (
-              <GeoJSON
-                data={geo.features}
-                style={(feature) => {
-                  let color = '';
-                  let uf = feature.properties.sigla
-                    .normalize('NFD')
-                    .replace(/[\u0300-\u036f]/g, '')
-                    .toUpperCase();
+      <GraphSection>
+        <FlexContainer>
+          <div className="left">
+            <MapContainer
+              className="markercluster-map"
+              center={[-14.4107911, -48.9010266]}
+              zoom={4}
+              zoomControl={false}
+              minZoom={4}
+              maxZoom={4}
+            >
+              {mappingUFMaisVotado && (
+                <GeoJSON
+                  data={geo.features}
+                  style={(feature) => {
+                    let color = '';
+                    let uf = feature.properties.sigla
+                      .normalize('NFD')
+                      .replace(/[\u0300-\u036f]/g, '')
+                      .toUpperCase();
 
-                  if (mappingUFMaisVotado.get(uf) == 17)
-                    color = scaleBolsonaro(mappingUFVotosBolsonaro.get(uf));
-                  else if (mappingUFMaisVotado.get(uf) == 13)
-                    color = scaleHaddad(mappingUFVotosHaddad.get(uf));
-                  return {
-                    weight: 1,
-                    opacity: 1,
-                    color: 'white',
-                    dashArray: '3',
-                    fillOpacity: 0.6,
-                    fillColor: color,
-                  };
-                }}
-                onEachFeature={onEachFeature}
-              />
-            )}
-            <TileLayer
-              url="https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
-              attribution='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>,
+                    if (mappingUFMaisVotado.get(uf) == 17)
+                      color = scaleBolsonaro(mappingUFVotosBolsonaro.get(uf));
+                    else if (mappingUFMaisVotado.get(uf) == 13)
+                      color = scaleHaddad(mappingUFVotosHaddad.get(uf));
+                    return {
+                      weight: 1,
+                      opacity: 1,
+                      color: 'white',
+                      dashArray: '3',
+                      fillOpacity: 0.6,
+                      fillColor: color,
+                    };
+                  }}
+                  onEachFeature={onEachFeature}
+                />
+              )}
+              <TileLayer
+                url="https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
+                attribution='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>,
  Map tiles by &copy; <a href="https://carto.com/attribution">CARTO</a>'
-              maxZoom={18}
-            />
-          </MapContainer>
-        </div>
-        <div className="right">
-          <div id="bar1">
-            <h2 id="barHeader1">Percentual de votos por Estado</h2>
+                maxZoom={18}
+              />
+            </MapContainer>
           </div>
-          <h2>{layerName}</h2> <div id="bar2"></div>
-        </div>
-      </FlexContainer>
+          <div className="right">
+            <div id="bar1">
+              <h2 id="barHeader1">Percentual de votos por Estado</h2>
+            </div>
+            <h2>{layerName}</h2> <div id="bar2"></div>
+          </div>
+        </FlexContainer>
+      </GraphSection>
     </>
   );
 }
