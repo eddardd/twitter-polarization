@@ -12,8 +12,8 @@ for username in tqdm(seed_users):
     searchParameters.Username = username
     searchParameters.Retweets = True
     searchParameters.Since = "2020-08-1"
-    searchParameters.Store_csv = True
+    searchParameters.Store_json = True
     searchParameters.Output = "./data/{}.csv".format(username)
-    searchParameters.Hide_output = True
+    # searchParameters.Hide_output = True
      
     twint.run.Search(searchParameters) 
