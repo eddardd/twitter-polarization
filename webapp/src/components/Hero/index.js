@@ -8,7 +8,7 @@ function Hero() {
   return (
     <Parallax bgImage={cover} strength={-300} blur={{ min: -15, max: 15 }}>
       <HeroDiv className="hero">
-        <h1>Polarização Politica</h1>
+        <h1>Polarização Política no Brasil: Uma Perspectiva de Visualização de Dados</h1>
       </HeroDiv>
     </Parallax>
   );
