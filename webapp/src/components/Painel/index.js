@@ -298,11 +298,12 @@ function Painel() {
               conexão entre dois usuários. Portanto, nós agrupamos usuários de
               mesma ideologia política. Note que a definição da ideologia
               política dos usuários pesquisados segue a ideologia partidária
-              levantada em [1], bem como a análise feita por [2]. Incluímos uma
-              conexão entre personalidades que se reuitaram. Isso nos permite
-              verificar: (i) se os retuites seguem a ideologia política dos
-              agentes políticos, (ii) quais usuários conseguem se comunicar com
-              diferentes ideologias políticas.
+              levantada em <a href="#ref"> [6]</a>, bem como a análise feita por{' '}
+              <a href="#ref"> [7]</a>. Incluímos uma conexão entre
+              personalidades que se reuitaram. Isso nos permite verificar: (i)
+              se os retuites seguem a ideologia política dos agentes políticos,
+              (ii) quais usuários conseguem se comunicar com diferentes
+              ideologias políticas.
             </p>
             <h5>Ideologia Política e Retuites</h5>
             <p>

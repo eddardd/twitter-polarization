@@ -178,7 +178,7 @@ function Bubble() {
     <>
       <Container>
         <h2 id="intro" style={{ textAlign: 'center' }}>
-          Análise da ideologia dos deputados em 2020{' '}
+          Análise da ideologia dos deputados em 2018{' '}
         </h2>{' '}
         <p>
           Para complementar a análise da polarização política para as eleições
