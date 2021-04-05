@@ -347,13 +347,13 @@ function MapPainel() {
           direita-esquerda. Para tanto, exploramos três eixos temáticos,
         </p>
         <ul>
-          <li>Análise das eleições de 2018</li>
+          <li>1. Análise das eleições de 2018</li>
           <li>
-            Análise das bancadas da câmara dos deputados, por partido e
+            2. Análise das bancadas da câmara dos deputados, por partido e
             ideologia
           </li>
           <li>
-            Análise do comportamento de agentes políticos nas redes sociais
+            3. Análise do comportamento de agentes políticos nas redes sociais
           </li>
         </ul>
 
@@ -371,13 +371,12 @@ function MapPainel() {
 
         <ul>
           <li>
-            Atuação de um susposto Gabinete do Ódio para a disseminação de fake
-            news em favor do então candidato Jair Bolsonaro{' '}
-            <a href="#ref"> [7]</a>, <a href="#ref"> [3]</a>
+            1. Atuação de um susposto Gabinete do Ódio para a disseminação de
+            fake news em favor do então candidato Jair Bolsonaro [2], [3],
           </li>
           <li>
-            Um cansaço generalizado de boa parte da população brasileira com a
-            proposta política, e com a ideologia representada pelo Partido dos
+            2. Um cansaço generalizado de boa parte da população brasileira com
+            a proposta política, e com a ideologia representada pelo Partido dos
             Trabalhadores (PT) <a href="#ref"> [4]</a>.
           </li>
         </ul>
