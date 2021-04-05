@@ -31,3 +31,7 @@ Vários ".csv" e ".json" usados no desenvolvimento das visualizações.
 ### Arquivos .ipynb
 
 Notebooks jupyter usados para o pre-processamento dos dados. Em suma, "Preprocessing Data.ipynb" gera os arquivos .json usados no desenvolvimento do Hierarchical Edge Bundling Chart, enquanto "Agrupar Municípios por UF".ipynb agrupa os resultados da votação do 2º turno para presidente em 2018 por unidade da federação.
+
+### users.csv
+
+Tabela .csv com a relação de todas as contas do tuíter analisadas.
