@@ -11,16 +11,20 @@ const MapPainel = lazy(() => import('../../components/MapPainel'));
 const BubblePainel = lazy(() => import('../../components/BubblePainel'));
 
 const TextWrapper = lazy(() => import('../../components/TextWrapper'));
+const Ref = lazy(() => import('../../components/Ref'));
+
+const ScrollTo = lazy(() => import('../../common/ScrollToTop'));
 
 function Home() {
   return (
     <>
       <Hero />
+      <ScrollTo />
       <Container>
-        <TextWrapper />
         <MapPainel />
         <BubblePainel />
         <Painel />
+        <Ref />
       </Container>
     </>
   );
