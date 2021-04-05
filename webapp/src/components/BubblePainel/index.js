@@ -172,86 +172,91 @@
 
 import React, { useRef, useEffect } from 'react';
 
-import { Container } from './styles';
+import { Fade } from 'react-reveal';
+
+import { Container, SpanHighlight } from './styles';
 function Bubble() {
   return (
     <>
-      <Container>
-        <h2 id="intro" style={{ textAlign: 'center' }}>
-          Análise da ideologia dos deputados em 2018{' '}
-        </h2>{' '}
-        <p>
-          Para complementar a análise da polarização política para as eleições
-          do poder executivo em 2018, buscamos também mostrar como a polarização
-          da sociedade brasileira se reflete nas bancadas parlamentares na
-          câmara dos deputados. Para tanto, analisamos a distribuição ideológica
-          dos deputados por unidade da federação, em consonância com a análise
-          mostrada anteriormente.{' '}
-        </p>
-        <p>
-          Analisamos a polarização política de deputados federais durante o ano
-          de 2020 baseando-se no total de votos e no percentual de votos totais
-          que estes receberam durante as últimas eleições. Esses dados foram
-          extraídos do site{' '}
-          <a href="https://www.dadosfinos.info/2018/">DadosFinos.info</a> e
-          foram agrupados em duas vertentes: por partidos e por estado de
-          origem.
-        </p>
-        <p>
-          percebe-se que há uma grande concentração de deputados federais
-          oriundos de partidos de centro-direita e extrema direita, evidenciado
-          pelas grandes quantidades de votos que os elegeram, destacando-se
-          desse grupo os deputados Eduardo Bolsonaro (PSL-SP), Capitão Wagner
-          (PROS-CE) e Joice Hasselmann (PSL-SP).
-        </p>
-        <p>
-          Por estado, evidenciam-se as análises anteriores feitas a respeito da
-          polarização regional: os estados do Nordeste apresentam maiores
-          concentrações percentuais de partidos de esquerda, como ocorre no
-          Ceará, onde o PDT acumula 27% dos votos totais do estado, em contraste
-          ao PSL, que acumula apenas 3.54%. Em contrapartida, em Santa Catarina
-          o PSL acumula quase 30% dos votos totais, enquanto o PT, apenas 8%.
-        </p>
-        <p>
-          Com isso, pode-se perceber uma maior influência política de apoiadores
-          do presidente eleito Jair Bolsonaro (PSL-RJ na época) no Congresso,
-          especialmente com o chamado 'Centrão', grupo de partidários que
-          constituem a maioria do plenário e que tem poder para mudar o
-          equilíbrio de forças na Câmara dos Deputados.
-        </p>
-        <iframe
-          width="100%"
-          height="1004"
-          frameBorder="0"
-          overflow="hidden"
-          src="https://observablehq.com/embed/@dhannyell/bubble?cells=viewof+split%2Cchart%2Cviewof+state%2CdonutChart"
-        ></iframe>
-        <div className="row">
-          <div className="column">
-            <img src={'/twitter-polarization/presetation/1.png'} />
+      <Fade>
+        <Container>
+          <h2 id="intro" style={{ textAlign: 'center' }}>
+            Análise da ideologia dos deputados em 2018{' '}
+          </h2>{' '}
+          <p>
+            Para complementar a análise da polarização política para as eleições
+            do poder executivo em 2018, buscamos também mostrar como a
+            polarização da sociedade brasileira se reflete nas bancadas
+            parlamentares na câmara dos deputados. Para tanto, analisamos a
+            distribuição ideológica dos deputados por unidade da federação, em
+            consonância com a análise mostrada anteriormente.{' '}
+          </p>
+          <p>
+            Analisamos a polarização política de deputados federais durante o
+            ano de 2020 baseando-se no total de votos e no percentual de votos
+            totais que estes receberam durante as últimas eleições. Esses dados
+            foram extraídos do site{' '}
+            <a href="https://www.dadosfinos.info/2018/">DadosFinos.info</a> e
+            foram agrupados em duas vertentes: por partidos e por estado de
+            origem.
+          </p>
+          <p>
+            percebe-se que há uma grande concentração de deputados federais
+            oriundos de partidos de centro-direita e extrema direita,
+            evidenciado pelas grandes quantidades de votos que os elegeram,
+            destacando-se desse grupo os deputados Eduardo Bolsonaro (PSL-SP),
+            Capitão Wagner (PROS-CE) e Joice Hasselmann (PSL-SP).
+          </p>
+          <p>
+            Por estado, evidenciam-se as análises anteriores feitas a respeito
+            da polarização regional: os estados do Nordeste apresentam maiores
+            concentrações percentuais de partidos de esquerda, como ocorre no
+            Ceará, onde o PDT acumula 27% dos votos totais do estado, em
+            contraste ao PSL, que acumula apenas 3.54%. Em contrapartida, em
+            Santa Catarina o PSL acumula quase 30% dos votos totais, enquanto o
+            PT, apenas 8%.
+          </p>
+          <p>
+            Com isso, pode-se perceber uma maior influência política de
+            apoiadores do presidente eleito Jair Bolsonaro (PSL-RJ na época) no
+            Congresso, especialmente com o chamado 'Centrão', grupo de
+            partidários que constituem a maioria do plenário e que tem poder
+            para mudar o equilíbrio de forças na Câmara dos Deputados.
+          </p>
+          <iframe
+            width="100%"
+            height="1004"
+            frameBorder="0"
+            overflow="hidden"
+            src="https://observablehq.com/embed/@dhannyell/bubble?cells=viewof+split%2Cchart%2Cviewof+state%2CdonutChart"
+          ></iframe>
+          <div className="row">
+            <div className="column">
+              <img src={'/twitter-polarization/presetation/1.png'} />
+            </div>
+            <div className="column">
+              <img src={'/twitter-polarization/presetation/2.png'} />
+            </div>
           </div>
-          <div className="column">
-            <img src={'/twitter-polarization/presetation/2.png'} />
-          </div>
-        </div>
-        <p>
-          Acima, comparamos a distribuição dos deputados eleitos pelos estados
-          Ceará (CE) e Santa Catarina (SC), de acordo com a ideologia política
-          de cada deputado. Reiteramos que a ideologia de cada deputado foi
-          estabelecida através do seu partido, cuja ideologia foi determinada
-          por meio da análise em <a href="#ref"> [6]</a>. Note que estes dois
-          estados elegeram políticos de forma bastante diferente. Enquanto no
-          ceará foram eleitos predominantemente políticos de esquerda, em SC a
-          predominância é de políticos de direita. No CE, o partido mais forte é
-          o PDT (27%) de orientação de centro-esquerda/esquerda. Em SC, por
-          outro lado, o partido mais forte é o PSL (28%), de orientação de
-          direita/extrema-direita. Isso mostra a discrepância regional da
-          ideologia política brasileira, além de evidenciar que a polarização
-          tem também um caráter regional. Abaixo apresentamos duas visualizações
-          que permitem entender a distribuição de deputados por partido,
-          ideologia e estado.
-        </p>
-      </Container>
+          <p>
+            Acima, comparamos a distribuição dos deputados eleitos pelos estados
+            Ceará (CE) e Santa Catarina (SC), de acordo com a ideologia política
+            de cada deputado. Reiteramos que a ideologia de cada deputado foi
+            estabelecida através do seu partido, cuja ideologia foi determinada
+            por meio da análise em <a href="#ref"> [6]</a>. Note que estes dois
+            estados elegeram políticos de forma bastante diferente. Enquanto no
+            ceará foram eleitos predominantemente políticos de esquerda, em SC a
+            predominância é de políticos de direita. No CE, o partido mais forte
+            é o PDT (27%) de orientação de centro-esquerda/esquerda. Em SC, por
+            outro lado, o partido mais forte é o PSL (28%), de orientação de
+            direita/extrema-direita. Isso mostra a discrepância regional da
+            ideologia política brasileira, além de evidenciar que a{' '}
+            <SpanHighlight>
+              polarização tem também um caráter regional.
+            </SpanHighlight>
+          </p>
+        </Container>
+      </Fade>
     </>
   );
 }

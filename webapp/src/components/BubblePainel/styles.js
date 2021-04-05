@@ -31,4 +31,8 @@ export const Container = styled.div`
   }
 `;
 
-export const Iframebox = styled.div``;
+export const SpanHighlight = styled.span`
+  padding: 2px;
+  font-weight: 600;
+  font-style: italic;
+`;

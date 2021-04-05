@@ -4,7 +4,9 @@ import crossfilter from 'crossfilter2';
 import L from 'leaflet';
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
 import * as dc from 'dc';
-import { GraphSection, FlexContainer } from './styles';
+import { GraphSection, FlexContainer, SpanHighlight } from './styles';
+
+import { Fade } from 'react-reveal';
 
 import geo from '../../assets/brazil_geo.json';
 
@@ -337,116 +339,129 @@ function MapPainel() {
 
   return (
     <>
-      <GraphSection>
-        <h4 style={{ textAlign: 'center' }}>
-          Polarização na Política Brasileira: 2018 - 2021
-        </h4>
-        <p>
-          O presente trabalho busca explorar através de visualização de dados
-          como os agentes políticos têm se polarizado no espectro político
-          direita-esquerda. Para tanto, exploramos três eixos temáticos,
-        </p>
-        <ul>
-          <li>1. Análise das eleições de 2018</li>
-          <li>
-            2. Análise das bancadas da câmara dos deputados, por partido e
-            ideologia
-          </li>
-          <li>
-            3. Análise do comportamento de agentes políticos nas redes sociais
-          </li>
-        </ul>
+      <Fade>
+        <GraphSection>
+          <p style={{ fontWeight: 'bold', textAlign: 'center' }}>
+            “A função do (visualizador de dados) é lembrar à sociedade aquilo
+            que ela quer esquecer”, adaptado de Peter Burke
+          </p>
+          <h4 style={{ textAlign: 'center' }}>
+            Polarização na Política Brasileira: 2018 - 2021
+          </h4>
+          <p>
+            O presente trabalho busca explorar através de visualização de dados
+            como os agentes políticos têm se polarizado no espectro político
+            direita-esquerda. Para tanto, exploramos três eixos temáticos,
+          </p>
+          <ul>
+            <li>1. Análise das eleições de 2018</li>
+            <li>
+              2. Análise das bancadas da câmara dos deputados, por partido e
+              ideologia
+            </li>
+            <li>
+              3. Análise do comportamento de agentes políticos nas redes sociais
+            </li>
+          </ul>
 
-        <h2 style={{ textAlign: 'center' }}>Eleições Presidenciais de 2018</h2>
-        <p>
-          Nesta seção, analisamos a votação ocorrida no segundo turno das
-          eleições presidenciais de 2018. Os dados foram obtidos à partir de
-          <a href="#ref"> [1]</a>, por município, e foram agrupados por estado
-          da federação, incluindo votos no exterior (sigla "zz"). O cenário
-          político de 2018 foi bastante turbulento, e diversos fatores
-          convergiram para a polarização política que culminou na eleição do
-          atual presidente Jair Bolsonaro (sem partido). Entre estes,
-          ressaltamos os seguintes,
-        </p>
+          <h2 style={{ textAlign: 'center' }}>
+            Eleições Presidenciais de 2018
+          </h2>
+          <p>
+            Nesta seção, analisamos a votação ocorrida no segundo turno das
+            eleições presidenciais de 2018. Os dados foram obtidos à partir de
+            <a href="#ref"> [1]</a>, por município, e foram agrupados por estado
+            da federação, incluindo votos no exterior (sigla "zz"). O cenário
+            político de 2018 foi bastante turbulento, e diversos fatores
+            convergiram para a polarização política que culminou na eleição do
+            atual presidente Jair Bolsonaro (sem partido). Entre estes,
+            ressaltamos os seguintes,
+          </p>
 
-        <ul>
-          <li>
-            1. Atuação de um susposto Gabinete do Ódio para a disseminação de
-            fake news em favor do então candidato Jair Bolsonaro{' '}
-            <a href="#ref"> [2]</a>, <a href="#ref"> [3]</a>
-          </li>
-          <li>
-            2. Um cansaço generalizado de boa parte da população brasileira com
-            a proposta política, e com a ideologia representada pelo Partido dos
-            Trabalhadores (PT) <a href="#ref"> [4]</a>.
-          </li>
-        </ul>
-        <p>
-          Os fatores apresentados na lista anterior culminaram num país dividido
-          (como mostrado no mapa abaixo). De um lado, as regiões norte,
-          centro-oeste, sul e sudeste aderiram, em sua maioria, ao programa de
-          governo apresentado por Jair Bolsonaro, enquanto o nordeste permaneceu
-          em sua totalidade com o candidato pelo PT, Fernando Haddad. Em
-          contra-partida à argumentos xenófobos, que visam mostrar um nordeste
-          dependente do assistencialismo herdado pelos governos Lula e Dilma
-          (2002 à 2016), o nordeste tem se mostrado um "Cinturão de Esquerda"
-          <a href="#ref"> [5]</a>. Isso é, sobretudo, refletido pela eleição de
-          governantes de orientação de esquerda na história recente. Para citar
-          alguns: Cid Gomes (PDT-CE), Camilo Santana (PT-CE), Flávio Dino (PCdoB
-          - MA) e Rui Costa (PT-BA).
-        </p>
-        <FlexContainer>
-          <div className="left">
-            <MapContainer
-              className="markercluster-map"
-              center={[-14.4107911, -48.9010266]}
-              zoom={4}
-              zoomControl={false}
-              minZoom={4}
-              maxZoom={4}
-            >
-              {mappingUFMaisVotado && (
-                <GeoJSON
-                  data={geo.features}
-                  style={(feature) => {
-                    let color = '#E8E8E8';
-                    let uf = feature.properties.sigla
-                      .normalize('NFD')
-                      .replace(/[\u0300-\u036f]/g, '')
-                      .toUpperCase();
+          <ul>
+            <li>
+              1. Atuação de um susposto Gabinete do Ódio para a{' '}
+              <SpanHighlight>disseminação de fake news</SpanHighlight> em favor
+              do então candidato Jair Bolsonaro <a href="#ref"> [2]</a>,{' '}
+              <a href="#ref"> [3]</a>
+            </li>
+            <li>
+              2. Um{' '}
+              <SpanHighlight>
+                cansaço generalizado de boa parte da população brasileira
+              </SpanHighlight>
+              com a proposta política, e com a ideologia representada pelo
+              Partido dos Trabalhadores (PT) <a href="#ref"> [4]</a>.
+            </li>
+          </ul>
+          <p>
+            Os fatores apresentados na lista anterior culminaram num país
+            dividido (como mostrado no mapa abaixo). De um lado, as regiões
+            norte, centro-oeste, sul e sudeste aderiram, em sua maioria, ao
+            programa de governo apresentado por Jair Bolsonaro, enquanto o
+            nordeste permaneceu em sua totalidade com o candidato pelo PT,
+            Fernando Haddad. Em contra-partida à argumentos xenófobos, que visam
+            mostrar um nordeste dependente do assistencialismo herdado pelos
+            governos Lula e Dilma (2002 à 2016), o nordeste tem se mostrado um
+            "Cinturão de Esquerda"
+            <a href="#ref"> [5]</a>. Isso é, sobretudo, refletido pela eleição
+            de governantes de orientação de esquerda na história recente. Para
+            citar alguns: Cid Gomes (PDT-CE), Camilo Santana (PT-CE), Flávio
+            Dino (PCdoB - MA) e Rui Costa (PT-BA).
+          </p>
+          <FlexContainer>
+            <div className="left">
+              <MapContainer
+                className="markercluster-map"
+                center={[-14.4107911, -48.9010266]}
+                zoom={4}
+                zoomControl={false}
+                minZoom={4}
+                maxZoom={4}
+              >
+                {mappingUFMaisVotado && (
+                  <GeoJSON
+                    data={geo.features}
+                    style={(feature) => {
+                      let color = '#E8E8E8';
+                      let uf = feature.properties.sigla
+                        .normalize('NFD')
+                        .replace(/[\u0300-\u036f]/g, '')
+                        .toUpperCase();
 
-                    if (mappingUFMaisVotado.get(uf) == 17)
-                      color = scaleBolsonaro(mappingUFVotosBolsonaro.get(uf));
-                    else if (mappingUFMaisVotado.get(uf) == 13)
-                      color = scaleHaddad(mappingUFVotosHaddad.get(uf));
-                    return {
-                      weight: 1,
-                      opacity: 1,
-                      color: 'white',
-                      dashArray: '3',
-                      fillOpacity: 0.6,
-                      fillColor: color,
-                    };
-                  }}
-                  onEachFeature={onEachFeature}
-                />
-              )}
-              <TileLayer
-                url="https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
-                attribution='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>,
+                      if (mappingUFMaisVotado.get(uf) == 17)
+                        color = scaleBolsonaro(mappingUFVotosBolsonaro.get(uf));
+                      else if (mappingUFMaisVotado.get(uf) == 13)
+                        color = scaleHaddad(mappingUFVotosHaddad.get(uf));
+                      return {
+                        weight: 1,
+                        opacity: 1,
+                        color: 'white',
+                        dashArray: '3',
+                        fillOpacity: 0.6,
+                        fillColor: color,
+                      };
+                    }}
+                    onEachFeature={onEachFeature}
+                  />
+                )}
+                <TileLayer
+                  url="https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
+                  attribution='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>,
  Map tiles by &copy; <a href="https://carto.com/attribution">CARTO</a>'
-                maxZoom={18}
-              />
-            </MapContainer>
-          </div>
-          <div className="right">
-            <div id="bar1">
-              <h2 id="barHeader1">Percentual de votos por Estado</h2>
+                  maxZoom={18}
+                />
+              </MapContainer>
             </div>
-            <h2>{layerName}</h2> <div id="bar2"></div>
-          </div>
-        </FlexContainer>
-      </GraphSection>
+            <div className="right">
+              <div id="bar1">
+                <h2 id="barHeader1">Percentual de votos por Estado</h2>
+              </div>
+              <h2>{layerName}</h2> <div id="bar2"></div>
+            </div>
+          </FlexContainer>
+        </GraphSection>
+      </Fade>
     </>
   );
 }
