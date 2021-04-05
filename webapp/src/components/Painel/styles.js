@@ -6,6 +6,19 @@ export const GraphSection = styled.section`
   @media only screen and (max-width: 768px) {
     padding: 4rem 0 4rem;
   }
+
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  .row img {
+    width: 80%;
+  }
 `;
 
 export const Svg = styled.svg``;
@@ -25,6 +38,7 @@ export const Container = styled.div`
   }
 
   .right {
+    padding-left: 3rem;
     padding-top: 9%;
     @media only screen and (max-width: 768px) {
       padding-top: 0;

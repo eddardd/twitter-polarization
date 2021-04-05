@@ -9,8 +9,26 @@ export const GraphSection = styled.section`
 `;
 
 export const Container = styled.div`
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  .row {
+    display: flex;
+  }
+
   iframe {
-    margin: 0px;
-    border: 0px solid white;
+    top: 0;
+    margin: auto;
+    left: 0;
+    border: none;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
   }
 `;
+
+export const Iframebox = styled.div``;
