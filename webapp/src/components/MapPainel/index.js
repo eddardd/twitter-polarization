@@ -338,11 +338,14 @@ function MapPainel() {
   return (
     <>
       <GraphSection>
-        <h5>
+        <h4 style={{ textAlign: 'center' }}>
+          Polarização na Política Brasileira: 2018 - 2021
+        </h4>
+        <p>
           O presente trabalho busca explorar através de visualização de dados
           como os agentes políticos têm se polarizado no espectro político
           direita-esquerda. Para tanto, exploramos três eixos temáticos,
-        </h5>
+        </p>
         <ul>
           <li>Análise das eleições de 2018</li>
           <li>
@@ -358,25 +361,24 @@ function MapPainel() {
         <p>
           Nesta seção, analisamos a votação ocorrida no segundo turno das
           eleições presidenciais de 2018. Os dados foram obtidos à partir de
-          [1], por município, e foram agrupados por estado da federação,
-          incluindo votos no exterior (sigla "zz"). O cenário político de 2018
-          foi bastante turbulento, e diversos fatores convergiram para a
-          polarização política que culminou na eleição do atual presidente Jair
-          Bolsonaro (sem partido). Entre estes, ressaltamos os seguintes,
+          <a href="#ref"> [6]</a>, por município, e foram agrupados por estado
+          da federação, incluindo votos no exterior (sigla "zz"). O cenário
+          político de 2018 foi bastante turbulento, e diversos fatores
+          convergiram para a polarização política que culminou na eleição do
+          atual presidente Jair Bolsonaro (sem partido). Entre estes,
+          ressaltamos os seguintes,
         </p>
 
         <ul>
           <li>
             Atuação de um susposto Gabinete do Ódio para a disseminação de fake
-            news em favor do então candidato Jair Bolsonaro [2], [3], 2. Um
-            cansaço generalizado de boa parte da população brasileira com a
-            proposta política, e com a ideologia representada pelo Partido dos
-            Trabalhadores (PT) [4].
+            news em favor do então candidato Jair Bolsonaro{' '}
+            <a href="#ref"> [7]</a>, <a href="#ref"> [3]</a>
           </li>
           <li>
             Um cansaço generalizado de boa parte da população brasileira com a
             proposta política, e com a ideologia representada pelo Partido dos
-            Trabalhadores (PT)
+            Trabalhadores (PT) <a href="#ref"> [4]</a>.
           </li>
         </ul>
         <p>
@@ -388,10 +390,10 @@ function MapPainel() {
           contra-partida à argumentos xenófobos, que visam mostrar um nordeste
           dependente do assistencialismo herdado pelos governos Lula e Dilma
           (2002 à 2016), o nordeste tem se mostrado um "Cinturão de Esquerda"
-          [5]. Isso é, sobretudo, refletido pela eleição de governantes de
-          orientação de esquerda na história recente. Para citar alguns: Cid
-          Gomes (PDT-CE), Camilo Santana (PT-CE), Flávio Dino (PCdoB - MA) e Rui
-          Costa (PT-BA).
+          <a href="#ref"> [5]</a>. Isso é, sobretudo, refletido pela eleição de
+          governantes de orientação de esquerda na história recente. Para citar
+          alguns: Cid Gomes (PDT-CE), Camilo Santana (PT-CE), Flávio Dino (PCdoB
+          - MA) e Rui Costa (PT-BA).
         </p>
         <FlexContainer>
           <div className="left">

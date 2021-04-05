@@ -38,7 +38,7 @@ const Styles = createGlobalStyle`
         }
     }
 
-    p {
+    p, li {
         color: #343D48;
         font-size: 1.125rem;
     }
