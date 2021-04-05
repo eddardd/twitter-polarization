@@ -10,14 +10,17 @@ const HierarchicalEdge = lazy(() =>
 const MapPainel = lazy(() => import('../../components/MapPainel'));
 const BubblePainel = lazy(() => import('../../components/BubblePainel'));
 
+const TextWrapper = lazy(() => import('../../components/TextWrapper'));
+
 function Home() {
   return (
     <>
       <Hero />
       <Container>
-        <Painel />
+        <TextWrapper />
         <MapPainel />
         <BubblePainel />
+        <Painel />
       </Container>
     </>
   );

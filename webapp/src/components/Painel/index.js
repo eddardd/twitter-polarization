@@ -285,50 +285,110 @@ function Painel() {
   return (
     <>
       {allRetweets.length > 100 ? (
-        <GraphSection>
-          <Container>
-            <div className="left ">
-              <Svg id="hierarchical" preserveAspectRatio="xMidYMid meet"></Svg>
-            </div>
-            <div className="right">
-              <div className="userInfo">
-                <p>Ideologia de quem retuitou @{selectedName}</p>
-                <img
-                  src={`/twitter-polarization/images/${selectedName}.jpg`}
-                  alt={selectedName}
-                />
+        <>
+          <GraphSection>
+            <h2 style={{ textAlign: 'center' }}>
+              Comportamento de Agentes Políticos nas Redes Sociais
+            </h2>
+            <p>
+              Procuramos fazer uma análise do comportamento que diversos agentes
+              políticos apresentam na rede social Twitter. O foco da nossa
+              visualização está na interação entre usuários. Para visualizar
+              essas interações, nós vamos considerar o ato de retweet como uma
+              conexão entre dois usuários. Portanto, nós agrupamos usuários de
+              mesma ideologia política. Note que a definição da ideologia
+              política dos usuários pesquisados segue a ideologia partidária
+              levantada em [1], bem como a análise feita por [2]. Incluímos uma
+              conexão entre personalidades que se reuitaram. Isso nos permite
+              verificar: (i) se os retuites seguem a ideologia política dos
+              agentes políticos, (ii) quais usuários conseguem se comunicar com
+              diferentes ideologias políticas.
+            </p>
+            <h5>Ideologia Política e Retuites</h5>
+            <p>
+              Ao analisarmos os perfis, notamos que usuários à esquerda tendem a
+              retuitar usuários de esquerda, assim como os usuários de direita
+              tendem a retuitar usuários de direita. Exemplos notórios são os
+              perfis do deputado Zeca Dirceu (@zeca_dirceu) e do presidente Jair
+              Bolsonaro (@jairbolsonaro). Enquanto o primeiro só se comunica com
+              usuários de esquerda (portanto, de sua mesma ideologia política),
+              o segundo consegue ainda se comunicar com todo o espectro
+              político, apesar da predominância entre usuários de direita.
+            </p>
+            <div className="row">
+              <div className="column">
+                <img src={'/twitter-polarization/presetation/3.png'} />
               </div>
-              <div className="charts">
-                <BarChart
-                  dimension={ideologyDimension1}
-                  group={ideologyCount1}
-                  x={orientationTypeScale}
-                  xUnits={dc.units.ordinal}
-                  elasticY={true}
-                  elasticX={false}
-                  margins={{ top: 10, right: 20, bottom: 20, left: 30 }}
-                  renderHorizontalGridLines={true}
-                  colors={orientationTypeScale}
-                  colorAccessor={(d) => d.key}
-                />
+              <div className="column">
+                <img src={'/twitter-polarization/presetation/4.png'} />
+              </div>
+            </div>
+            <p>
+              O mesmo não se verifica para usuários de centro. Por exemplo,
+              veículos de informação tem uma maior comunicabilidade entre todo o
+              espectro político, como pode ser visto abaixo nas conexões do
+              perfil @folha, ou mesmo nomes de centro-direita como o perfil
+              @77_frota. Isso reforça dois pontos-chave: (i) a imparcialidade de
+              veículos de imprensa e de jornalistas, e (ii) o fato de que
+              agentes políticos menos radicais tendem a se comunicar com os dois
+              lados do espectro político.
+            </p>
+            <div className="row">
+              <div className="column">
+                <img src={'/twitter-polarization/presetation/5.png'} />
+              </div>
+              <div className="column">
+                <img src={'/twitter-polarization/presetation/6.png'} />
+              </div>
+            </div>
+            <h5>Visualização Iterativa</h5>
+            <Container>
+              <div className="left ">
+                <Svg
+                  id="hierarchical"
+                  preserveAspectRatio="xMidYMid meet"
+                ></Svg>
+              </div>
+              <div className="right">
                 <div className="userInfo">
-                  <p>Ideologia dos retuitados por @{selectedName}</p>
+                  <p>Ideologia de quem retuitou @{selectedName}</p>
+                  <img
+                    src={`/twitter-polarization/images/${selectedName}.jpg`}
+                    alt={selectedName}
+                  />
                 </div>
-                <BarChart
-                  dimension={ideologyDimension2}
-                  group={ideologyCount2}
-                  x={orientationTypeScale}
-                  xUnits={dc.units.ordinal}
-                  elasticY={true}
-                  margin={{ top: 10, right: 20, bottom: 20, left: 30 }}
-                  renderHorizontalGridLines={true}
-                  colors={orientationTypeScale}
-                  colorAccessor={(d) => d.key}
-                />
+                <div className="charts">
+                  <BarChart
+                    dimension={ideologyDimension1}
+                    group={ideologyCount1}
+                    x={orientationTypeScale}
+                    xUnits={dc.units.ordinal}
+                    elasticY={true}
+                    elasticX={false}
+                    margins={{ top: 10, right: 20, bottom: 20, left: 30 }}
+                    renderHorizontalGridLines={true}
+                    colors={orientationTypeScale}
+                    colorAccessor={(d) => d.key}
+                  />
+                  <div className="userInfo">
+                    <p>Ideologia dos retuitados por @{selectedName}</p>
+                  </div>
+                  <BarChart
+                    dimension={ideologyDimension2}
+                    group={ideologyCount2}
+                    x={orientationTypeScale}
+                    xUnits={dc.units.ordinal}
+                    elasticY={true}
+                    margin={{ top: 10, right: 20, bottom: 20, left: 30 }}
+                    renderHorizontalGridLines={true}
+                    colors={orientationTypeScale}
+                    colorAccessor={(d) => d.key}
+                  />
+                </div>
               </div>
-            </div>
-          </Container>
-        </GraphSection>
+            </Container>
+          </GraphSection>
+        </>
       ) : (
         <h1>Loading Data...</h1>
       )}

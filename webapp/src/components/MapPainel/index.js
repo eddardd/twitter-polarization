@@ -338,6 +338,61 @@ function MapPainel() {
   return (
     <>
       <GraphSection>
+        <h5>
+          O presente trabalho busca explorar através de visualização de dados
+          como os agentes políticos têm se polarizado no espectro político
+          direita-esquerda. Para tanto, exploramos três eixos temáticos,
+        </h5>
+        <ul>
+          <li>Análise das eleições de 2018</li>
+          <li>
+            Análise das bancadas da câmara dos deputados, por partido e
+            ideologia
+          </li>
+          <li>
+            Análise do comportamento de agentes políticos nas redes sociais
+          </li>
+        </ul>
+
+        <h2 style={{ textAlign: 'center' }}>Eleições Presidenciais de 2018</h2>
+        <p>
+          Nesta seção, analisamos a votação ocorrida no segundo turno das
+          eleições presidenciais de 2018. Os dados foram obtidos à partir de
+          [1], por município, e foram agrupados por estado da federação,
+          incluindo votos no exterior (sigla "zz"). O cenário político de 2018
+          foi bastante turbulento, e diversos fatores convergiram para a
+          polarização política que culminou na eleição do atual presidente Jair
+          Bolsonaro (sem partido). Entre estes, ressaltamos os seguintes,
+        </p>
+
+        <ul>
+          <li>
+            Atuação de um susposto Gabinete do Ódio para a disseminação de fake
+            news em favor do então candidato Jair Bolsonaro [2], [3], 2. Um
+            cansaço generalizado de boa parte da população brasileira com a
+            proposta política, e com a ideologia representada pelo Partido dos
+            Trabalhadores (PT) [4].
+          </li>
+          <li>
+            Um cansaço generalizado de boa parte da população brasileira com a
+            proposta política, e com a ideologia representada pelo Partido dos
+            Trabalhadores (PT)
+          </li>
+        </ul>
+        <p>
+          Os fatores apresentados na lista anterior culminaram num país dividido
+          (como mostrado no mapa abaixo). De um lado, as regiões norte,
+          centro-oeste, sul e sudeste aderiram, em sua maioria, ao programa de
+          governo apresentado por Jair Bolsonaro, enquanto o nordeste permaneceu
+          em sua totalidade com o candidato pelo PT, Fernando Haddad. Em
+          contra-partida à argumentos xenófobos, que visam mostrar um nordeste
+          dependente do assistencialismo herdado pelos governos Lula e Dilma
+          (2002 à 2016), o nordeste tem se mostrado um "Cinturão de Esquerda"
+          [5]. Isso é, sobretudo, refletido pela eleição de governantes de
+          orientação de esquerda na história recente. Para citar alguns: Cid
+          Gomes (PDT-CE), Camilo Santana (PT-CE), Flávio Dino (PCdoB - MA) e Rui
+          Costa (PT-BA).
+        </p>
         <FlexContainer>
           <div className="left">
             <MapContainer
